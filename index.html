@@ -3,471 +3,219 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-Readable File Repository</title>
-    <meta name="description" content="Machine-readable file repository for AI analysis and ingestion">
-    <meta name="keywords" content="files, repository, AI, machine-readable, analysis">
+    <title>File Repository Index (AI-Readable)</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: sans-serif;
             line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
             color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
         }
-
         .container {
-            max-width: 1200px;
-            margin: 0 auto;
+            max-width: 800px;
+            margin: auto;
             background: white;
-            border-radius: 15px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-        }
-
-        .header {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-            color: white;
-            padding: 40px;
-            text-align: center;
-        }
-
-        .header h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            font-weight: 300;
-        }
-
-        .header p {
-            font-size: 1.1rem;
-            opacity: 0.9;
-        }
-
-        .content {
-            padding: 40px;
-        }
-
-        .api-info {
-            background: #f8f9fa;
-            border: 1px solid #dee2e6;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 30px;
-        }
-
-        .api-info h3 {
-            color: #2c3e50;
-            margin-bottom: 15px;
-        }
-
-        .api-info code {
-            background: #e9ecef;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-family: 'Monaco', 'Menlo', monospace;
-        }
-
-        .search-box {
-            margin-bottom: 30px;
-            position: relative;
-        }
-
-        .search-input {
-            width: 100%;
-            padding: 15px 20px;
-            font-size: 16px;
-            border: 2px solid #e0e0e0;
-            border-radius: 10px;
-            outline: none;
-            transition: all 0.3s ease;
-        }
-
-        .search-input:focus {
-            border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
-        }
-
-        .file-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .file-card {
-            background: white;
-            border: 1px solid #e0e0e0;
-            border-radius: 10px;
-            padding: 20px;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .file-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-            border-color: #667eea;
-        }
-
-        .file-icon {
-            width: 48px;
-            height: 48px;
-            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            padding: 30px;
             border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-bottom: 15px;
-            color: white;
-            font-weight: bold;
-            font-size: 14px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-
-        .file-name {
-            font-size: 16px;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 8px;
-            word-break: break-word;
-        }
-
-        .file-size {
-            font-size: 14px;
-            color: #7f8c8d;
-            margin-bottom: 15px;
-        }
-
-        .file-actions {
-            display: flex;
-            gap: 10px;
-        }
-
-        .btn {
-            padding: 8px 16px;
-            border: none;
-            border-radius: 6px;
-            font-size: 14px;
-            cursor: pointer;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 5px;
-            transition: all 0.3s ease;
-        }
-
-        .btn-primary {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-        }
-
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
-        }
-
-        .btn-secondary {
-            background: #f8f9fa;
-            color: #495057;
-            border: 1px solid #dee2e6;
-        }
-
-        .btn-secondary:hover {
-            background: #e9ecef;
-        }
-
-        .loading {
+        h1 {
+            color: #0056b3;
             text-align: center;
-            padding: 40px;
-            color: #7f8c8d;
+            margin-bottom: 20px;
         }
-
-        .no-files {
-            text-align: center;
-            padding: 60px 20px;
-            color: #7f8c8d;
-        }
-
-        .no-files h3 {
+        p {
             margin-bottom: 10px;
-            color: #2c3e50;
         }
-
-        /* Hidden machine-readable data */
-        .machine-readable {
-            display: none;
+        ul {
+            list-style-type: none;
+            padding: 0;
         }
-
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 2rem;
-            }
-            
-            .content {
-                padding: 20px;
-            }
-            
-            .file-grid {
-                grid-template-columns: 1fr;
-            }
+        li {
+            margin-bottom: 5px;
+            background-color: #e9e9e9;
+            padding: 8px 12px;
+            border-radius: 4px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1>📚 AI-Readable File Repository</h1>
-            <p>Machine-readable file index for AI analysis and ingestion</p>
-        </div>
+        <h1>Repository File Index</h1>
+        <p>This page lists all files in the repository with direct, hardcoded links. This format is designed to be easily scraped and analyzed by AI systems that cannot execute JavaScript.</p>
+        <p>Each link points directly to the raw file content on GitHub. The file names currently reflect the original PDF extensions. You can manually update the extensions in your GitHub repository as needed.</p>
+        <p><strong>Base URL for files:</strong> <code>https://yssnnssy.github.io/e/</code></p>
         
-        <div class="content">
-            <div class="api-info">
-                <h3>🤖 For AI Systems</h3>
-                <p><strong>Repository:</strong> <code>yssnnssy/e</code></p>
-                <p><strong>Base URL:</strong> <code>https://raw.githubusercontent.com/yssnnssy/e/main/</code></p>
-                <p><strong>API Endpoint:</strong> <code>https://api.github.com/repos/yssnnssy/e/git/trees/main?recursive=1</code></p>
-                <p><strong>Total Files:</strong> <span id="fileCount">Loading...</span></p>
-                <p><strong>File Types:</strong> <span id="fileTypes">Loading...</span></p>
-            </div>
-
-            <div class="search-box">
-                <input type="text" class="search-input" placeholder="🔍 Search files..." id="searchInput">
-            </div>
-            
-            <div id="fileList" class="loading">
-                <p>Loading files...</p>
-            </div>
-        </div>
+        <h2>Files:</h2>
+        <ul>
+            <li><a href="https://yssnnssy.github.io/e/a1.pdf">a1.jpg</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a2.pdf">a2.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a3.pdf">a3.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a4.pdf">a4.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a5.pdf">a5.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a6.pdf">a6.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a7.pdf">a7.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a8.pdf">a8.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a9.pdf">a9.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a10.pdf">a10.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a11.pdf">a11.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a12.pdf">a12.djvu</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a13.pdf">a13.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a14.pdf">a14.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a15.pdf">a15.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a16.pdf">a16.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a17.pdf">a17.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a18.pdf">a18.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a19.pdf">a19.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a20.pdf">a20.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a21.pdf">a21.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a22.pdf">a22.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a23.pdf">a23.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a24.pdf">a24.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a25.pdf">a25.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a26.pdf">a26.djvu</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a27.pdf">a27.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a28.pdf">a28.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a29.pdf">a29.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a30.pdf">a30.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a31.pdf">a31.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a32.pdf">a32.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a33.pdf">a33.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a34.pdf">a34.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a35.pdf">a35.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a36.pdf">a36.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a37.pdf">a37.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a38.pdf">a38.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a39.pdf">a39.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a40.pdf">a40.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a41.pdf">a41.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a42.pdf">a42.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a43.pdf">a43.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a44.pdf">a44.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a45.pdf">a45.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a46.pdf">a46.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a47.pdf">a47.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a48.pdf">a48.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a49.pdf">a49.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a50.pdf">a50.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a51.pdf">a51.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a52.pdf">a52.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a53.pdf">a53.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a54.pdf">a54.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a55.pdf">a55.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a56.pdf">a56.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a57.pdf">a57.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a58.pdf">a58.djvu</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a59.pdf">a59.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a60.pdf">a60.gif</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a61.pdf">a61.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a62.pdf">a62.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a63.pdf">a63.doc</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a64.pdf">a64.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a65.pdf">a65.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a66.pdf">a66.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a67.pdf">a67.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a68.pdf">a68.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a69.pdf">a69.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a70.pdf">a70.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a71.pdf">a71.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a72.pdf">a72.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a73.pdf">a73.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a74.pdf">a74.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a75.pdf">a75.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a76.pdf">a76.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a77.pdf">a77.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a78.pdf">a78.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a79.pdf">a79.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a80.pdf">a80.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a81.pdf">a81.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a82.pdf">a82.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a83.pdf">a83.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a84.pdf">a84.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a85.pdf">a85.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a86.pdf">a86.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a87.pdf">a87.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a88.pdf">a88.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a89.pdf">a89.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a90.pdf">a90.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a91.pdf">a91.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a92.pdf">a92.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a93.pdf">a93.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a94.pdf">a94.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a95.pdf">a95.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a96.pdf">a96.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a97.pdf">a97.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a98.pdf">a98.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/a99.pdf">a99.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b1.pdf">b1.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b2.pdf">b2.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b3.pdf">b3.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b4.pdf">b4.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b5.pdf">b5.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b6.pdf">b6.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b7.pdf">b7.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b8.pdf">b8.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b9.pdf">b9.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b10.pdf">b10.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b11.pdf">b11.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b12.pdf">b12.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b13.pdf">b13.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b14.pdf">b14.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b15.pdf">b15.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b16.pdf">b16.gif</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b17.pdf">b17.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b18.pdf">b18.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b19.pdf">b19.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b20.pdf">b20.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b21.pdf">b21.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b22.pdf">b22.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b23.pdf">b23.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b24.pdf">b24.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b25.pdf">b25.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b26.pdf">b26.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b27.pdf">b27.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b28.pdf">b28.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b29.pdf">b29.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b30.pdf">b30.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b31.pdf">b31.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b32.pdf">b32.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b33.pdf">b33.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b34.pdf">b34.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b35.pdf">b35.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b36.pdf">b36.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b37.pdf">b37.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b38.pdf">b38.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b39.pdf">b39.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b40.pdf">b40.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b41.pdf">b41.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b42.pdf">b42.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b43.pdf">b43.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b44.pdf">b44.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b45.pdf">b45.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b46.pdf">b46.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b47.pdf">b47.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b48.pdf">b48.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b49.pdf">b49.srt</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b50.pdf">b50.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b51.pdf">b51.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b52.pdf">b52.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b53.pdf">b53.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b54.pdf">b54.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b55.pdf">b55.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b56.pdf">b56.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b57.pdf">b57.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b58.pdf">b58.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b59.pdf">b59.pdf</a></li>
+            <li><a href="https://yssnnssy.github.io/e/b60.pdf">b60.pdf</a></li>
+        </ul>
     </div>
-
-    <!-- Machine-readable data for AI consumption -->
-    <div class="machine-readable" id="machineReadableData">
-        <script type="application/json" id="fileIndex">
-        {
-            "repository": {
-                "name": "e",
-                "owner": "yssnnssy",
-                "url": "https://github.com/yssnnssy/e",
-                "pages_url": "https://yssnnssy.github.io/e/",
-                "branch": "main"
-            },
-            "files": [],
-            "metadata": {
-                "total_files": 0,
-                "file_types": [],
-                "last_updated": ""
-            },
-            "api_endpoints": {
-                "file_list": "https://api.github.com/repos/yssnnssy/e/git/trees/main?recursive=1",
-                "raw_file_base": "https://raw.githubusercontent.com/yssnnssy/e/main/",
-                "github_api_base": "https://api.github.com/repos/yssnnssy/e"
-            },
-            "instructions_for_ai": {
-                "description": "This repository contains files that can be fetched and analyzed by AI systems",
-                "access_method": "Use the raw GitHub URLs to fetch file contents directly",
-                "rate_limits": "GitHub API has rate limits - 60 requests/hour for unauthenticated, 5000/hour for authenticated",
-                "file_access": "All files are publicly accessible via their raw URLs",
-                "supported_operations": ["fetch", "download", "analyze", "index", "search"]
-            }
-        }
-        </script>
-    </div>
-
-    <script>
-        let allFiles = [];
-
-        function getFileIcon(filename) {
-            const ext = filename.split(".").pop().toLowerCase();
-            switch (ext) {
-                case "pdf": return "PDF";
-                case "jpg":
-                case "jpeg":
-                case "png":
-                case "gif": return "IMG";
-                case "srt": return "SRT";
-                case "txt": return "TXT";
-                case "zip":
-                case "rar": return "ZIP";
-                case "doc":
-                case "docx": return "DOC";
-                case "xls":
-                case "xlsx": return "XLS";
-                case "ppt":
-                case "pptx": return "PPT";
-                case "mp3":
-                case "wav": return "AUD";
-                case "mp4":
-                case "mov": return "VID";
-                default: return "FILE";
-            }
-        }
-
-        function getFileCategory(filename) {
-            const ext = filename.split(".").pop().toLowerCase();
-            switch (ext) {
-                case "pdf":
-                case "doc":
-                case "docx":
-                case "txt": return "document";
-                case "jpg":
-                case "jpeg":
-                case "png":
-                case "gif": return "image";
-                case "srt": return "subtitle";
-                case "mp3":
-                case "wav": return "audio";
-                case "mp4":
-                case "mov": return "video";
-                case "zip":
-                case "rar": return "archive";
-                default: return "other";
-            }
-        }
-
-        function formatFileSize(bytes) {
-            if (bytes === 0) return "0 Bytes";
-            const k = 1024;
-            const sizes = ["Bytes", "KB", "MB", "GB"];
-            const i = Math.floor(Math.log(bytes) / Math.log(k));
-            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + " " + sizes[i];
-        }
-
-        function createFileCard(file) {
-            const fileIcon = getFileIcon(file.name);
-            return `
-                <div class="file-card" 
-                     data-filename="${file.name.toLowerCase()}" 
-                     data-filetype="${fileIcon.toLowerCase()}" 
-                     data-filepath="${file.path}" 
-                     data-filesize="${file.size}"
-                     data-category="${getFileCategory(file.name)}"
-                     data-extension="${file.name.split('.').pop().toLowerCase()}">
-                    <div class="file-icon">${fileIcon}</div>
-                    <div class="file-name">${file.name}</div>
-                    <div class="file-size">${file.size || 'Unknown size'}</div>
-                    <div class="file-actions">
-                        <a href="${file.path}" class="btn btn-primary" target="_blank">
-                            📖 View
-                        </a>
-                        <a href="${file.path}" class="btn btn-secondary" download>
-                            💾 Download
-                        </a>
-                    </div>
-                </div>
-            `;
-        }
-
-        function renderFiles(files) {
-            const fileListContainer = document.getElementById("fileList");
-            
-            if (files.length === 0) {
-                fileListContainer.innerHTML = `
-                    <div class="no-files">
-                        <h3>No files found</h3>
-                        <p>No files matched your search or the repository is empty.</p>
-                    </div>
-                `;
-                return;
-            }
-
-            const fileGrid = files.map(createFileCard).join("");
-            fileListContainer.innerHTML = `<div class="file-grid">${fileGrid}</div>`;
-        }
-
-        function filterFiles(searchTerm) {
-            const filteredFiles = allFiles.filter(file => 
-                file.name.toLowerCase().includes(searchTerm.toLowerCase())
-            );
-            renderFiles(filteredFiles);
-        }
-
-        function updateMachineReadableData(files) {
-            const fileIndexScript = document.getElementById("fileIndex");
-            const data = JSON.parse(fileIndexScript.textContent);
-            
-            data.files = files.map(file => ({
-                name: file.name,
-                type: file.name.split('.').pop().toLowerCase(),
-                url: file.path,
-                download_url: file.path,
-                size: file.size,
-                extension: file.name.split('.').pop().toLowerCase(),
-                category: getFileCategory(file.name)
-            }));
-            
-            data.metadata.total_files = files.length;
-            data.metadata.file_types = [...new Set(files.map(f => f.name.split('.').pop().toLowerCase()))];
-            data.metadata.last_updated = new Date().toISOString();
-            
-            fileIndexScript.textContent = JSON.stringify(data, null, 2);
-            
-            // Update UI counters
-            document.getElementById("fileCount").textContent = files.length;
-            document.getElementById("fileTypes").textContent = data.metadata.file_types.join(", ");
-        }
-
-        async function fetchRepositoryContents() {
-            const username = "yssnnssy";
-            const repo = "e";
-            const branch = "main";
-            const apiUrl = `https://api.github.com/repos/${username}/${repo}/git/trees/${branch}?recursive=1`;
-
-            try {
-                const response = await fetch(apiUrl);
-                if (!response.ok) {
-                    throw new Error(`GitHub API error: ${response.statusText}`);
-                }
-                const data = await response.json();
-                
-                allFiles = data.tree
-                    .filter(item => item.type === "blob" && !item.path.startsWith(".git"))
-                    .map(item => ({
-                        name: item.path.split("/").pop(),
-                        path: `https://raw.githubusercontent.com/${username}/${repo}/${branch}/${item.path}`,
-                        size: item.size ? formatFileSize(item.size) : "Unknown size"
-                    }));
-
-                renderFiles(allFiles);
-                updateMachineReadableData(allFiles);
-            } catch (error) {
-                console.error("Error fetching repository contents:", error);
-                document.getElementById("fileList").innerHTML = `
-                    <div class="no-files">
-                        <h3>Error loading files</h3>
-                        <p>Could not fetch repository contents. Please try again later.</p>
-                        <p>Details: ${error.message}</p>
-                    </div>
-                `;
-            }
-        }
-
-        // Initialize the page
-        document.addEventListener("DOMContentLoaded", function() {
-            fetchRepositoryContents();
-            
-            const searchInput = document.getElementById("searchInput");
-            searchInput.addEventListener("input", function() {
-                filterFiles(this.value);
-            });
-        });
-
-        // Global function for AI systems to access file data
-        window.getFileIndex = function() {
-            const fileIndexScript = document.getElementById("fileIndex");
-            return JSON.parse(fileIndexScript.textContent);
-        };
-
-        // Global function to get all files data
-        window.getAllFiles = function() {
-            return allFiles;
-        };
-    </script>
 </body>
 </html>
