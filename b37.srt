@@ -1,0 +1,4412 @@
+1
+00:00:00,000 --> 00:00:06,990
+a few weeks ago mr. Soros asked me as a
+
+2
+00:00:04,318 --> 00:00:07,528
+preparation for this job I'm doing at
+
+3
+00:00:06,990 --> 00:00:12,120
+the moment
+
+4
+00:00:07,528 --> 00:00:14,519
+to research the intellectual antecedents
+
+5
+00:00:12,119 --> 00:00:16,948
+if any of the notion of reflectivity
+
+6
+00:00:14,519 --> 00:00:19,948
+which was thought about for so many
+
+7
+00:00:16,949 --> 00:00:24,769
+years and is explaining to you today so
+
+8
+00:00:19,949 --> 00:00:28,560
+I said okay I can do that so my first
+
+9
+00:00:24,768 --> 00:00:32,988
+recourse was to go to Wikipedia and
+
+10
+00:00:28,559 --> 00:00:37,349
+well-known resource and I typed in
+
+11
+00:00:32,988 --> 00:00:41,488
+self-fulfilling prophecy first and page
+
+12
+00:00:37,350 --> 00:00:43,859
+came up and I started to read it and the
+
+13
+00:00:41,488 --> 00:00:46,140
+first thing that's noted in the in that
+
+14
+00:00:43,859 --> 00:00:49,530
+entry was that the man called Robert K
+
+15
+00:00:46,140 --> 00:00:53,280
+Merton a sociologist invented the phrase
+
+16
+00:00:49,530 --> 00:00:55,020
+self-fulfilling prophecy which
+
+17
+00:00:53,280 --> 00:00:58,049
+apparently derives from the Thomas
+
+18
+00:00:55,020 --> 00:01:00,930
+theorem which states that quote if men
+
+19
+00:00:58,049 --> 00:01:04,558
+define situations as real they are real
+
+20
+00:01:00,929 --> 00:01:07,709
+in their consequences so a reading
+
+21
+00:01:04,558 --> 00:01:10,259
+through this entry first of all I came
+
+22
+00:01:07,709 --> 00:01:12,209
+across the quote from Robert Merton
+
+23
+00:01:10,260 --> 00:01:16,830
+himself and he was discussing the case
+
+24
+00:01:12,209 --> 00:01:18,959
+of a bank run caused by a crisis of
+
+25
+00:01:16,829 --> 00:01:21,629
+confidence in the solvency of the bank
+
+26
+00:01:18,959 --> 00:01:24,658
+so Merton concludes the example by
+
+27
+00:01:21,629 --> 00:01:26,329
+saying quote the parable tells us that
+
+28
+00:01:24,659 --> 00:01:29,490
+public definitions of a situation
+
+29
+00:01:26,329 --> 00:01:31,978
+prophecies or predictions become an
+
+30
+00:01:29,489 --> 00:01:34,890
+integral part of the situation and thus
+
+31
+00:01:31,978 --> 00:01:37,769
+affect subsequent developments this is
+
+32
+00:01:34,890 --> 00:01:39,719
+peculiar to human affairs it is not
+
+33
+00:01:37,769 --> 00:01:42,719
+found in the world of nature untouched
+
+34
+00:01:39,719 --> 00:01:45,090
+by human hands predictions of the return
+
+35
+00:01:42,719 --> 00:01:48,269
+of Halley's Comet not influence its
+
+36
+00:01:45,090 --> 00:01:50,609
+orbit but the rumored insolvency of
+
+37
+00:01:48,269 --> 00:01:53,219
+milling wheels Bank did affect the
+
+38
+00:01:50,609 --> 00:01:55,728
+actual outcome the prophecy of collapse
+
+39
+00:01:53,219 --> 00:01:58,109
+led to its own fulfillment
+
+40
+00:01:55,728 --> 00:02:01,228
+that's mertens explanation of his
+
+41
+00:01:58,109 --> 00:02:05,539
+concept of a self-fulfilling prophecy as
+
+42
+00:02:01,228 --> 00:02:08,038
+I read through very soon we have a quote
+
+43
+00:02:05,540 --> 00:02:10,679
+preceded by philosopher Karl Popper
+
+44
+00:02:08,038 --> 00:02:12,099
+called the self-fulfilling prophecy the
+
+45
+00:02:10,679 --> 00:02:14,849
+Oedipus effect
+
+46
+00:02:12,099 --> 00:02:18,729
+this is a quote from poppers
+
+47
+00:02:14,849 --> 00:02:20,560
+autobiography unending quest he says one
+
+48
+00:02:18,729 --> 00:02:23,019
+of the ideas I discussed in the poverty
+
+49
+00:02:20,560 --> 00:02:25,530
+of historicism was the influence of a
+
+50
+00:02:23,020 --> 00:02:27,670
+prediction upon the event predicted I
+
+51
+00:02:25,530 --> 00:02:29,860
+called this the heed abyss effect
+
+52
+00:02:27,669 --> 00:02:32,129
+because the Oracle play the most
+
+53
+00:02:29,860 --> 00:02:34,360
+important role in the sequence of events
+
+54
+00:02:32,129 --> 00:02:37,479
+which led to the fulfillment of its
+
+55
+00:02:34,360 --> 00:02:38,880
+prophecy for a time I thought that the
+
+56
+00:02:37,479 --> 00:02:40,689
+existence of the Oedipus effect
+
+57
+00:02:38,879 --> 00:02:44,709
+distinguished the social from the
+
+58
+00:02:40,689 --> 00:02:46,560
+natural sciences as to say the influence
+
+59
+00:02:44,709 --> 00:02:49,209
+of a prediction upon the event predicted
+
+60
+00:02:46,560 --> 00:02:51,640
+but in biology too he goes on even in
+
+61
+00:02:49,209 --> 00:02:54,099
+molecular biology expectations often
+
+62
+00:02:51,639 --> 00:02:55,569
+play a role in bringing about what has
+
+63
+00:02:54,099 --> 00:02:57,189
+been expected he doesn't actually
+
+64
+00:02:55,569 --> 00:02:59,289
+explain why he thinks that in molecular
+
+65
+00:02:57,189 --> 00:03:00,759
+biology and on the face of it it sounds
+
+66
+00:02:59,289 --> 00:03:04,419
+implausible in any case that's what he
+
+67
+00:03:00,759 --> 00:03:06,129
+says so having read Wikipedia then I had
+
+68
+00:03:04,419 --> 00:03:09,039
+a look at the poverty of historicism I
+
+69
+00:03:06,129 --> 00:03:12,579
+obtained the book and looked up the
+
+70
+00:03:09,039 --> 00:03:14,500
+Oedipus effect in the index so I'm going
+
+71
+00:03:12,580 --> 00:03:17,380
+to read you a few passages from the
+
+72
+00:03:14,500 --> 00:03:20,620
+crucial four or five pages so you will
+
+73
+00:03:17,379 --> 00:03:23,019
+have an idea pointers so as to lay mr.
+
+74
+00:03:20,620 --> 00:03:25,420
+cirrhosis idea of leisure activity out
+
+75
+00:03:23,019 --> 00:03:27,670
+in somebody else's words and then I'm
+
+76
+00:03:25,419 --> 00:03:30,039
+going to invite him to comment on how he
+
+77
+00:03:27,669 --> 00:03:33,099
+sees the notion which he has developed
+
+78
+00:03:30,039 --> 00:03:35,949
+in relation to these earlier ideas of
+
+79
+00:03:33,099 --> 00:03:39,039
+what sound to be similar ideas and I
+
+80
+00:03:35,949 --> 00:03:41,139
+must say I was quite struck by a Papa's
+
+81
+00:03:39,039 --> 00:03:43,150
+formulation of the idea so here's what
+
+82
+00:03:41,139 --> 00:03:44,559
+popper says in poverty of historicism
+
+83
+00:03:43,150 --> 00:03:46,450
+which I think came out sometime in the
+
+84
+00:03:44,560 --> 00:03:48,129
+1940s so quite a long time ago and
+
+85
+00:03:46,449 --> 00:03:50,949
+Robert Merton was writing around the
+
+86
+00:03:48,129 --> 00:03:52,289
+same time I so page 11
+
+87
+00:03:50,949 --> 00:03:55,329
+underneath under the heading
+
+88
+00:03:52,289 --> 00:03:57,039
+inexactitude of prediction the idea that
+
+89
+00:03:55,330 --> 00:03:59,709
+the prediction may have influence upon
+
+90
+00:03:57,039 --> 00:04:01,269
+the predicted event is a very old one he
+
+91
+00:03:59,709 --> 00:04:03,700
+posted in the legend killed his father
+
+92
+00:04:01,269 --> 00:04:05,289
+whom he had never seen before this was
+
+93
+00:04:03,699 --> 00:04:06,789
+the direct result of the prophecy which
+
+94
+00:04:05,289 --> 00:04:09,310
+had caused his father to abandon him
+
+95
+00:04:06,789 --> 00:04:11,289
+this is why I call I suggest the name
+
+96
+00:04:09,310 --> 00:04:13,659
+Oedipus effect the influence of the
+
+97
+00:04:11,289 --> 00:04:15,429
+prediction upon the predicted event or
+
+98
+00:04:13,659 --> 00:04:17,680
+more generally for the influence of an
+
+99
+00:04:15,430 --> 00:04:19,900
+item of information from the situation
+
+100
+00:04:17,680 --> 00:04:21,049
+to which the information refers whether
+
+101
+00:04:19,899 --> 00:04:22,818
+this influence
+
+102
+00:04:21,048 --> 00:04:25,908
+tends to bring about the predicted event
+
+103
+00:04:22,819 --> 00:04:28,460
+or whether it tends to prevent it he
+
+104
+00:04:25,908 --> 00:04:30,680
+calls it the intimus effect I think it
+
+105
+00:04:28,459 --> 00:04:32,750
+might be more aptly called the Macbeth
+
+106
+00:04:30,680 --> 00:04:35,360
+effect because of course as you remember
+
+107
+00:04:32,750 --> 00:04:40,908
+in that play the witch's prediction of
+
+108
+00:04:35,360 --> 00:04:42,348
+Macbeth's murder of the king is partly
+
+109
+00:04:40,908 --> 00:04:43,699
+at least what brings about the murder of
+
+110
+00:04:42,348 --> 00:04:45,199
+the king and many other things happening
+
+111
+00:04:43,699 --> 00:04:47,658
+in that story so we have a case of the
+
+112
+00:04:45,199 --> 00:04:51,050
+prediction influencing the course of
+
+113
+00:04:47,658 --> 00:04:54,860
+events so that's the first formulation a
+
+114
+00:04:51,050 --> 00:04:56,509
+little bit further at page 12 he says we
+
+115
+00:04:54,860 --> 00:04:58,669
+a fit is under the heading object
+
+116
+00:04:56,509 --> 00:05:00,439
+objectivity and valuation we are faced
+
+117
+00:04:58,668 --> 00:05:02,598
+with we are faced in the social sciences
+
+118
+00:05:00,439 --> 00:05:05,240
+with a full and complicated interaction
+
+119
+00:05:02,598 --> 00:05:07,788
+between observer and observed between
+
+120
+00:05:05,240 --> 00:05:09,319
+subject and object the awareness of the
+
+121
+00:05:07,788 --> 00:05:11,389
+existence of tendencies which might
+
+122
+00:05:09,319 --> 00:05:13,340
+produce a future event and furthermore
+
+123
+00:05:11,389 --> 00:05:15,139
+the awareness that the prediction might
+
+124
+00:05:13,339 --> 00:05:16,728
+itself and exert an influence on events
+
+125
+00:05:15,139 --> 00:05:18,228
+predicted it likely to have
+
+126
+00:05:16,728 --> 00:05:20,598
+repercussions on the content of the
+
+127
+00:05:18,228 --> 00:05:22,490
+prediction and the repercussions might
+
+128
+00:05:20,598 --> 00:05:24,228
+be of such a kind of gravely to impair
+
+129
+00:05:22,490 --> 00:05:26,120
+the objectivity of the predictions and
+
+130
+00:05:24,228 --> 00:05:29,269
+the weather results of research in the
+
+131
+00:05:26,120 --> 00:05:31,129
+social sciences a prediction is a social
+
+132
+00:05:29,269 --> 00:05:33,168
+happening which may interact with other
+
+133
+00:05:31,129 --> 00:05:35,569
+social happenings and among them with
+
+134
+00:05:33,168 --> 00:05:37,310
+the one which it predicts it may as we
+
+135
+00:05:35,569 --> 00:05:39,348
+have seen helped to precipitate this
+
+136
+00:05:37,310 --> 00:05:41,930
+event but it's easy to see that it may
+
+137
+00:05:39,348 --> 00:05:44,089
+also influence it it in other ways it
+
+138
+00:05:41,930 --> 00:05:46,699
+may in an extreme case even coarsely
+
+139
+00:05:44,089 --> 00:05:48,468
+happening it predicts the happening
+
+140
+00:05:46,699 --> 00:05:50,870
+might not have occurred at all if it had
+
+141
+00:05:48,468 --> 00:05:53,329
+not been predicted at the other extreme
+
+142
+00:05:50,870 --> 00:05:55,399
+the prediction of an impending event may
+
+143
+00:05:53,329 --> 00:05:57,378
+lead to its prevention so that by
+
+144
+00:05:55,399 --> 00:05:59,568
+deliberately or negligently abstaining
+
+145
+00:05:57,379 --> 00:06:01,819
+from predicting it the social scientist
+
+146
+00:05:59,569 --> 00:06:03,528
+it may be said could bring it about of
+
+147
+00:06:01,819 --> 00:06:05,419
+course it to happen there will clearly
+
+148
+00:06:03,528 --> 00:06:07,728
+be many intermediate cases between these
+
+149
+00:06:05,418 --> 00:06:09,079
+two extremes the action of predicting
+
+150
+00:06:07,728 --> 00:06:11,718
+something and that of abstaining from
+
+151
+00:06:09,079 --> 00:06:16,250
+prediction might both have all sorts of
+
+152
+00:06:11,718 --> 00:06:21,528
+consequences final brief quote the
+
+153
+00:06:16,250 --> 00:06:23,509
+interaction pronouncements and the sort
+
+154
+00:06:21,528 --> 00:06:25,759
+and social life almost invariably
+
+155
+00:06:23,509 --> 00:06:27,288
+creates situations which we have not
+
+156
+00:06:25,759 --> 00:06:29,389
+only to consider the truth of such
+
+157
+00:06:27,288 --> 00:06:30,069
+pronouncements but also their actual
+
+158
+00:06:29,389 --> 00:06:32,620
+influence
+
+159
+00:06:30,069 --> 00:06:34,899
+developments the social scientist may be
+
+160
+00:06:32,620 --> 00:06:37,480
+striving to find the truth but at the
+
+161
+00:06:34,899 --> 00:06:40,089
+same time he must always be exerting a
+
+162
+00:06:37,480 --> 00:06:41,890
+definite influence upon society the very
+
+163
+00:06:40,089 --> 00:06:45,699
+fact that his pronouncements do exert an
+
+164
+00:06:41,889 --> 00:06:47,139
+influence destroys their objectivity so
+
+165
+00:06:45,699 --> 00:06:49,599
+these ideas certainly sounds very much
+
+166
+00:06:47,139 --> 00:06:51,909
+in the same and same ballpark as we say
+
+167
+00:06:49,600 --> 00:06:54,330
+as mr. Soros his ideas so the first
+
+168
+00:06:51,910 --> 00:06:56,230
+thing I'll do before we turn to
+
+169
+00:06:54,329 --> 00:06:59,439
+questions from the audience is him
+
+170
+00:06:56,230 --> 00:07:02,140
+invite terms to saw us to to comment on
+
+171
+00:06:59,439 --> 00:07:03,879
+on this and how he sees the concept of
+
+172
+00:07:02,139 --> 00:07:09,240
+reflectivity that he's explained today
+
+173
+00:07:03,879 --> 00:07:17,040
+in relation to these earlier ideas again
+
+174
+00:07:09,240 --> 00:07:23,079
+first of all I think popper spoke mainly
+
+175
+00:07:17,040 --> 00:07:25,180
+reflexivity of social theories whereas I
+
+176
+00:07:23,079 --> 00:07:30,519
+emphasize the reflectivity of the
+
+177
+00:07:25,180 --> 00:07:34,030
+subject matter recognizers of course
+
+178
+00:07:30,519 --> 00:07:36,159
+also the reflectivity of social theories
+
+179
+00:07:34,029 --> 00:07:41,339
+but more important is that the
+
+180
+00:07:36,160 --> 00:07:50,700
+participants are engaged in reflexive
+
+181
+00:07:41,339 --> 00:07:52,119
+phenomena and of course sociology has
+
+182
+00:07:50,699 --> 00:07:55,120
+recognized
+
+183
+00:07:52,120 --> 00:07:58,629
+reflexivity as a social phenomenon and
+
+184
+00:07:55,120 --> 00:08:03,840
+Merton was definitely the path breaker
+
+185
+00:07:58,629 --> 00:08:08,639
+with the bandwagon effect and Andy and
+
+186
+00:08:03,839 --> 00:08:13,029
+self-fulfilling prophecies but economics
+
+187
+00:08:08,639 --> 00:08:15,279
+has gone out of its way to eliminate the
+
+188
+00:08:13,029 --> 00:08:18,819
+reflectivity from the subject matter and
+
+189
+00:08:15,279 --> 00:08:21,279
+we have paid a very heavy price account
+
+190
+00:08:18,819 --> 00:08:25,599
+you know amounting to trillions of
+
+191
+00:08:21,279 --> 00:08:29,409
+dollars for that little mistake so
+
+192
+00:08:25,600 --> 00:08:33,009
+that's I would say is the different the
+
+193
+00:08:29,410 --> 00:08:36,490
+other thing that I would point out that
+
+194
+00:08:33,009 --> 00:08:39,720
+this reflectivity as a phenomenon hasn't
+
+195
+00:08:36,490 --> 00:08:40,840
+been analyzed the way for instance
+
+196
+00:08:39,720 --> 00:08:43,600
+self-reference
+
+197
+00:08:40,840 --> 00:08:47,110
+with Bertrand Russell and Freya and so
+
+198
+00:08:43,600 --> 00:08:48,879
+on then I got onto reflectivity by
+
+199
+00:08:47,110 --> 00:08:51,820
+reading about self reference and
+
+200
+00:08:48,879 --> 00:08:56,200
+apparent paradox of the liar that's what
+
+201
+00:08:51,820 --> 00:08:59,070
+led beyond but then I discovered that it
+
+202
+00:08:56,200 --> 00:09:03,670
+is really a much more pervasive
+
+203
+00:08:59,070 --> 00:09:08,290
+phenomenon so I would say that's those
+
+204
+00:09:03,669 --> 00:09:10,269
+are the major differences and and you
+
+205
+00:09:08,289 --> 00:09:14,879
+know I I then broke down
+
+206
+00:09:10,269 --> 00:09:18,129
+reflexivity into the cognitive and
+
+207
+00:09:14,879 --> 00:09:22,240
+manipulative functions and argued that
+
+208
+00:09:18,129 --> 00:09:26,639
+the two functions interfere with each
+
+209
+00:09:22,240 --> 00:09:30,190
+other creating an element of uncertainty
+
+210
+00:09:26,639 --> 00:09:32,379
+which is a characteristic of human
+
+211
+00:09:30,190 --> 00:09:35,560
+affairs of course it's not the only one
+
+212
+00:09:32,379 --> 00:09:38,350
+and when it comes to uncertainty again
+
+213
+00:09:35,559 --> 00:09:43,479
+economic theory has gone overboard
+
+214
+00:09:38,350 --> 00:09:46,300
+trying to eliminate uncertainty but
+
+215
+00:09:43,480 --> 00:09:47,950
+there are of course very valuable
+
+216
+00:09:46,299 --> 00:09:51,429
+antecedents that I would quote
+
+217
+00:09:47,950 --> 00:09:56,110
+particularly night ninety and
+
+218
+00:09:51,429 --> 00:10:00,069
+uncertainty which is basically what I am
+
+219
+00:09:56,110 --> 00:10:01,840
+harping on also I mean one thing you
+
+220
+00:10:00,070 --> 00:10:04,240
+didn't mention there worth mentioning I
+
+221
+00:10:01,840 --> 00:10:06,790
+think is now the popper no Merton saw
+
+222
+00:10:04,240 --> 00:10:09,340
+the application of reflexivity to the
+
+223
+00:10:06,789 --> 00:10:11,079
+behavior of financial markets since you
+
+224
+00:10:09,340 --> 00:10:13,420
+were a participant in financial markets
+
+225
+00:10:11,080 --> 00:10:15,910
+you applied it to there to that area
+
+226
+00:10:13,419 --> 00:10:18,099
+where it of course applies particularly
+
+227
+00:10:15,909 --> 00:10:21,610
+was spectacularly well right now there
+
+228
+00:10:18,100 --> 00:10:24,930
+which enables you to to understand okay
+
+229
+00:10:21,610 --> 00:10:30,909
+only know the particular irony is that
+
+230
+00:10:24,929 --> 00:10:36,569
+Robert Merton son got a Nobel price for
+
+231
+00:10:30,909 --> 00:10:36,569
+devising formula which ignored reflexive
+
+232
+00:10:37,169 --> 00:10:43,259
+okay now my my job is to throw the the
+
+233
+00:10:41,710 --> 00:10:44,550
+floor open to our
+
+234
+00:10:43,259 --> 00:10:48,029
+ensign was supposed to take questions
+
+235
+00:10:44,549 --> 00:10:50,099
+first from the remote audience at the
+
+236
+00:10:48,029 --> 00:10:51,809
+London School of Economics first like
+
+237
+00:10:50,100 --> 00:10:56,250
+three questions from them before we move
+
+238
+00:10:51,809 --> 00:10:59,399
+to people here and let me say before
+
+239
+00:10:56,250 --> 00:11:02,370
+getting questions from the LSE that I
+
+240
+00:10:59,399 --> 00:11:04,799
+would implore questioners to first of
+
+241
+00:11:02,370 --> 00:11:08,009
+all identify themselves by name and
+
+242
+00:11:04,799 --> 00:11:10,379
+affiliation then to make their questions
+
+243
+00:11:08,009 --> 00:11:12,899
+concise and to speak as clearly as
+
+244
+00:11:10,379 --> 00:11:15,179
+possible cuz we're hearing them here and
+
+245
+00:11:12,899 --> 00:11:18,899
+to make their questions questions not
+
+246
+00:11:15,179 --> 00:11:21,089
+speeches so a question to mr. Soros
+
+247
+00:11:18,899 --> 00:11:22,590
+concisely stated and clearly articulated
+
+248
+00:11:21,090 --> 00:11:28,170
+would be greatly appreciated with that I
+
+249
+00:11:22,590 --> 00:11:37,530
+open the floor to the élysée now we wait
+
+250
+00:11:28,169 --> 00:11:42,569
+for moderator in London - can you hear
+
+251
+00:11:37,529 --> 00:11:46,259
+us yes hello George we very much enjoyed
+
+252
+00:11:42,570 --> 00:11:49,110
+your lecture and we have actually three
+
+253
+00:11:46,259 --> 00:11:52,259
+I hope for questions if we can fit it in
+
+254
+00:11:49,110 --> 00:11:55,680
+in ten minutes so I'm going to hand it
+
+255
+00:11:52,259 --> 00:11:58,850
+over to the first path we hello my name
+
+256
+00:11:55,679 --> 00:12:01,588
+is Zachary myself we leave
+
+257
+00:11:58,850 --> 00:12:03,870
+but a master student and international
+
+258
+00:12:01,589 --> 00:12:05,820
+political economy Jared Elysee I was
+
+259
+00:12:03,870 --> 00:12:07,919
+interested in how a third party could
+
+260
+00:12:05,820 --> 00:12:10,170
+become aware of a reflexive relationship
+
+261
+00:12:07,919 --> 00:12:12,000
+and how they could sort of interact in
+
+262
+00:12:10,169 --> 00:12:13,439
+order to gain from the information they
+
+263
+00:12:12,000 --> 00:12:16,259
+learn about the existence of that
+
+264
+00:12:13,440 --> 00:12:18,630
+relationship and an applied example of
+
+265
+00:12:16,259 --> 00:12:20,819
+that with our applied question would be
+
+266
+00:12:18,629 --> 00:12:23,278
+how would a government become aware of a
+
+267
+00:12:20,820 --> 00:12:25,589
+positive reflexive relationship and
+
+268
+00:12:23,278 --> 00:12:27,360
+intervene in financial markets in order
+
+269
+00:12:25,589 --> 00:12:31,640
+to dampen the boom-bust cycle that
+
+270
+00:12:27,360 --> 00:12:35,970
+results as a consequence of reflexivity
+
+271
+00:12:31,639 --> 00:12:41,309
+okay I have some fortunately difficulty
+
+272
+00:12:35,970 --> 00:12:44,129
+hearing it can't can Mary perhaps you
+
+273
+00:12:41,309 --> 00:12:46,349
+could just repeat the question because I
+
+274
+00:12:44,129 --> 00:12:52,759
+have difficulty hearing it I could hear
+
+275
+00:12:46,350 --> 00:12:52,759
+it yeah what could you repeat a mission
+
+276
+00:12:54,620 --> 00:13:00,179
+in a reflexive relationship and in
+
+277
+00:12:57,720 --> 00:13:02,879
+particular the role of a government
+
+278
+00:13:00,179 --> 00:13:06,208
+could the government identify a
+
+279
+00:13:02,879 --> 00:13:08,278
+reflexive participation a reflexive
+
+280
+00:13:06,208 --> 00:13:13,949
+relationship that in fact be reflexive
+
+281
+00:13:08,278 --> 00:13:21,929
+itself in order to dampen down boom-bust
+
+282
+00:13:13,950 --> 00:13:27,930
+cycles did you hear that Daniel can you
+
+283
+00:13:21,929 --> 00:13:30,299
+hear me only just nothing I'm making it
+
+284
+00:13:27,929 --> 00:13:34,879
+simpler and simpler he put it very well
+
+285
+00:13:30,299 --> 00:13:37,809
+how can a third party influence a
+
+286
+00:13:34,879 --> 00:13:44,289
+two-party reflexive relation
+
+287
+00:13:37,809 --> 00:13:49,768
+and how can a government intervene using
+
+288
+00:13:44,289 --> 00:13:54,120
+your theory to stop a boom-bust cycle
+
+289
+00:13:49,769 --> 00:14:00,159
+did you hear that how can government
+
+290
+00:13:54,120 --> 00:14:04,198
+agency industry well of course this
+
+291
+00:14:00,159 --> 00:14:08,100
+question leads up to tomorrow's lecture
+
+292
+00:14:04,198 --> 00:14:14,588
+that's exactly what I will discuss
+
+293
+00:14:08,100 --> 00:14:20,740
+tomorrow but let me just preface it
+
+294
+00:14:14,589 --> 00:14:24,639
+perhaps but by saying that regulators
+
+295
+00:14:20,740 --> 00:14:30,009
+and government and financial authorities
+
+296
+00:14:24,639 --> 00:14:34,269
+also are subject to the same limits of
+
+297
+00:14:30,009 --> 00:14:39,120
+phal ability as market participants so
+
+298
+00:14:34,269 --> 00:14:42,220
+you have a constant interplay between
+
+299
+00:14:39,120 --> 00:14:47,230
+regulators and market participants but
+
+300
+00:14:42,220 --> 00:14:49,990
+both sides operate with imperfect
+
+301
+00:14:47,230 --> 00:14:53,829
+understanding and that's what makes the
+
+302
+00:14:49,990 --> 00:14:57,419
+process is so interesting but I will
+
+303
+00:14:53,828 --> 00:14:57,419
+deal with that more tomorrow
+
+304
+00:15:00,440 --> 00:15:05,490
+fortunately we're not going to hear you
+
+305
+00:15:02,519 --> 00:15:08,759
+tomorrow but perhaps we can tell us when
+
+306
+00:15:05,490 --> 00:15:12,690
+you next come to Elysee I'm handing over
+
+307
+00:15:08,759 --> 00:15:14,129
+to the next question hi thank you for
+
+308
+00:15:12,690 --> 00:15:18,240
+sharing your insights today my name is
+
+309
+00:15:14,129 --> 00:15:20,279
+jawad katya and i am a part-time finance
+
+310
+00:15:18,240 --> 00:15:23,399
+student masters and a full-time
+
+311
+00:15:20,279 --> 00:15:26,009
+proprietary trader and my question to
+
+312
+00:15:23,399 --> 00:15:28,559
+you is you talked a little bit about how
+
+313
+00:15:26,009 --> 00:15:31,049
+your general theory relates to trend
+
+314
+00:15:28,559 --> 00:15:33,899
+following and charting in general and
+
+315
+00:15:31,049 --> 00:15:36,389
+how much you may have or may not have
+
+316
+00:15:33,899 --> 00:15:40,039
+used these sorts of strategies in their
+
+317
+00:15:36,389 --> 00:15:43,889
+own trading thank you well again
+
+318
+00:15:40,039 --> 00:15:45,569
+obviously being at the School of
+
+319
+00:15:43,889 --> 00:15:50,029
+Economics you are particularly
+
+320
+00:15:45,570 --> 00:15:59,400
+interested in financial markets and and
+
+321
+00:15:50,029 --> 00:16:06,259
+that's again ten following I could
+
+322
+00:15:59,399 --> 00:16:12,959
+answer in general terms that actually
+
+323
+00:16:06,259 --> 00:16:16,259
+trends tend to validate themselves - for
+
+324
+00:16:12,960 --> 00:16:22,730
+an extended period and therefore trend
+
+325
+00:16:16,259 --> 00:16:26,909
+following is very often a valid strategy
+
+326
+00:16:22,730 --> 00:16:29,940
+which contradicts let's say the the
+
+327
+00:16:26,909 --> 00:16:35,689
+prevailing paradigm of efficient market
+
+328
+00:16:29,940 --> 00:16:35,690
+and rational expectations however
+
+329
+00:16:36,049 --> 00:16:39,049
+reality
+
+330
+00:16:39,619 --> 00:16:49,798
+may not fulfill the expectations that
+
+331
+00:16:45,869 --> 00:16:54,749
+are involved in that trend and then you
+
+332
+00:16:49,798 --> 00:16:57,058
+you you reach a point where the trend is
+
+333
+00:16:54,749 --> 00:17:01,100
+reversed and you don't want to be a
+
+334
+00:16:57,058 --> 00:17:01,100
+trend follower at that time
+
+335
+00:17:05,959 --> 00:17:13,100
+third question hi I'm corner hi Johnny
+
+336
+00:17:11,538 --> 00:17:16,669
+and I'm an undergraduate student
+
+337
+00:17:13,099 --> 00:17:19,398
+studying social policy my question to
+
+338
+00:17:16,669 --> 00:17:21,770
+you is how do you feel about the fact
+
+339
+00:17:19,398 --> 00:17:24,558
+that Adam Smith is known to be the
+
+340
+00:17:21,769 --> 00:17:27,078
+father of economics for his theories on
+
+341
+00:17:24,558 --> 00:17:29,960
+the invisible hand when market
+
+342
+00:17:27,078 --> 00:17:34,730
+fundamentalism is an economic policy you
+
+343
+00:17:29,960 --> 00:17:37,370
+criticize the most thank you again I
+
+344
+00:17:34,730 --> 00:17:39,470
+didn't understand that passion I think
+
+345
+00:17:37,369 --> 00:17:41,719
+the question was how do you feel about
+
+346
+00:17:39,470 --> 00:17:45,440
+Adam Smith as the father of economics
+
+347
+00:17:41,720 --> 00:17:48,460
+and the inventor of the invisible hand
+
+348
+00:17:45,440 --> 00:17:53,058
+in light of your theory of reflexivity
+
+349
+00:17:48,460 --> 00:18:03,950
+well you know Adam Smith wrote two books
+
+350
+00:17:53,058 --> 00:18:06,500
+I haven't read either of them and I am a
+
+351
+00:18:03,950 --> 00:18:14,480
+critical of the invisible hand actually
+
+352
+00:18:06,500 --> 00:18:22,159
+it it markers actually perform a very
+
+353
+00:18:14,480 --> 00:18:29,149
+valuable function but they only are
+
+354
+00:18:22,159 --> 00:18:33,700
+designed to allow individuals to fulfill
+
+355
+00:18:29,148 --> 00:18:38,629
+their individual needs and there are
+
+356
+00:18:33,700 --> 00:18:43,009
+social issues like for instance a
+
+357
+00:18:38,630 --> 00:18:48,640
+regulation of markets that markets are
+
+358
+00:18:43,009 --> 00:18:52,009
+not designed to to solve or to deal with
+
+359
+00:18:48,640 --> 00:18:56,778
+so behind the invisible hand of the
+
+360
+00:18:52,009 --> 00:19:00,859
+market there is hidden the visible hand
+
+361
+00:18:56,778 --> 00:19:04,429
+of politics and that visible hand is
+
+362
+00:19:00,859 --> 00:19:09,079
+deliberately obscured by market
+
+363
+00:19:04,429 --> 00:19:15,980
+fundamentalists who extol the virtues of
+
+364
+00:19:09,079 --> 00:19:18,000
+the markets forgetting or of obfuscating
+
+365
+00:19:15,980 --> 00:19:21,210
+the fact
+
+366
+00:19:18,000 --> 00:19:27,839
+that behind the market mechanism there
+
+367
+00:19:21,210 --> 00:19:32,600
+are political decisions that are then
+
+368
+00:19:27,839 --> 00:19:36,750
+determining how markets function I will
+
+369
+00:19:32,599 --> 00:19:39,869
+again you are anticipating actually this
+
+370
+00:19:36,750 --> 00:19:43,259
+happens to be the fourth lecture where I
+
+371
+00:19:39,869 --> 00:19:47,159
+will talk about market values and and
+
+372
+00:19:43,259 --> 00:19:50,910
+social values and the conflict between
+
+373
+00:19:47,160 --> 00:19:55,730
+capitalism and open society but I'm
+
+374
+00:19:50,910 --> 00:19:58,890
+happy to anticipate that that subject
+
+375
+00:19:55,730 --> 00:20:01,950
+I'm surprised that nobody from the LSE
+
+376
+00:19:58,890 --> 00:20:04,560
+wants to ask a question of mr. Soros
+
+377
+00:20:01,950 --> 00:20:06,029
+about Papa's philosophy versus his
+
+378
+00:20:04,559 --> 00:20:07,679
+philosophy because after all this is
+
+379
+00:20:06,029 --> 00:20:09,720
+where Karl Popper was a professor but
+
+380
+00:20:07,680 --> 00:20:12,060
+there are no questions about the
+
+381
+00:20:09,720 --> 00:20:14,730
+philosophical content of what mr. Soros
+
+382
+00:20:12,059 --> 00:20:16,649
+said in relation to to Papa but maybe
+
+383
+00:20:14,730 --> 00:20:18,420
+later we can come back to LSE but I
+
+384
+00:20:16,650 --> 00:20:22,009
+think now I will throw the questions
+
+385
+00:20:18,420 --> 00:20:24,600
+open to the audience present before us
+
+386
+00:20:22,009 --> 00:20:29,549
+so anybody with hands up and then we
+
+387
+00:20:24,599 --> 00:20:31,500
+proceed yes and I think you need to get
+
+388
+00:20:29,549 --> 00:20:39,269
+a microphone from somebody unless I
+
+389
+00:20:31,500 --> 00:20:43,380
+don't know was be happy I would like to
+
+390
+00:20:39,269 --> 00:20:48,629
+know what's the effect the role of an
+
+391
+00:20:43,380 --> 00:20:54,930
+educator in society as in the perfect
+
+392
+00:20:48,630 --> 00:20:59,040
+CVT effect for one side a high educated
+
+393
+00:20:54,930 --> 00:21:06,660
+a society each person has a bigger
+
+394
+00:20:59,039 --> 00:21:10,500
+effect but another side and educated the
+
+395
+00:21:06,660 --> 00:21:13,640
+society is more rational and perhaps a
+
+396
+00:21:10,500 --> 00:21:19,289
+more rational society the reflexivity
+
+397
+00:21:13,640 --> 00:21:26,009
+effect is is more anyway what's the role
+
+398
+00:21:19,289 --> 00:21:29,039
+of education of a society to have a
+
+399
+00:21:26,009 --> 00:21:38,579
+bigger or smaller
+
+400
+00:21:29,039 --> 00:21:42,279
+detractor well Christopher market is is
+
+401
+00:21:38,579 --> 00:21:45,309
+from Brazil and he was Minister of
+
+402
+00:21:42,279 --> 00:21:51,480
+Education and he introduced he
+
+403
+00:21:45,309 --> 00:21:57,069
+introduced ball sized koala which is
+
+404
+00:21:51,480 --> 00:21:59,529
+actually a payment to poor families to
+
+405
+00:21:57,069 --> 00:22:02,139
+allow their children to attend school
+
+406
+00:21:59,529 --> 00:22:04,930
+and I think it was it's a wonderful
+
+407
+00:22:02,140 --> 00:22:11,530
+scheme and has made it big difference in
+
+408
+00:22:04,930 --> 00:22:16,060
+Brazil and it has been imitated in other
+
+409
+00:22:11,529 --> 00:22:18,430
+countries not notably Mexico and I'm
+
+410
+00:22:16,059 --> 00:22:22,539
+actually a great supporter of that
+
+411
+00:22:18,430 --> 00:22:28,390
+scheme we introduced a variant of it in
+
+412
+00:22:22,539 --> 00:22:31,359
+New York about which I am not so not so
+
+413
+00:22:28,390 --> 00:22:40,870
+entirely happy but I'm supporting it
+
+414
+00:22:31,359 --> 00:22:47,579
+also and obviously education is a most
+
+415
+00:22:40,869 --> 00:22:47,579
+important for for an open society and
+
+416
+00:22:48,240 --> 00:23:02,140
+the altogether I think that if people
+
+417
+00:22:56,140 --> 00:23:07,180
+citizens would understand the
+
+418
+00:23:02,140 --> 00:23:09,730
+limitations of our ability to deal with
+
+419
+00:23:07,180 --> 00:23:15,220
+social problems if they understood
+
+420
+00:23:09,730 --> 00:23:20,890
+refractivity actually we could deal with
+
+421
+00:23:15,220 --> 00:23:25,230
+our social problems better so most of my
+
+422
+00:23:20,890 --> 00:23:31,390
+philosophy has a kind of a negative
+
+423
+00:23:25,230 --> 00:23:33,910
+thing or to it namely imperfect
+
+424
+00:23:31,390 --> 00:23:38,490
+understanding and and
+
+425
+00:23:33,910 --> 00:23:45,610
+and fallibilities there's all sound very
+
+426
+00:23:38,490 --> 00:23:50,230
+bad but in effect if you if you
+
+427
+00:23:45,609 --> 00:23:58,049
+understand it and and if you are in a
+
+428
+00:23:50,230 --> 00:23:58,049
+better position to improve your policies
+
+429
+00:23:58,200 --> 00:24:10,049
+perfection it can be the bane of of
+
+430
+00:24:02,980 --> 00:24:15,880
+social reform in the French Revolution
+
+431
+00:24:10,049 --> 00:24:25,569
+people believing in reason engaged in
+
+432
+00:24:15,880 --> 00:24:28,870
+terror the various ideologies which
+
+433
+00:24:25,569 --> 00:24:32,759
+claim to be in possession of the
+
+434
+00:24:28,869 --> 00:24:39,129
+ultimate truth it could be only imposed
+
+435
+00:24:32,759 --> 00:24:43,839
+by force so I think if we understand our
+
+436
+00:24:39,130 --> 00:24:49,230
+limitations and you return it around and
+
+437
+00:24:43,839 --> 00:24:54,129
+and what is imperfect can be improved so
+
+438
+00:24:49,230 --> 00:24:56,500
+we are in a way fortunate at that with
+
+439
+00:24:54,130 --> 00:25:02,170
+our fail ability because that leaves
+
+440
+00:24:56,500 --> 00:25:05,259
+infinite scope for for improvement we
+
+441
+00:25:02,170 --> 00:25:09,370
+won't solve all our problems we leave
+
+442
+00:25:05,259 --> 00:25:11,799
+some for the next generations to come so
+
+443
+00:25:09,369 --> 00:25:15,250
+some education should teach uncertainty
+
+444
+00:25:11,799 --> 00:25:20,559
+of the dogma right and I've been arguing
+
+445
+00:25:15,250 --> 00:25:23,980
+also that we ought to pass from the age
+
+446
+00:25:20,559 --> 00:25:27,339
+of reason to the age of faith ability
+
+447
+00:25:23,980 --> 00:25:32,470
+that it's a less a an achievement of
+
+448
+00:25:27,339 --> 00:25:33,480
+reason to understand fail ability okay
+
+449
+00:25:32,470 --> 00:25:37,529
+who's next
+
+450
+00:25:33,480 --> 00:25:37,529
+yes gentlemen middle level
+
+451
+00:25:43,339 --> 00:25:48,599
+better wait for ya thank you hello I'm
+
+452
+00:25:46,859 --> 00:25:51,599
+Robert Oracle from Mexico
+
+453
+00:25:48,599 --> 00:25:54,719
+I studied MBA in the CEO Business School
+
+454
+00:25:51,599 --> 00:25:58,589
+my question is well it's been said that
+
+455
+00:25:54,720 --> 00:26:00,839
+the 20th century was the physics century
+
+456
+00:25:58,589 --> 00:26:05,009
+and what and well this century will be
+
+457
+00:26:00,839 --> 00:26:09,808
+the biology century will be the biology
+
+458
+00:26:05,009 --> 00:26:16,019
+biology and biology and there is a
+
+459
+00:26:09,808 --> 00:26:18,599
+hypothesis that telling us that all the
+
+460
+00:26:16,019 --> 00:26:21,649
+sciences will come closer together do
+
+461
+00:26:18,599 --> 00:26:25,109
+you think this threatened threatens your
+
+462
+00:26:21,648 --> 00:26:29,428
+your own hypothesis or your own proposal
+
+463
+00:26:25,109 --> 00:26:33,778
+that we should separate the social
+
+464
+00:26:29,429 --> 00:26:35,730
+sciences from the Natural Sciences well
+
+465
+00:26:33,778 --> 00:26:37,409
+I think this question is if you didn't
+
+466
+00:26:35,730 --> 00:26:39,298
+say much about biology did allude to it
+
+467
+00:26:37,409 --> 00:26:41,009
+at one point because you have the
+
+468
+00:26:39,298 --> 00:26:43,048
+separation between the social sciences
+
+469
+00:26:41,009 --> 00:26:44,399
+and the Natural Sciences is bringing up
+
+470
+00:26:43,048 --> 00:26:47,128
+the point that biology is becoming
+
+471
+00:26:44,398 --> 00:26:49,199
+central and so he was wondering where
+
+472
+00:26:47,128 --> 00:26:51,418
+the biology threatens the dichotomy that
+
+473
+00:26:49,200 --> 00:26:53,788
+you have because it seems to involve
+
+474
+00:26:51,419 --> 00:26:55,620
+Sasa studying the social insects for
+
+475
+00:26:53,788 --> 00:26:56,878
+example to write that kind of issue I
+
+476
+00:26:55,619 --> 00:27:00,569
+think that's what it was yeah no
+
+477
+00:26:56,878 --> 00:27:05,569
+actually one of the one of the questions
+
+478
+00:27:00,569 --> 00:27:11,210
+that I struggle with is how does
+
+479
+00:27:05,569 --> 00:27:15,628
+reflectivity relate to complexity
+
+480
+00:27:11,210 --> 00:27:19,679
+because that's it evolutionary Systems
+
+481
+00:27:15,628 --> 00:27:23,069
+Theory has great similarities with
+
+482
+00:27:19,679 --> 00:27:29,309
+reflectivity in the sense that it does
+
+483
+00:27:23,069 --> 00:27:35,779
+not have a determinate outcome and it
+
+484
+00:27:29,308 --> 00:27:42,240
+evolves and I think that the
+
+485
+00:27:35,779 --> 00:27:47,579
+the two are in a way quite close to each
+
+486
+00:27:42,240 --> 00:27:50,819
+other in the sense that systems
+
+487
+00:27:47,579 --> 00:27:55,879
+evolutionary Systems Theory network
+
+488
+00:27:50,819 --> 00:28:00,899
+theory has relevance to human society
+
+489
+00:27:55,880 --> 00:28:03,750
+which is also a kind of network so
+
+490
+00:28:00,900 --> 00:28:08,009
+that's a general rules about network
+
+491
+00:28:03,750 --> 00:28:10,440
+theory apply to actually to financial
+
+492
+00:28:08,009 --> 00:28:11,129
+markets to banks because banks were
+
+493
+00:28:10,440 --> 00:28:17,539
+networks
+
+494
+00:28:11,130 --> 00:28:21,630
+and you had contagion destroying the
+
+495
+00:28:17,539 --> 00:28:26,579
+financial system similar to to a viral
+
+496
+00:28:21,630 --> 00:28:30,410
+attack so let's say epidemiology has a
+
+497
+00:28:26,579 --> 00:28:33,779
+relevance and which we ignored and which
+
+498
+00:28:30,410 --> 00:28:37,080
+which people are now aware of and we are
+
+499
+00:28:33,779 --> 00:28:40,490
+now looking at the at at those issues so
+
+500
+00:28:37,079 --> 00:28:47,149
+there are things to be learnt from
+
+501
+00:28:40,490 --> 00:28:50,970
+biology and and and other networks
+
+502
+00:28:47,150 --> 00:28:54,769
+however I think reflexivity which has
+
+503
+00:28:50,970 --> 00:28:58,460
+which has to do with the specific
+
+504
+00:28:54,769 --> 00:29:04,429
+relationship between thinking and
+
+505
+00:28:58,460 --> 00:29:07,640
+reality that's a specifically human
+
+506
+00:29:04,429 --> 00:29:12,890
+characteristic there is it applies to
+
+507
+00:29:07,640 --> 00:29:16,470
+human societies it may apply to whales
+
+508
+00:29:12,890 --> 00:29:19,320
+because whales seem to be able to
+
+509
+00:29:16,470 --> 00:29:22,740
+communicate and there are some evidence
+
+510
+00:29:19,319 --> 00:29:27,139
+that actually pretty pretty elaborate
+
+511
+00:29:22,740 --> 00:29:31,319
+societies but so I'm not I don't want to
+
+512
+00:29:27,140 --> 00:29:34,130
+delimit it purely to human society but
+
+513
+00:29:31,319 --> 00:29:38,869
+even there we probably
+
+514
+00:29:34,130 --> 00:29:41,390
+more and more relevant the content of
+
+515
+00:29:38,869 --> 00:29:43,609
+our thinking is probably more relevant
+
+516
+00:29:41,390 --> 00:29:47,120
+to our problems that the thinking of
+
+517
+00:29:43,609 --> 00:29:50,529
+Wales is is to our problems so that's
+
+518
+00:29:47,119 --> 00:29:55,279
+why I think reflexivity throws light on
+
+519
+00:29:50,529 --> 00:30:00,019
+the human condition and that's how I see
+
+520
+00:29:55,279 --> 00:30:02,059
+the the to relate to each other and
+
+521
+00:30:00,019 --> 00:30:03,740
+presumably our primate ancestors will
+
+522
+00:30:02,059 --> 00:30:05,389
+have reflexive relations well they've
+
+523
+00:30:03,740 --> 00:30:07,880
+won one of the things another is about
+
+524
+00:30:05,390 --> 00:30:10,700
+to take over their place as the other if
+
+525
+00:30:07,880 --> 00:30:12,980
+I described if I described marriage as a
+
+526
+00:30:10,700 --> 00:30:23,779
+reflexive relationship then certainly
+
+527
+00:30:12,980 --> 00:30:25,490
+monkeys would qualify for okay thank you
+
+528
+00:30:23,779 --> 00:30:28,700
+very much my name is Fernando shmita and
+
+529
+00:30:25,490 --> 00:30:31,549
+ambassador of Chile I see a lot of South
+
+530
+00:30:28,700 --> 00:30:33,140
+American people here well my question is
+
+531
+00:30:31,549 --> 00:30:37,089
+very simple can you elaborate a little
+
+532
+00:30:33,140 --> 00:30:43,240
+bit more on reflexivity reflexivity and
+
+533
+00:30:37,089 --> 00:30:49,039
+emotions well certainly
+
+534
+00:30:43,240 --> 00:30:52,430
+first of all reason and emotion are in
+
+535
+00:30:49,039 --> 00:30:59,000
+act inescapably connected that's one of
+
+536
+00:30:52,430 --> 00:31:04,960
+the discoveries of brain science which
+
+537
+00:30:59,000 --> 00:31:08,869
+confirms humans contention so so this
+
+538
+00:31:04,960 --> 00:31:18,410
+concept of the disembodied intellect was
+
+539
+00:31:08,869 --> 00:31:22,189
+a I think is currently superseded but it
+
+540
+00:31:18,410 --> 00:31:28,600
+isn't purely emotion that kind of
+
+541
+00:31:22,190 --> 00:31:35,980
+interferes with reason they're on our
+
+542
+00:31:28,599 --> 00:31:40,250
+rational problems in reflexive
+
+543
+00:31:35,980 --> 00:31:43,509
+situations so for instance because of
+
+544
+00:31:40,250 --> 00:31:47,200
+this force
+
+545
+00:31:43,509 --> 00:31:50,890
+dichotomy between reason and emotion and
+
+546
+00:31:47,200 --> 00:31:55,140
+his concept of disembodied intellect and
+
+547
+00:31:50,890 --> 00:32:01,480
+rational behavior Alan Greenspan
+
+548
+00:31:55,140 --> 00:32:10,300
+described bubbles the specifically the
+
+549
+00:32:01,480 --> 00:32:14,140
+the IT of all the the technology bubble
+
+550
+00:32:10,299 --> 00:32:19,059
+as irrational exuberance his famous
+
+551
+00:32:14,140 --> 00:32:26,020
+words that he applied in 1996 well it
+
+552
+00:32:19,059 --> 00:32:29,169
+missed describes bubbles because if I as
+
+553
+00:32:26,019 --> 00:32:35,829
+a market participant see a bubble coming
+
+554
+00:32:29,170 --> 00:32:38,820
+I buy because that's the profitable
+
+555
+00:32:35,829 --> 00:32:43,299
+thing the rational thing to do and that
+
+556
+00:32:38,819 --> 00:32:48,639
+creates bubbles so you can't rely on
+
+557
+00:32:43,299 --> 00:32:51,970
+markets to prevent asset bubbles from
+
+558
+00:32:48,640 --> 00:32:56,470
+forming and therefore he was wrong to
+
+559
+00:32:51,970 --> 00:33:03,029
+describe it as irrational and in fact
+
+560
+00:32:56,470 --> 00:33:06,700
+you can't account on rational behavior
+
+561
+00:33:03,029 --> 00:33:09,639
+preventing bubbles so that's a problem
+
+562
+00:33:06,700 --> 00:33:12,840
+that needs to be solved and actually
+
+563
+00:33:09,640 --> 00:33:16,960
+requires the regulators to accept
+
+564
+00:33:12,839 --> 00:33:21,599
+responsibility for preventing asset
+
+565
+00:33:16,960 --> 00:33:24,759
+bubbles from growing too large so a
+
+566
+00:33:21,599 --> 00:33:27,819
+misinterpretation of what bubbles are or
+
+567
+00:33:24,759 --> 00:33:32,170
+how financial markets operate lead to
+
+568
+00:33:27,819 --> 00:33:34,059
+the wrong policies so emotions may be
+
+569
+00:33:32,170 --> 00:33:36,670
+involved in the Flexi situation but it's
+
+570
+00:33:34,059 --> 00:33:39,369
+not necessarily it's not emotion it's
+
+571
+00:33:36,670 --> 00:33:42,370
+not because it's fear and greed it's in
+
+572
+00:33:39,369 --> 00:33:46,989
+the nature as I will try to explain
+
+573
+00:33:42,369 --> 00:33:49,149
+tomorrow why and how it is in the nature
+
+574
+00:33:46,990 --> 00:33:54,099
+of financial markets that they are
+
+575
+00:33:49,150 --> 00:34:04,509
+bubble prone not equilibrium bound
+
+576
+00:33:54,099 --> 00:34:07,459
+okay who's next gentleman front row oh I
+
+577
+00:34:04,509 --> 00:34:09,858
+miss you student and a mistress today
+
+578
+00:34:07,460 --> 00:34:12,409
+what is the secret of your financial
+
+579
+00:34:09,858 --> 00:34:16,329
+success in reflect of your family story
+
+580
+00:34:12,409 --> 00:34:19,250
+thank you sorry
+
+581
+00:34:16,329 --> 00:34:26,569
+goodnight bit what is my to come up and
+
+582
+00:34:19,250 --> 00:34:29,719
+maybe can you say it again what is the
+
+583
+00:34:26,570 --> 00:34:33,530
+secret of your financial success in
+
+584
+00:34:29,719 --> 00:34:39,858
+reflect of your family story thank you
+
+585
+00:34:33,530 --> 00:34:46,269
+I would say that recognizing that I may
+
+586
+00:34:39,858 --> 00:34:46,269
+be wrong as simple as that
+
+587
+00:34:49,329 --> 00:34:53,798
+shall we move to the gentleman here yes
+
+588
+00:34:55,568 --> 00:35:09,769
+delighted to see you I speak into this
+
+589
+00:35:06,519 --> 00:35:12,139
+should we conclude that there are no
+
+590
+00:35:09,769 --> 00:35:16,579
+real lessons from history but only
+
+591
+00:35:12,139 --> 00:35:18,889
+subjective interpretations no I know I
+
+592
+00:35:16,579 --> 00:35:21,318
+don't know how you reach that conclusion
+
+593
+00:35:18,889 --> 00:35:28,038
+from what I said because it cannot be
+
+594
+00:35:21,318 --> 00:35:31,900
+tested about but about I was arguing
+
+595
+00:35:28,039 --> 00:35:37,309
+that the methods of natural science as
+
+596
+00:35:31,900 --> 00:35:41,059
+described so elegantly by offer to not
+
+597
+00:35:37,309 --> 00:35:43,130
+apply to the study of history it doesn't
+
+598
+00:35:41,059 --> 00:35:45,829
+mean that we cannot study history that
+
+599
+00:35:43,130 --> 00:35:53,559
+you cannot learn lessons that we can't
+
+600
+00:35:45,829 --> 00:35:59,470
+make reasonable contingent predictions
+
+601
+00:35:53,559 --> 00:36:05,589
+but not by this methods which produce
+
+602
+00:35:59,469 --> 00:36:09,980
+timelessly valid universally valid laws
+
+603
+00:36:05,588 --> 00:36:14,269
+history is one direction it's not
+
+604
+00:36:09,980 --> 00:36:17,510
+timeless it's time bound and when you
+
+605
+00:36:14,269 --> 00:36:21,588
+start with that then you need different
+
+606
+00:36:17,510 --> 00:36:25,490
+methods for studying historical
+
+607
+00:36:21,588 --> 00:36:28,900
+processes and I will argue in subsequent
+
+608
+00:36:25,489 --> 00:36:31,909
+lectures that economic theory as such
+
+609
+00:36:28,900 --> 00:36:35,599
+takes the wrong approach because it
+
+610
+00:36:31,909 --> 00:36:40,489
+looks for these universally valid laws
+
+611
+00:36:35,599 --> 00:36:44,450
+like if you have in physics whereas you
+
+612
+00:36:40,489 --> 00:36:46,219
+really need to study markets in the
+
+613
+00:36:44,449 --> 00:36:50,179
+financial markets and financial
+
+614
+00:36:46,219 --> 00:36:55,189
+processes in a context and you have to
+
+615
+00:36:50,179 --> 00:36:57,139
+recognize that conditions change and and
+
+616
+00:36:55,190 --> 00:37:04,519
+actually don't
+
+617
+00:36:57,139 --> 00:37:13,098
+repeat themselves maybe in the middle
+
+618
+00:37:04,518 --> 00:37:14,899
+there I need a good way for the mic my
+
+619
+00:37:13,099 --> 00:37:16,460
+name is catalina akash and i'm a
+
+620
+00:37:14,900 --> 00:37:19,700
+professor of philosophy here at the
+
+621
+00:37:16,460 --> 00:37:22,730
+Central European University my question
+
+622
+00:37:19,699 --> 00:37:25,778
+is related exactly to this last point
+
+623
+00:37:22,730 --> 00:37:29,719
+that you made as you emphasize that
+
+624
+00:37:25,778 --> 00:37:31,730
+poppers theory of falsification was an
+
+625
+00:37:29,719 --> 00:37:34,429
+explanation of how science can be both
+
+626
+00:37:31,730 --> 00:37:37,369
+empirical and rational because we have
+
+627
+00:37:34,429 --> 00:37:40,068
+the universal laws we create a test
+
+628
+00:37:37,369 --> 00:37:43,369
+situation and if there is a falsifying
+
+629
+00:37:40,068 --> 00:37:46,730
+instance we can give up the law and they
+
+630
+00:37:43,369 --> 00:37:48,650
+on the basis of what you said we cannot
+
+631
+00:37:46,730 --> 00:37:51,199
+apply the same apparatus in these social
+
+632
+00:37:48,650 --> 00:37:54,139
+sciences because we cannot aim to have
+
+633
+00:37:51,199 --> 00:37:56,719
+universal laws so I was wondering how do
+
+634
+00:37:54,139 --> 00:37:59,328
+you think we can hold up social sciences
+
+635
+00:37:56,719 --> 00:38:04,239
+to the requirements of being rational
+
+636
+00:37:59,329 --> 00:38:09,140
+and empirical you see I think that
+
+637
+00:38:04,239 --> 00:38:14,419
+social science can produce universally
+
+638
+00:38:09,139 --> 00:38:20,028
+valid laws but those laws don't
+
+639
+00:38:14,420 --> 00:38:23,960
+determine the course of events so for
+
+640
+00:38:20,028 --> 00:38:26,960
+instance I think I put forward the human
+
+641
+00:38:23,960 --> 00:38:31,970
+uncertainty principle as a universally
+
+642
+00:38:26,960 --> 00:38:35,298
+valid hypothesis and I believe it is
+
+643
+00:38:31,969 --> 00:38:39,649
+actually universally valid but by its
+
+644
+00:38:35,298 --> 00:38:45,139
+very nature it doesn't determine it
+
+645
+00:38:39,650 --> 00:38:49,630
+cannot determine how markets whether
+
+646
+00:38:45,139 --> 00:38:56,859
+that's if financial markets or or
+
+647
+00:38:49,630 --> 00:38:58,390
+or history is going to evolve in other
+
+648
+00:38:56,860 --> 00:39:06,880
+words human behavior is unpredictable
+
+649
+00:38:58,389 --> 00:39:09,659
+and that's the law yes yes yes but there
+
+650
+00:39:06,880 --> 00:39:13,090
+are actually some for instance
+
+651
+00:39:09,659 --> 00:39:16,029
+statistical generalizations I mean I I
+
+652
+00:39:13,090 --> 00:39:19,150
+will distinguish between near
+
+653
+00:39:16,030 --> 00:39:21,970
+equilibrium conditions and far from
+
+654
+00:39:19,150 --> 00:39:24,490
+equilibrium conditions and it is in the
+
+655
+00:39:21,969 --> 00:39:28,509
+nature near equilibrium conditions that
+
+656
+00:39:24,489 --> 00:39:31,989
+you can make statistical generalizations
+
+657
+00:39:28,510 --> 00:39:34,660
+and you can calculate risk on that basis
+
+658
+00:39:31,989 --> 00:39:38,169
+however in far from equilibrium
+
+659
+00:39:34,659 --> 00:39:43,259
+conditions that particular method is
+
+660
+00:39:38,170 --> 00:39:46,630
+going to and lend you in difficulties
+
+661
+00:39:43,260 --> 00:39:49,330
+because those things that apply in near
+
+662
+00:39:46,630 --> 00:39:51,400
+equilibrium don't apply and far from
+
+663
+00:39:49,329 --> 00:39:57,969
+equilibrium condition that's another
+
+664
+00:39:51,400 --> 00:40:01,349
+generalization here is the question from
+
+665
+00:39:57,969 --> 00:40:04,539
+this side even microphone over here yeah
+
+666
+00:40:01,349 --> 00:40:06,299
+no that's okay there's a yeah Julia sort
+
+667
+00:40:04,539 --> 00:40:10,389
+of our Economics Department see you
+
+668
+00:40:06,300 --> 00:40:12,880
+first question mr. surage is your
+
+669
+00:40:10,389 --> 00:40:15,069
+opinion or understanding of popper
+
+670
+00:40:12,880 --> 00:40:18,340
+changing as time goes by
+
+671
+00:40:15,070 --> 00:40:20,800
+are you more critical or more supportive
+
+672
+00:40:18,340 --> 00:40:24,039
+now as you were let's say in the 50s you
+
+673
+00:40:20,800 --> 00:40:26,680
+mentioned during your student years and
+
+674
+00:40:24,039 --> 00:40:30,039
+second question is that let me answer
+
+675
+00:40:26,679 --> 00:40:33,669
+that because I forget advocated by my
+
+676
+00:40:30,039 --> 00:40:36,219
+opinion of popper is evolving I have
+
+677
+00:40:33,670 --> 00:40:38,590
+become more critical of him as time went
+
+678
+00:40:36,219 --> 00:40:47,108
+on and of course he's not around to
+
+679
+00:40:38,590 --> 00:40:49,999
+defend himself which is but also
+
+680
+00:40:47,108 --> 00:40:52,159
+actually in preparing these lectures I
+
+681
+00:40:49,998 --> 00:40:55,879
+went a little too far in criticizing
+
+682
+00:40:52,159 --> 00:40:59,239
+popper and then I had to revise it
+
+683
+00:40:55,880 --> 00:41:02,709
+because because he actually for instance
+
+684
+00:40:59,239 --> 00:41:07,298
+and did recognize reflexivity
+
+685
+00:41:02,708 --> 00:41:11,239
+he only applied it to social sciences
+
+686
+00:41:07,298 --> 00:41:14,150
+but if pressed he would he would
+
+687
+00:41:11,239 --> 00:41:18,170
+certainly agree that it also applies
+
+688
+00:41:14,150 --> 00:41:24,920
+even with greater force to two
+
+689
+00:41:18,170 --> 00:41:30,979
+participants so but as you will hear in
+
+690
+00:41:24,920 --> 00:41:41,829
+subsequent lectures he took it for
+
+691
+00:41:30,978 --> 00:41:45,169
+granted that the purpose of thinking of
+
+692
+00:41:41,829 --> 00:41:48,439
+discourse is to get closer to the truth
+
+693
+00:41:45,170 --> 00:41:50,469
+and that's a false assumption it's a
+
+694
+00:41:48,438 --> 00:41:54,228
+it's what I call the Enlightenment
+
+695
+00:41:50,469 --> 00:41:59,150
+fallacy and and I of course he was a
+
+696
+00:41:54,228 --> 00:42:02,118
+critic of many of the excessive claims
+
+697
+00:41:59,150 --> 00:42:07,729
+for reason and nevertheless he and me
+
+698
+00:42:02,119 --> 00:42:13,039
+too fell into that trap and it has
+
+699
+00:42:07,728 --> 00:42:15,739
+forced me to modify my concept of open
+
+700
+00:42:13,039 --> 00:42:19,519
+society which I had adopted from him
+
+701
+00:42:15,739 --> 00:42:22,338
+these the second question oh we
+
+702
+00:42:19,518 --> 00:42:26,028
+understand that your critical position
+
+703
+00:42:22,338 --> 00:42:28,429
+towards the mainstream which basically
+
+704
+00:42:26,028 --> 00:42:31,219
+rules maybe from the from the late
+
+705
+00:42:28,429 --> 00:42:35,209
+seventies or this time period but the
+
+706
+00:42:31,219 --> 00:42:38,329
+question would be if it is relevant
+
+707
+00:42:35,208 --> 00:42:40,009
+which economic school you feel close to
+
+708
+00:42:38,329 --> 00:42:42,528
+because there is a you know a huge
+
+709
+00:42:40,009 --> 00:42:44,659
+number of schools not only what you call
+
+710
+00:42:42,528 --> 00:42:47,478
+you know know this this fundamental is
+
+711
+00:42:44,659 --> 00:42:49,828
+market fundamentalism you feel closer to
+
+712
+00:42:47,478 --> 00:42:53,159
+Schumpeter higher Keynes
+
+713
+00:42:49,829 --> 00:42:55,229
+night you mentioned thank you I was
+
+714
+00:42:53,159 --> 00:43:01,259
+definitely very much influenced by
+
+715
+00:42:55,228 --> 00:43:03,629
+Keynes and and I think that of course
+
+716
+00:43:01,259 --> 00:43:06,588
+he'd lived at a particular moment in
+
+717
+00:43:03,630 --> 00:43:07,950
+history where he had to deal with
+
+718
+00:43:06,588 --> 00:43:10,048
+incipient
+
+719
+00:43:07,949 --> 00:43:13,468
+with the problems of depression and
+
+720
+00:43:10,048 --> 00:43:15,838
+therefore he neglected the problems of
+
+721
+00:43:13,469 --> 00:43:18,838
+inflation but had he lived at a
+
+722
+00:43:15,838 --> 00:43:22,498
+different time I'm sure that he would
+
+723
+00:43:18,838 --> 00:43:26,518
+have been also his analysis would have
+
+724
+00:43:22,498 --> 00:43:28,798
+extended also to analysis of inflation
+
+725
+00:43:26,518 --> 00:43:32,909
+because of them because of that he
+
+726
+00:43:28,798 --> 00:43:39,119
+became discredited in the 70s when
+
+727
+00:43:32,909 --> 00:43:43,288
+inflation was the dominant problem of of
+
+728
+00:43:39,119 --> 00:43:47,489
+the time so I would say that I was I
+
+729
+00:43:43,289 --> 00:43:51,630
+would consider myself a follower of
+
+730
+00:43:47,489 --> 00:43:55,259
+games the same way as I'm a follower of
+
+731
+00:43:51,630 --> 00:43:58,469
+popper without necessarily agreeing with
+
+732
+00:43:55,259 --> 00:43:59,818
+everything they said that let me add to
+
+733
+00:43:58,469 --> 00:44:00,599
+what you were saying implies the first
+
+734
+00:43:59,818 --> 00:44:02,639
+question there
+
+735
+00:44:00,599 --> 00:44:06,028
+of course poppers name for reflectivity
+
+736
+00:44:02,639 --> 00:44:07,558
+the oedipus effect only tells you he
+
+737
+00:44:06,028 --> 00:44:09,420
+would have agreed that it can occur
+
+738
+00:44:07,559 --> 00:44:11,039
+between individuals because that was one
+
+739
+00:44:09,420 --> 00:44:13,048
+prediction about a particular man's
+
+740
+00:44:11,039 --> 00:44:15,660
+future action wasn't a social science
+
+741
+00:44:13,048 --> 00:44:16,920
+theory influencing rings so he obviously
+
+742
+00:44:15,659 --> 00:44:18,808
+would have agreed with the general
+
+743
+00:44:16,920 --> 00:44:20,489
+notion I think he was discussing he
+
+744
+00:44:18,809 --> 00:44:21,599
+doesn't he I think his if he was going
+
+745
+00:44:20,489 --> 00:44:24,420
+to give a name to I think he would have
+
+746
+00:44:21,599 --> 00:44:25,499
+called it interactivity not reflectivity
+
+747
+00:44:24,420 --> 00:44:27,838
+I think an element that you've
+
+748
+00:44:25,498 --> 00:44:30,448
+emphasized that he doesn't emphasize is
+
+749
+00:44:27,838 --> 00:44:32,308
+a positive feedback aspect he doesn't
+
+750
+00:44:30,449 --> 00:44:34,889
+ever make the point there that I make
+
+751
+00:44:32,309 --> 00:44:36,630
+the prediction of the event I change the
+
+752
+00:44:34,889 --> 00:44:38,368
+event that I predict and then that must
+
+753
+00:44:36,630 --> 00:44:40,920
+change the way I see the world he
+
+754
+00:44:38,369 --> 00:44:42,749
+doesn't see that with that circular
+
+755
+00:44:40,920 --> 00:44:44,309
+causation that you emphasize that's the
+
+756
+00:44:42,748 --> 00:44:45,088
+thing he doesn't he doesn't pick up I
+
+757
+00:44:44,309 --> 00:44:47,819
+think on that point
+
+758
+00:44:45,088 --> 00:44:52,619
+yeah who's like I can't see everybody so
+
+759
+00:44:47,818 --> 00:44:54,889
+clearly the su4 yes microphones coming
+
+760
+00:44:52,619 --> 00:44:54,890
+from
+
+761
+00:44:55,809 --> 00:45:00,170
+I'm Rahman Friedman professor of
+
+762
+00:44:58,340 --> 00:45:04,940
+economics at New York University
+
+763
+00:45:00,170 --> 00:45:09,769
+I have a couple of questions that limit
+
+764
+00:45:04,940 --> 00:45:11,780
+myself to two the first one is that I
+
+765
+00:45:09,769 --> 00:45:15,920
+think what gives reflects I just want to
+
+766
+00:45:11,780 --> 00:45:19,970
+comment on it you emphasize reflexivity
+
+767
+00:45:15,920 --> 00:45:21,980
+and there's a certain tension in your
+
+768
+00:45:19,969 --> 00:45:26,389
+writing and even in this speech about
+
+769
+00:45:21,980 --> 00:45:30,139
+the status of fallibility I wanted to
+
+770
+00:45:26,389 --> 00:45:33,739
+ask you where the fallibility in your
+
+771
+00:45:30,139 --> 00:45:37,099
+mind is necessary for objectivity to
+
+772
+00:45:33,739 --> 00:45:40,789
+have the force availability fallibility
+
+773
+00:45:37,099 --> 00:45:43,880
+being absolutely central and I wanted to
+
+774
+00:45:40,789 --> 00:45:46,489
+up Kent there's a the chairman's of the
+
+775
+00:45:43,880 --> 00:45:47,960
+spirit clearly indicated no speeches I
+
+776
+00:45:46,489 --> 00:45:51,169
+will give no speech I just want to
+
+777
+00:45:47,960 --> 00:45:53,840
+signal what I mean is that if there was
+
+778
+00:45:51,170 --> 00:45:56,539
+a mechanical connection between reality
+
+779
+00:45:53,840 --> 00:46:01,250
+and thinking and back to reality that's
+
+780
+00:45:56,539 --> 00:46:03,679
+reflexive that certainly would not be
+
+781
+00:46:01,250 --> 00:46:05,840
+something that would yield to the kind
+
+782
+00:46:03,679 --> 00:46:09,079
+of conclusions that you draw in the real
+
+783
+00:46:05,840 --> 00:46:11,380
+world context and that's where that
+
+784
+00:46:09,079 --> 00:46:16,909
+flexibility is actually quite different
+
+785
+00:46:11,380 --> 00:46:18,559
+from popper from from from from Merton
+
+786
+00:46:16,909 --> 00:46:21,019
+it's very different than a
+
+787
+00:46:18,559 --> 00:46:23,389
+self-fulfilling prophecy that has a
+
+788
+00:46:21,019 --> 00:46:26,150
+vague notion but that suggests such a
+
+789
+00:46:23,389 --> 00:46:27,739
+mechanical connection first I will want
+
+790
+00:46:26,150 --> 00:46:30,019
+to give a comment on the second question
+
+791
+00:46:27,739 --> 00:46:33,589
+that is directly in my mind related to
+
+792
+00:46:30,019 --> 00:46:36,380
+this which was us actually a phenomenal
+
+793
+00:46:33,590 --> 00:46:39,019
+question about educational reflexivity
+
+794
+00:46:36,380 --> 00:46:46,970
+by the gentleman from Brazil because
+
+795
+00:46:39,019 --> 00:46:51,199
+that question suggests one one wonders
+
+796
+00:46:46,969 --> 00:46:52,309
+whether it is complexity that underpins
+
+797
+00:46:51,199 --> 00:46:56,539
+reflexivity
+
+798
+00:46:52,309 --> 00:46:59,239
+my conjecture here I have some thoughts
+
+799
+00:46:56,539 --> 00:47:01,028
+on that is that it is exactly the way
+
+800
+00:46:59,239 --> 00:47:04,298
+Colleen just said that the very
+
+801
+00:47:01,028 --> 00:47:06,608
+this change and it's actually a non
+
+802
+00:47:04,298 --> 00:47:10,659
+routine change that is crucial for
+
+803
+00:47:06,608 --> 00:47:13,418
+reflexivity to have this force and you
+
+804
+00:47:10,659 --> 00:47:16,298
+can yes when you have education as Kane
+
+805
+00:47:13,418 --> 00:47:18,068
+said we can do more in understanding
+
+806
+00:47:16,298 --> 00:47:20,259
+things but at some point we're going to
+
+807
+00:47:18,068 --> 00:47:22,808
+reach the limit for it because there is
+
+808
+00:47:20,259 --> 00:47:25,059
+a question of non routine change that
+
+809
+00:47:22,809 --> 00:47:29,729
+will also that will always prevent a
+
+810
+00:47:25,059 --> 00:47:35,169
+complete understanding and therefore
+
+811
+00:47:29,728 --> 00:47:38,889
+reflectivities and is a is a property of
+
+812
+00:47:35,168 --> 00:47:42,219
+social systems to me and infallible 'ti
+
+813
+00:47:38,889 --> 00:47:43,808
+that are properties in principle these
+
+814
+00:47:42,219 --> 00:47:46,229
+are not properties that could be
+
+815
+00:47:43,809 --> 00:47:49,179
+eliminated with tank that can only be
+
+816
+00:47:46,228 --> 00:47:51,399
+eliminated if change in the world sees
+
+817
+00:47:49,179 --> 00:47:53,019
+which of course you have understood in
+
+818
+00:47:51,400 --> 00:47:54,159
+your understanding of the social systems
+
+819
+00:47:53,018 --> 00:47:56,678
+closed versus open
+
+820
+00:47:54,159 --> 00:47:58,179
+that's why reflexivity to me so that
+
+821
+00:47:56,679 --> 00:48:00,219
+this is basically a set of issues is
+
+822
+00:47:58,179 --> 00:48:04,088
+that flexibility really delay the
+
+823
+00:48:00,219 --> 00:48:09,009
+complexity rather than change and and
+
+824
+00:48:04,088 --> 00:48:12,119
+things that relate professor of course
+
+825
+00:48:09,009 --> 00:48:19,559
+tell ability is absolutely essential
+
+826
+00:48:12,119 --> 00:48:21,059
+it's a universal human condition and the
+
+827
+00:48:19,559 --> 00:48:26,048
+reflexivity
+
+828
+00:48:21,059 --> 00:48:33,189
+is a two-way connection between a biased
+
+829
+00:48:26,048 --> 00:48:38,909
+/ misconceptions and say the objective
+
+830
+00:48:33,188 --> 00:48:42,098
+reality and there are ways in which
+
+831
+00:48:38,909 --> 00:48:43,390
+misconceptions can actually change the
+
+832
+00:48:42,099 --> 00:48:46,689
+objective conditions
+
+833
+00:48:43,389 --> 00:48:48,788
+that's reflectivity but in order to have
+
+834
+00:48:46,688 --> 00:48:52,658
+life activity you must have the
+
+835
+00:48:48,789 --> 00:48:55,059
+misconceptions or the bias view to start
+
+836
+00:48:52,659 --> 00:48:58,340
+with otherwise you wouldn't have the
+
+837
+00:48:55,059 --> 00:49:03,110
+two-way connection so
+
+838
+00:48:58,340 --> 00:49:06,680
+it replaces this strange concoction of
+
+839
+00:49:03,110 --> 00:49:11,740
+perfect knowledge that is characteristic
+
+840
+00:49:06,679 --> 00:49:20,869
+of the prevailing dogma in in in
+
+841
+00:49:11,739 --> 00:49:23,149
+economics so that's in complexity yeah
+
+842
+00:49:20,869 --> 00:49:30,409
+Roman was asking about well you see this
+
+843
+00:49:23,150 --> 00:49:33,789
+is this is a issue that as I say I only
+
+844
+00:49:30,409 --> 00:49:36,279
+have a tentative answer at the moment
+
+845
+00:49:33,789 --> 00:49:39,550
+actually
+
+846
+00:49:36,280 --> 00:49:43,370
+reflexivity doesn't need to be complex
+
+847
+00:49:39,550 --> 00:49:46,070
+you see and therefore you can't say that
+
+848
+00:49:43,369 --> 00:49:48,469
+it's the same thing because actually
+
+849
+00:49:46,070 --> 00:49:53,480
+that flexibility can be something very
+
+850
+00:49:48,469 --> 00:49:56,959
+very simple like an enmity between
+
+851
+00:49:53,480 --> 00:49:59,240
+people where one person says to the
+
+852
+00:49:56,960 --> 00:50:01,699
+other you are my enemy and lo and behold
+
+853
+00:49:59,239 --> 00:50:03,949
+he is your enemy that's not that's not
+
+854
+00:50:01,699 --> 00:50:06,769
+complex I think what what other lives
+
+855
+00:50:03,949 --> 00:50:08,629
+reflexivity is awareness that i can be
+
+856
+00:50:06,769 --> 00:50:11,269
+aware of your attitudes towards me and
+
+857
+00:50:08,630 --> 00:50:12,650
+that can change myself but of course
+
+858
+00:50:11,269 --> 00:50:15,019
+when you're looking at the natural world
+
+859
+00:50:12,650 --> 00:50:17,329
+it's not aware of your your attitudes or
+
+860
+00:50:15,019 --> 00:50:19,250
+predictions about it Halley's Comet or
+
+861
+00:50:17,329 --> 00:50:21,170
+the motions of the planets so they can't
+
+862
+00:50:19,250 --> 00:50:23,179
+be influenced by our beliefs about them
+
+863
+00:50:21,170 --> 00:50:24,710
+but as humans we can be aware of other
+
+864
+00:50:23,179 --> 00:50:26,449
+people's beliefs about us as they
+
+865
+00:50:24,710 --> 00:50:27,920
+express them in statements and then that
+
+866
+00:50:26,449 --> 00:50:29,989
+can change us as a result of it
+
+867
+00:50:27,920 --> 00:50:31,970
+and it's so that I think is what new
+
+868
+00:50:29,989 --> 00:50:34,849
+facility comes from consciousness
+
+869
+00:50:31,969 --> 00:50:37,699
+awareness yes of others there's one
+
+870
+00:50:34,849 --> 00:50:42,460
+other point with regard to education you
+
+871
+00:50:37,699 --> 00:50:46,179
+see while education is a wonderful thing
+
+872
+00:50:42,460 --> 00:50:46,179
+it doesn't necessarily
+
+873
+00:50:47,349 --> 00:50:57,339
+give you very good results because
+
+874
+00:50:52,139 --> 00:51:01,119
+reality can be manipulated and and if
+
+875
+00:50:57,340 --> 00:51:04,600
+you are good at manipulating reality you
+
+876
+00:51:01,119 --> 00:51:07,299
+can get better results but how you
+
+877
+00:51:04,599 --> 00:51:11,920
+manipulate what your objectives are
+
+878
+00:51:07,300 --> 00:51:15,150
+depend on your values and values are
+
+879
+00:51:11,920 --> 00:51:19,320
+particularly how shall I say
+
+880
+00:51:15,150 --> 00:51:23,440
+questionable in others there is no one
+
+881
+00:51:19,320 --> 00:51:29,680
+set of values that you can say that's
+
+882
+00:51:23,440 --> 00:51:33,900
+good so so we have done a lot as a
+
+883
+00:51:29,679 --> 00:51:38,259
+foundation in the way of Education and
+
+884
+00:51:33,900 --> 00:51:41,410
+and sometimes we have educated very
+
+885
+00:51:38,260 --> 00:51:45,820
+clever manipulators of public opinion
+
+886
+00:51:41,409 --> 00:51:48,339
+who then used it to for very different
+
+887
+00:51:45,820 --> 00:51:53,170
+purposes for which I would have liked
+
+888
+00:51:48,340 --> 00:51:57,670
+them to use it I was a lady in the third
+
+889
+00:51:53,170 --> 00:52:00,639
+world a as a margaret de heinrich and
+
+890
+00:51:57,670 --> 00:52:03,190
+the one word that keeps popping up in my
+
+891
+00:52:00,639 --> 00:52:06,069
+mind from the very beginning of your
+
+892
+00:52:03,190 --> 00:52:08,200
+talk is instinct and professors what you
+
+893
+00:52:06,070 --> 00:52:09,760
+were talking about alluding to awareness
+
+894
+00:52:08,199 --> 00:52:12,039
+and of course that's the same thing and
+
+895
+00:52:09,760 --> 00:52:15,040
+you're someone mr. Soros has been
+
+896
+00:52:12,039 --> 00:52:17,380
+enormous ly successful and I imagine in
+
+897
+00:52:15,039 --> 00:52:21,779
+some part because of your natural
+
+898
+00:52:17,380 --> 00:52:25,510
+instinct and the question is if you're
+
+899
+00:52:21,780 --> 00:52:27,220
+sharing the concept of reflexivity with
+
+900
+00:52:25,510 --> 00:52:31,630
+so many people if they don't possess
+
+901
+00:52:27,219 --> 00:52:33,730
+that natural god-given gift of instinct
+
+902
+00:52:31,630 --> 00:52:39,190
+how can they truly take reflexivity
+
+903
+00:52:33,730 --> 00:52:41,469
+and use it to its full power I don't get
+
+904
+00:52:39,190 --> 00:52:44,470
+the question do well like I think the
+
+905
+00:52:41,469 --> 00:52:46,089
+question is you you have this conceptual
+
+906
+00:52:44,469 --> 00:52:50,019
+idea of reflexivity which you've applied
+
+907
+00:52:46,090 --> 00:52:52,329
+in your business life and could other
+
+908
+00:52:50,019 --> 00:52:54,579
+people have had the same success just by
+
+909
+00:52:52,329 --> 00:52:55,420
+taking over the idea or was it more to
+
+910
+00:52:54,579 --> 00:52:56,980
+do with
+
+911
+00:52:55,420 --> 00:52:59,519
+factors about you than just having that
+
+912
+00:52:56,980 --> 00:53:06,219
+theory I think that was the fourth
+
+913
+00:52:59,519 --> 00:53:07,480
+question well I mean we all we all have
+
+914
+00:53:06,219 --> 00:53:08,709
+the theory now we're not all
+
+915
+00:53:07,480 --> 00:53:15,639
+successfully yep
+
+916
+00:53:08,710 --> 00:53:20,409
+well look it's it's obviously it's not
+
+917
+00:53:15,639 --> 00:53:23,828
+sufficient really it's it's it's been
+
+918
+00:53:20,409 --> 00:53:29,739
+useful but it didn't determine the
+
+919
+00:53:23,829 --> 00:53:33,400
+outcome and but the fact is that at the
+
+920
+00:53:29,739 --> 00:53:37,509
+time when I first started using those
+
+921
+00:53:33,400 --> 00:53:40,769
+ideas they did give me a leg up in the
+
+922
+00:53:37,510 --> 00:53:46,260
+financial markets because people were
+
+923
+00:53:40,769 --> 00:53:49,989
+most other players in the market were
+
+924
+00:53:46,260 --> 00:53:56,710
+guided by other ideas
+
+925
+00:53:49,989 --> 00:54:01,419
+so however people did read my book so
+
+926
+00:53:56,710 --> 00:54:05,710
+I've lost that that that that edge that
+
+927
+00:54:01,420 --> 00:54:07,690
+I had yeah yeah it enables you to
+
+928
+00:54:05,710 --> 00:54:09,940
+predict bubbles movie it enables you to
+
+929
+00:54:07,690 --> 00:54:11,588
+predict bubbles more easily but you know
+
+930
+00:54:09,940 --> 00:54:14,740
+they're they're saying that economists
+
+931
+00:54:11,588 --> 00:54:18,068
+have predicted eight of the last three
+
+932
+00:54:14,739 --> 00:54:25,479
+recessions well I predicted eight of the
+
+933
+00:54:18,068 --> 00:54:28,058
+next three bubbles about Howard Robinson
+
+934
+00:54:25,480 --> 00:54:35,789
+in there in front he needs a microphone
+
+935
+00:54:28,059 --> 00:54:35,790
+I think any microphone nearby okay
+
+936
+00:54:38,528 --> 00:54:42,920
+this would be a philosophical question
+
+937
+00:54:40,429 --> 00:54:44,419
+I'm sure I was going to say I'm glasses
+
+938
+00:54:42,920 --> 00:54:46,789
+you're straight philosophical question
+
+939
+00:54:44,420 --> 00:54:48,889
+I'm afraid what do you think the
+
+940
+00:54:46,789 --> 00:54:51,170
+connection of your doctrine of
+
+941
+00:54:48,889 --> 00:54:54,078
+reflexivity is this old-fashioned
+
+942
+00:54:51,170 --> 00:54:56,720
+chestnut of free will does it follow
+
+943
+00:54:54,079 --> 00:54:58,369
+from what you said that there could not
+
+944
+00:54:56,719 --> 00:55:00,828
+be a deterministic account of human
+
+945
+00:54:58,369 --> 00:55:04,548
+behavior because in some sense or other
+
+946
+00:55:00,829 --> 00:55:06,318
+there are no definite facts about human
+
+947
+00:55:04,548 --> 00:55:08,420
+psychology or what people are going to
+
+948
+00:55:06,318 --> 00:55:09,679
+do these are not the kind of things that
+
+949
+00:55:08,420 --> 00:55:11,990
+we put into the natural laws and
+
+950
+00:55:09,679 --> 00:55:14,210
+therefore they determinism must be false
+
+951
+00:55:11,989 --> 00:55:15,558
+and got a libertarian free will must be
+
+952
+00:55:14,210 --> 00:55:18,889
+right or don't you want to go in and
+
+953
+00:55:15,559 --> 00:55:21,190
+down that road well we had a very
+
+954
+00:55:18,889 --> 00:55:24,558
+interesting discussion last night about
+
+955
+00:55:21,190 --> 00:55:28,010
+determinism and in free will and I would
+
+956
+00:55:24,559 --> 00:55:31,910
+take the position that that both are
+
+957
+00:55:28,010 --> 00:55:40,190
+half right and if you put them together
+
+958
+00:55:31,909 --> 00:55:46,420
+you actually get the reality to to think
+
+959
+00:55:40,190 --> 00:55:52,460
+of of free will as being absolutely free
+
+960
+00:55:46,420 --> 00:55:58,338
+is to me even more distorted than to
+
+961
+00:55:52,460 --> 00:56:04,039
+claim that human affairs are determined
+
+962
+00:55:58,338 --> 00:56:09,230
+by universally valid laws I mean there
+
+963
+00:56:04,039 --> 00:56:13,819
+are of course not not all of reality can
+
+964
+00:56:09,230 --> 00:56:19,000
+be manipulated there is you know there
+
+965
+00:56:13,818 --> 00:56:25,869
+are the laws of physics that that
+
+966
+00:56:19,000 --> 00:56:25,869
+prevail so you may be extremely good at
+
+967
+00:56:26,139 --> 00:56:36,440
+turning reality manipulating reality but
+
+968
+00:56:31,699 --> 00:56:39,288
+Indian reality has the last word and you
+
+969
+00:56:36,440 --> 00:56:42,679
+want to be dead now that's something for
+
+970
+00:56:39,289 --> 00:56:44,970
+instance you cannot manipulate a way
+
+971
+00:56:42,679 --> 00:56:47,789
+even though we have developed
+
+972
+00:56:44,969 --> 00:56:56,039
+all kinds of myths to deal with this
+
+973
+00:56:47,789 --> 00:56:58,469
+rather unpalatable prospect hmm well no
+
+974
+00:56:56,039 --> 00:57:05,779
+deterministic laws are psychology itself
+
+975
+00:56:58,469 --> 00:57:09,509
+well I mean I would say that that Freud
+
+976
+00:57:05,780 --> 00:57:14,970
+identified maybe certain people who are
+
+977
+00:57:09,510 --> 00:57:21,420
+a bear sick in the sense that they their
+
+978
+00:57:14,969 --> 00:57:29,848
+actions are determined by their in a fix
+
+979
+00:57:21,420 --> 00:57:34,079
+their their their preconceived ideas but
+
+980
+00:57:29,849 --> 00:57:41,640
+a well functioning human being has to be
+
+981
+00:57:34,079 --> 00:57:43,108
+influenced by his by reality yes and I
+
+982
+00:57:41,639 --> 00:57:44,789
+think your position is that the world is
+
+983
+00:57:43,108 --> 00:57:46,049
+half determined and the will is half
+
+984
+00:57:44,789 --> 00:57:47,730
+free hmm
+
+985
+00:57:46,050 --> 00:57:50,730
+the world is half determined and the
+
+986
+00:57:47,730 --> 00:57:51,990
+human will is half free okay she said it
+
+987
+00:57:50,730 --> 00:57:53,990
+was half to each of them was half true
+
+988
+00:57:51,989 --> 00:57:56,338
+who's next
+
+989
+00:57:53,989 --> 00:57:57,659
+something something more philosophical
+
+990
+00:57:56,338 --> 00:58:00,358
+would be welcome if there was something
+
+991
+00:57:57,659 --> 00:58:05,338
+yes go to the back iron you want to go
+
+992
+00:58:00,358 --> 00:58:07,348
+back one page okay he's got the
+
+993
+00:58:05,338 --> 00:58:11,639
+microphone of the Lancer right he's got
+
+994
+00:58:07,349 --> 00:58:14,430
+a microphone there hello thank you I am
+
+995
+00:58:11,639 --> 00:58:17,909
+Rodrigo from Mexico I am a student of
+
+996
+00:58:14,429 --> 00:58:19,710
+public policy at CU and first just to
+
+997
+00:58:17,909 --> 00:58:22,469
+say that I'm very grateful it's being a
+
+998
+00:58:19,710 --> 00:58:25,230
+very enriching experience being in in
+
+999
+00:58:22,469 --> 00:58:27,379
+this University in this environment and
+
+1000
+00:58:25,230 --> 00:58:32,280
+I would like to ask you
+
+1001
+00:58:27,380 --> 00:58:36,539
+Plato another philosopher had a negative
+
+1002
+00:58:32,280 --> 00:58:39,630
+vision of time or an idea that time had
+
+1003
+00:58:36,539 --> 00:58:44,130
+the generative effect over things of
+
+1004
+00:58:39,630 --> 00:58:48,960
+reality on the other hand the paradigm
+
+1005
+00:58:44,130 --> 00:58:53,070
+of modernity presents more of a faith in
+
+1006
+00:58:48,960 --> 00:58:56,559
+progress conviction that the future will
+
+1007
+00:58:53,070 --> 00:58:59,230
+be better than than the present
+
+1008
+00:58:56,559 --> 00:59:01,599
+what do you think is this a Byzantine
+
+1009
+00:58:59,230 --> 00:59:04,059
+discussion a pointless discussion or you
+
+1010
+00:59:01,599 --> 00:59:06,099
+have understanding point what's the time
+
+1011
+00:59:04,059 --> 00:59:10,809
+what's the effect of time over things
+
+1012
+00:59:06,099 --> 00:59:13,779
+from your perspective thank you you know
+
+1013
+00:59:10,809 --> 00:59:18,489
+I'm sorry about not fully understanding
+
+1014
+00:59:13,780 --> 00:59:27,040
+the question should I repeat it very
+
+1015
+00:59:18,489 --> 00:59:29,699
+briefly yeah I I mean my attitude to to
+
+1016
+00:59:27,039 --> 00:59:33,519
+Plato has been greatly influenced by
+
+1017
+00:59:29,699 --> 00:59:37,230
+Karl Popper although perhaps he has been
+
+1018
+00:59:33,519 --> 00:59:40,150
+a little too harsh on tato
+
+1019
+00:59:37,230 --> 00:59:41,860
+I think he's asking about progress
+
+1020
+00:59:40,150 --> 00:59:42,910
+whether you believe in progress progress
+
+1021
+00:59:41,860 --> 00:59:45,579
+I think so
+
+1022
+00:59:42,909 --> 00:59:47,549
+what what do you think yes I certainly
+
+1023
+00:59:45,579 --> 00:59:52,569
+have do believe in progress and
+
+1024
+00:59:47,550 --> 00:59:55,750
+definitely think that that we can
+
+1025
+00:59:52,570 --> 00:59:58,860
+improve our understanding and certainly
+
+1026
+00:59:55,750 --> 01:00:04,599
+I would argue that let's say
+
+1027
+00:59:58,860 --> 01:00:09,760
+understanding reflexivity makes dealing
+
+1028
+01:00:04,599 --> 01:00:14,519
+with human problems political problems
+
+1029
+01:00:09,760 --> 01:00:17,500
+much more difficult and some of our
+
+1030
+01:00:14,519 --> 01:00:22,269
+preconceived ideas have to go out of the
+
+1031
+01:00:17,500 --> 01:00:24,929
+window but it is progress because I
+
+1032
+01:00:22,269 --> 01:00:30,539
+think we then understand the
+
+1033
+01:00:24,929 --> 01:00:37,629
+difficulties involved in human affairs
+
+1034
+01:00:30,539 --> 01:00:42,550
+and you usually misconceptions get
+
+1035
+01:00:37,630 --> 01:00:45,309
+particularly wide and far-fetched when
+
+1036
+01:00:42,550 --> 01:00:49,090
+you are confronted with insoluble
+
+1037
+01:00:45,309 --> 01:00:52,900
+problems we don't like to tolerate
+
+1038
+01:00:49,090 --> 01:00:58,630
+insoluble problems and therefore we tend
+
+1039
+01:00:52,900 --> 01:01:03,610
+to design device force solutions again I
+
+1040
+01:00:58,630 --> 01:01:06,079
+come back to the death which is an
+
+1041
+01:01:03,610 --> 01:01:11,000
+insoluble problem in the
+
+1042
+01:01:06,079 --> 01:01:15,619
+it's most likely to occur and we have
+
+1043
+01:01:11,000 --> 01:01:21,349
+then developed all kinds of ways of and
+
+1044
+01:01:15,619 --> 01:01:26,660
+myths to to do away with that prospect
+
+1045
+01:01:21,349 --> 01:01:29,210
+and there are many other to grow from
+
+1046
+01:01:26,659 --> 01:01:32,089
+the soup sublime to the ridiculous
+
+1047
+01:01:29,210 --> 01:01:34,608
+the drop problem
+
+1048
+01:01:32,090 --> 01:01:37,670
+it's an insoluble problem the drug
+
+1049
+01:01:34,608 --> 01:01:42,190
+addiction is in the in is innate in in
+
+1050
+01:01:37,670 --> 01:01:46,430
+in human nature some people get addicted
+
+1051
+01:01:42,190 --> 01:01:51,019
+and it is a threat to society and
+
+1052
+01:01:46,429 --> 01:01:54,230
+society then do usually did and the way
+
+1053
+01:01:51,019 --> 01:01:59,630
+did we deals it it makes it a much worse
+
+1054
+01:01:54,230 --> 01:02:02,929
+problem and then then then the drug
+
+1055
+01:01:59,630 --> 01:02:07,099
+addiction itself and and the way for
+
+1056
+01:02:02,929 --> 01:02:12,199
+instance American society has dealt it
+
+1057
+01:02:07,099 --> 01:02:14,358
+with death has made dying much harder
+
+1058
+01:02:12,199 --> 01:02:18,049
+and much more painful not to mention
+
+1059
+01:02:14,358 --> 01:02:21,500
+more expensive then then then it need to
+
+1060
+01:02:18,050 --> 01:02:26,869
+be and actually the two first projects
+
+1061
+01:02:21,500 --> 01:02:29,030
+of my foundation in in in America one
+
+1062
+01:02:26,869 --> 01:02:31,630
+was the project on death in America and
+
+1063
+01:02:29,030 --> 01:02:35,810
+the other one was the drug policy
+
+1064
+01:02:31,630 --> 01:02:40,910
+initiative and I arrived at it from this
+
+1065
+01:02:35,809 --> 01:02:44,420
+rather abstract philosophical argument
+
+1066
+01:02:40,909 --> 01:02:46,759
+about insoluble problems in Toledo da
+
+1067
+01:02:44,420 --> 01:02:49,309
+ting remedies which make the problems
+
+1068
+01:02:46,760 --> 01:02:51,650
+worse does that answer anywhere near
+
+1069
+01:02:49,309 --> 01:02:56,150
+your question
+
+1070
+01:02:51,650 --> 01:02:58,610
+enlighten me in other issues but yeah
+
+1071
+01:02:56,150 --> 01:03:01,369
+basically I wanted to ask you what do
+
+1072
+01:02:58,610 --> 01:03:05,059
+you think time the time time goes by
+
+1073
+01:03:01,369 --> 01:03:07,549
+right and time has any kind of effect
+
+1074
+01:03:05,059 --> 01:03:10,190
+over things over a political regime
+
+1075
+01:03:07,550 --> 01:03:12,950
+Plato would say that time has a negative
+
+1076
+01:03:10,190 --> 01:03:17,170
+effect and the effect of time over
+
+1077
+01:03:12,949 --> 01:03:20,119
+things a turn turn it the generative as
+
+1078
+01:03:17,170 --> 01:03:22,970
+opposed to that conception modernity
+
+1079
+01:03:20,119 --> 01:03:25,849
+says that the effect of time over things
+
+1080
+01:03:22,969 --> 01:03:28,250
+is positive and says the future will be
+
+1081
+01:03:25,849 --> 01:03:31,549
+better now as against to the conception
+
+1082
+01:03:28,250 --> 01:03:35,150
+of Plato do what do you think what's the
+
+1083
+01:03:31,550 --> 01:03:36,950
+effect of that is if any at all or okay
+
+1084
+01:03:35,150 --> 01:03:38,930
+it's maybe a bit like me I have to
+
+1085
+01:03:36,949 --> 01:03:40,609
+interpret with which goes to wind up at
+
+1086
+01:03:38,929 --> 01:03:43,989
+this point I'm told that it's the end of
+
+1087
+01:03:40,610 --> 01:03:43,990
+the time and if you should do it
+
+1088
+01:03:54,329 --> 01:04:00,690
+I know today's wonderful two hours has
+
+1089
+01:03:58,320 --> 01:04:03,210
+only whetted your appetite for the
+
+1090
+01:04:00,690 --> 01:04:06,360
+remainder of the week this has been an
+
+1091
+01:04:03,210 --> 01:04:09,720
+extraordinary moment and I want to thank
+
+1092
+01:04:06,360 --> 01:04:11,700
+our audiences here in Budapest at the
+
+1093
+01:04:09,719 --> 01:04:14,939
+Hungarian Academy of Sciences and
+
+1094
+01:04:11,699 --> 01:04:16,639
+Central European University and also in
+
+1095
+01:04:14,940 --> 01:04:20,789
+London at the London School of Economics
+
+1096
+01:04:16,639 --> 01:04:24,000
+but of course above all to thank George
+
+1097
+01:04:20,789 --> 01:04:27,239
+Soros for sharing his thoughts his
+
+1098
+01:04:24,000 --> 01:04:30,389
+experience his philosophy and launching
+
+1099
+01:04:27,239 --> 01:04:31,529
+us on an extraordinary journey that will
+
+1100
+01:04:30,389 --> 01:04:35,039
+all be going with him
+
+1101
+01:04:31,530 --> 01:04:37,260
+and also to call him again so much for
+
+1102
+01:04:35,039 --> 01:04:41,509
+thank you for all you've done to
+
+1103
+01:04:37,260 --> 01:04:41,510
+facilitate today thank you very much
+

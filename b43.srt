@@ -1,0 +1,5468 @@
+1
+00:00:02,759 --> 00:00:07,559
+I hope we may be able to elaborate a
+
+2
+00:00:05,160 --> 00:00:09,839
+little bit more on this inet initiative
+
+3
+00:00:07,559 --> 00:00:12,439
+during the question and answer session
+
+4
+00:00:09,839 --> 00:00:15,240
+if any of you would like to uh ask some
+
+5
+00:00:12,439 --> 00:00:17,358
+questions about it uh but I wanted to
+
+6
+00:00:15,240 --> 00:00:20,240
+reflect in the uh seven or eight minutes
+
+7
+00:00:17,359 --> 00:00:23,800
+that I've been given on uh George's
+
+8
+00:00:20,239 --> 00:00:27,320
+broader ideas listening to George today
+
+9
+00:00:23,800 --> 00:00:30,359
+I was reminded of when we first met it
+
+10
+00:00:27,320 --> 00:00:32,960
+was in 1983 during the first of the
+
+11
+00:00:30,359 --> 00:00:35,399
+bubbles he mentioned the third world
+
+12
+00:00:32,960 --> 00:00:38,719
+debt crisis and was actually at the
+
+13
+00:00:35,399 --> 00:00:40,719
+annual meeting of the World Bank and IMF
+
+14
+00:00:38,719 --> 00:00:43,760
+I was then a young journalist working
+
+15
+00:00:40,719 --> 00:00:46,039
+for the financial times and I just ran
+
+16
+00:00:43,759 --> 00:00:48,359
+into him by accident we were talking
+
+17
+00:00:46,039 --> 00:00:52,000
+about what it was that the IMF was doing
+
+18
+00:00:48,359 --> 00:00:55,558
+wrong in Mexico and Brazil at that time
+
+19
+00:00:52,000 --> 00:00:57,759
+but for me his ideas were really a
+
+20
+00:00:55,558 --> 00:01:00,280
+revelation perhaps because I was so
+
+21
+00:00:57,759 --> 00:01:03,000
+young at the time uh and we became
+
+22
+00:01:00,280 --> 00:01:06,400
+friends and I followed the development
+
+23
+00:01:03,000 --> 00:01:08,879
+of georg's ideas closely enough to feel
+
+24
+00:01:06,400 --> 00:01:11,359
+that I really understood them so that
+
+25
+00:01:08,879 --> 00:01:14,679
+when he published what I still think was
+
+26
+00:01:11,359 --> 00:01:18,799
+his most important book The Alchemy of
+
+27
+00:01:14,680 --> 00:01:22,680
+Finance I felt like an initiate into a
+
+28
+00:01:18,799 --> 00:01:25,400
+secret religious sect uh not because I
+
+29
+00:01:22,680 --> 00:01:28,200
+worship George or indeed his ideas far
+
+30
+00:01:25,400 --> 00:01:31,000
+from it but because I was told at that
+
+31
+00:01:28,200 --> 00:01:33,640
+time by almost everybody I met the
+
+32
+00:01:31,000 --> 00:01:35,438
+Georgia's philosophy was totally
+
+33
+00:01:33,640 --> 00:01:37,879
+incomprehensible the reason people
+
+34
+00:01:35,438 --> 00:01:39,199
+bought that first book was because they
+
+35
+00:01:37,879 --> 00:01:43,039
+thought they would pick up some
+
+36
+00:01:39,200 --> 00:01:45,359
+investment tips yet I felt to me these
+
+37
+00:01:43,040 --> 00:01:47,759
+Concepts that he first described fully
+
+38
+00:01:45,359 --> 00:01:52,159
+in that book of and that he mentioned
+
+39
+00:01:47,759 --> 00:01:56,519
+today of reflexivity fallibility and
+
+40
+00:01:52,159 --> 00:01:58,640
+human uh uncertainty and particularly
+
+41
+00:01:56,519 --> 00:02:01,560
+the relationship between those three
+
+42
+00:01:58,640 --> 00:02:04,319
+concepts to me me those Concepts seemed
+
+43
+00:02:01,560 --> 00:02:07,280
+absolutely clear and
+
+44
+00:02:04,319 --> 00:02:09,878
+revelatory others as I said differed and
+
+45
+00:02:07,280 --> 00:02:12,560
+only bought the books for investment
+
+46
+00:02:09,878 --> 00:02:16,079
+tips but even though George was told
+
+47
+00:02:12,560 --> 00:02:19,080
+initially that his ideas were
+
+48
+00:02:16,080 --> 00:02:23,120
+incomprehensible he continued to explain
+
+49
+00:02:19,080 --> 00:02:25,000
+them with the combination of persistence
+
+50
+00:02:23,120 --> 00:02:27,120
+self-confidence and
+
+51
+00:02:25,000 --> 00:02:30,280
+self-criticism which has made him so
+
+52
+00:02:27,120 --> 00:02:32,360
+successful also as an investor and the
+
+53
+00:02:30,280 --> 00:02:34,878
+interesting thing now is that when he
+
+54
+00:02:32,360 --> 00:02:37,160
+talks about reflexivity as I think he
+
+55
+00:02:34,878 --> 00:02:41,000
+probably did most articulately in this
+
+56
+00:02:37,159 --> 00:02:43,120
+lecture now everybody in the markets
+
+57
+00:02:41,000 --> 00:02:45,280
+claims to understand reflexivity
+
+58
+00:02:43,120 --> 00:02:47,400
+perfectly in fact if they couldn't
+
+59
+00:02:45,280 --> 00:02:50,199
+understand it they would not be able to
+
+60
+00:02:47,400 --> 00:02:54,039
+uh continue in their jobs in the markets
+
+61
+00:02:50,199 --> 00:02:56,039
+uh and even in the policymaking world
+
+62
+00:02:54,039 --> 00:02:59,318
+among Central Bankers he mentioned mvin
+
+63
+00:02:56,039 --> 00:03:01,799
+King and finance ministers the idea that
+
+64
+00:02:59,318 --> 00:03:05,518
+the world goes through reflexive boombas
+
+65
+00:03:01,800 --> 00:03:07,959
+Cycles between finance and policy is now
+
+66
+00:03:05,519 --> 00:03:11,080
+pretty much accepted as the conventional
+
+67
+00:03:07,959 --> 00:03:13,519
+wisdom it's really only among academic
+
+68
+00:03:11,080 --> 00:03:15,959
+economists that this idea is not
+
+69
+00:03:13,519 --> 00:03:17,640
+recognized and perhaps although only
+
+70
+00:03:15,959 --> 00:03:20,840
+perhaps as George said uh the
+
+71
+00:03:17,639 --> 00:03:23,919
+development of inet will uh lead to um
+
+72
+00:03:20,840 --> 00:03:27,120
+its further uh it it its further
+
+73
+00:03:23,919 --> 00:03:29,839
+development but as reflexivity has now
+
+74
+00:03:27,120 --> 00:03:31,599
+become such Common Ground among
+
+75
+00:03:29,840 --> 00:03:34,598
+economists and policy makers all over
+
+76
+00:03:31,598 --> 00:03:37,079
+the world uh I want to put on uh if you
+
+77
+00:03:34,598 --> 00:03:39,560
+like my perverse my challenging hat and
+
+78
+00:03:37,080 --> 00:03:42,040
+actually disagree and challenge some of
+
+79
+00:03:39,560 --> 00:03:46,280
+the ideas that George put forward today
+
+80
+00:03:42,039 --> 00:03:48,519
+briefly uh the boomas sequences as
+
+81
+00:03:46,280 --> 00:03:51,239
+George said in his lecture can be
+
+82
+00:03:48,519 --> 00:03:54,200
+interrupted by government intervention
+
+83
+00:03:51,239 --> 00:03:56,560
+or other exogenous forces and the
+
+84
+00:03:54,199 --> 00:03:59,399
+question I want to raise is whether it's
+
+85
+00:03:56,560 --> 00:04:02,039
+possible that the world does in fact
+
+86
+00:03:59,400 --> 00:04:06,000
+tend into equilibrium despite what we've
+
+87
+00:04:02,039 --> 00:04:08,840
+just heard provided the periods are long
+
+88
+00:04:06,000 --> 00:04:11,719
+enough and not solely through the
+
+89
+00:04:08,840 --> 00:04:14,920
+operation of markets but through the
+
+90
+00:04:11,719 --> 00:04:16,879
+operation of markets interacting with
+
+91
+00:04:14,919 --> 00:04:19,238
+government if we take the role of
+
+92
+00:04:16,879 --> 00:04:21,238
+government into account is it possible
+
+93
+00:04:19,238 --> 00:04:23,879
+that the world does actually tend to
+
+94
+00:04:21,238 --> 00:04:26,839
+equilibrium orbe it going through fairly
+
+95
+00:04:23,879 --> 00:04:28,639
+large Cycles in a way this actually
+
+96
+00:04:26,839 --> 00:04:30,399
+relates to a theory that George first
+
+97
+00:04:28,639 --> 00:04:33,000
+discussed during that third world debt
+
+98
+00:04:30,399 --> 00:04:37,120
+crisis which he called the brink Theory
+
+99
+00:04:33,000 --> 00:04:39,839
+the idea that events push uh crisis to
+
+100
+00:04:37,120 --> 00:04:41,478
+the brink of complete chaos but not
+
+101
+00:04:39,839 --> 00:04:43,758
+quite over the brink and this is of
+
+102
+00:04:41,478 --> 00:04:46,680
+course a concept that's also uh been
+
+103
+00:04:43,759 --> 00:04:49,639
+developed in uh the mathematical theory
+
+104
+00:04:46,680 --> 00:04:52,319
+of complexity and Chaos where the world
+
+105
+00:04:49,639 --> 00:04:55,280
+is always or complex systems are always
+
+106
+00:04:52,319 --> 00:04:58,599
+said to be operating just on the edge of
+
+107
+00:04:55,279 --> 00:05:02,079
+chaos maybe the Super Bubble of finance
+
+108
+00:04:58,600 --> 00:05:04,400
+and regulation he uh he he's discussed
+
+109
+00:05:02,079 --> 00:05:07,079
+and indeed the even bigger Super Bubble
+
+110
+00:05:04,399 --> 00:05:10,279
+of Market fundamentalism and if you like
+
+111
+00:05:07,079 --> 00:05:13,399
+Keynesian Social Democratic politics is
+
+112
+00:05:10,279 --> 00:05:16,279
+not after all a bubble but in a sense a
+
+113
+00:05:13,399 --> 00:05:19,478
+process of evolution and maybe there is
+
+114
+00:05:16,279 --> 00:05:21,599
+an equilibrating mechanism are what
+
+115
+00:05:19,478 --> 00:05:24,478
+George called the brink Theory and what
+
+116
+00:05:21,600 --> 00:05:27,520
+might be called the mechanisms of polic
+
+117
+00:05:24,478 --> 00:05:29,758
+politics and democracy in other words
+
+118
+00:05:27,519 --> 00:05:32,799
+maybe there is an equilibrating
+
+119
+00:05:29,759 --> 00:05:35,360
+mechanism within politics which prevents
+
+120
+00:05:32,800 --> 00:05:38,280
+these boom bust Cycles in in Market
+
+121
+00:05:35,360 --> 00:05:41,520
+fundamentalism in economics going too
+
+122
+00:05:38,279 --> 00:05:44,079
+far George described how all bubbles are
+
+123
+00:05:41,519 --> 00:05:45,959
+created by a trend and a misconception
+
+124
+00:05:44,079 --> 00:05:48,079
+and it's absolutely clear that the
+
+125
+00:05:45,959 --> 00:05:49,560
+misconception not of just of the last
+
+126
+00:05:48,079 --> 00:05:52,159
+two or three years but really of the
+
+127
+00:05:49,560 --> 00:05:54,759
+last 20 years was as he said that
+
+128
+00:05:52,160 --> 00:05:58,319
+markets could totally replace politics
+
+129
+00:05:54,759 --> 00:06:00,560
+in ordering Human Society but maybe that
+
+130
+00:05:58,319 --> 00:06:03,199
+misconception is now going to be
+
+131
+00:06:00,560 --> 00:06:05,800
+corrected leading to the emergence if
+
+132
+00:06:03,199 --> 00:06:08,038
+you like of a new form of
+
+133
+00:06:05,800 --> 00:06:10,360
+capitalism and I think the key to this
+
+134
+00:06:08,038 --> 00:06:12,879
+new form of capitalism is it if it
+
+135
+00:06:10,360 --> 00:06:16,560
+emerges will in fact go back to
+
+136
+00:06:12,879 --> 00:06:19,079
+Georgia's three concepts of reflexivity
+
+137
+00:06:16,560 --> 00:06:21,399
+fallibility and human
+
+138
+00:06:19,079 --> 00:06:23,318
+uncertainty in my view we are perhaps
+
+139
+00:06:21,399 --> 00:06:25,478
+moving into a fourth phase of capitalism
+
+140
+00:06:23,319 --> 00:06:27,960
+if you like the first phase 19th century
+
+141
+00:06:25,478 --> 00:06:30,399
+capitalism was when politics and
+
+142
+00:06:27,959 --> 00:06:32,879
+economics were believed to be totally
+
+143
+00:06:30,399 --> 00:06:35,279
+distinct and both were believed to be
+
+144
+00:06:32,879 --> 00:06:38,199
+evolving in a generally constructive
+
+145
+00:06:35,279 --> 00:06:40,198
+Direction by the conventional wisdom or
+
+146
+00:06:38,199 --> 00:06:42,199
+were believed to be both doomed to
+
+147
+00:06:40,199 --> 00:06:43,879
+failure if you're a Marxist both
+
+148
+00:06:42,199 --> 00:06:45,800
+economics and politics would were
+
+149
+00:06:43,879 --> 00:06:48,759
+believed to be either constructive or
+
+150
+00:06:45,800 --> 00:06:51,478
+doomed to failure in the 1930s that
+
+151
+00:06:48,759 --> 00:06:53,919
+perception changed and from 1930s to the
+
+152
+00:06:51,478 --> 00:06:56,159
+70s we went through a phase when there
+
+153
+00:06:53,918 --> 00:06:58,799
+was a widespread belief that markets
+
+154
+00:06:56,160 --> 00:07:01,800
+were always prone to failure and social
+
+155
+00:06:58,800 --> 00:07:05,000
+injustice but governments were always
+
+156
+00:07:01,800 --> 00:07:06,759
+knowledgeable and just in other words
+
+157
+00:07:05,000 --> 00:07:09,879
+the market was always wrong the
+
+158
+00:07:06,759 --> 00:07:12,120
+government was always right in the 70s
+
+159
+00:07:09,879 --> 00:07:14,280
+there was another Revolution and from
+
+160
+00:07:12,120 --> 00:07:16,840
+1979 with the election of Margaret
+
+161
+00:07:14,279 --> 00:07:19,038
+Thatcher 1980 onwards we went through a
+
+162
+00:07:16,839 --> 00:07:20,439
+third stage in which the prevailing
+
+163
+00:07:19,038 --> 00:07:22,918
+belief if you like the prevailing
+
+164
+00:07:20,439 --> 00:07:25,319
+misconception was that markets were
+
+165
+00:07:22,918 --> 00:07:28,478
+always efficient and rational while
+
+166
+00:07:25,319 --> 00:07:30,520
+governments were always wrong now it
+
+167
+00:07:28,478 --> 00:07:33,439
+seems to me as a out of last year's
+
+168
+00:07:30,519 --> 00:07:36,439
+crisis we could be moving into a fourth
+
+169
+00:07:33,439 --> 00:07:39,680
+stage where it is recognized that both
+
+170
+00:07:36,439 --> 00:07:43,000
+markets and governments are fallible not
+
+171
+00:07:39,680 --> 00:07:45,280
+always fallible but frequently fallible
+
+172
+00:07:43,000 --> 00:07:47,360
+now the last point I'd like to make is a
+
+173
+00:07:45,279 --> 00:07:50,279
+more positive one which is that the
+
+174
+00:07:47,360 --> 00:07:53,680
+recognition of fallibility sounds
+
+175
+00:07:50,279 --> 00:07:56,038
+paralyzing but actually it can be
+
+176
+00:07:53,680 --> 00:07:58,360
+empowering fallibility and the
+
+177
+00:07:56,038 --> 00:08:00,959
+recognition the explicit recognition of
+
+178
+00:07:58,360 --> 00:08:04,960
+human uncertainty is George describes
+
+179
+00:08:00,959 --> 00:08:08,439
+creat space for change Innovation
+
+180
+00:08:04,959 --> 00:08:11,318
+creativity imagination and
+
+181
+00:08:08,439 --> 00:08:16,158
+Leadership and it forces
+
+182
+00:08:11,319 --> 00:08:19,560
+empiricism self-analysis and internal
+
+183
+00:08:16,158 --> 00:08:23,839
+self-correction and in my view nobody
+
+184
+00:08:19,560 --> 00:08:27,158
+has symbolized such creative con uh such
+
+185
+00:08:23,839 --> 00:08:29,679
+creative tension between fallibility and
+
+186
+00:08:27,158 --> 00:08:32,360
+confident self- knowledge both in his
+
+187
+00:08:29,680 --> 00:08:36,000
+business and his philosophical ideas as
+
+188
+00:08:32,360 --> 00:08:36,000
+George Soros thank you very
+
+189
+00:08:42,440 --> 00:08:50,279
+much if I may briefly uh respond before
+
+190
+00:08:46,519 --> 00:08:55,720
+with while people at the MIT prepar
+
+191
+00:08:50,278 --> 00:09:00,720
+their questions uh uh you may be right
+
+192
+00:08:55,720 --> 00:09:04,360
+and and certainly if we take that step
+
+193
+00:09:00,720 --> 00:09:07,879
+forward and recognize that both markets
+
+194
+00:09:04,360 --> 00:09:10,079
+and governments are failable liable to
+
+195
+00:09:07,879 --> 00:09:13,039
+make mistakes and therefore willing to
+
+196
+00:09:10,078 --> 00:09:17,039
+correct their mistakes uh we are more
+
+197
+00:09:13,039 --> 00:09:21,159
+likely uh to actually uh develop a
+
+198
+00:09:17,039 --> 00:09:25,639
+system uh which does not uh end in a
+
+199
+00:09:21,159 --> 00:09:28,120
+financial crisis however if we made that
+
+200
+00:09:25,639 --> 00:09:31,439
+assumption uh that we have reached such
+
+201
+00:09:28,120 --> 00:09:35,320
+a system should surely there are the
+
+202
+00:09:31,440 --> 00:09:36,640
+seeds of the next financial crisis so
+
+203
+00:09:35,320 --> 00:09:39,480
+you have to
+
+204
+00:09:36,639 --> 00:09:43,879
+assume that you will not be able to do
+
+205
+00:09:39,480 --> 00:09:45,159
+it in order to achieve it and as you as
+
+206
+00:09:43,879 --> 00:09:48,720
+you
+
+207
+00:09:45,159 --> 00:09:53,838
+know we've actually really
+
+208
+00:09:48,720 --> 00:09:56,440
+extended the uh the financial cycle by
+
+209
+00:09:53,839 --> 00:09:59,480
+several decades through
+
+210
+00:09:56,440 --> 00:10:01,680
+intervention uh and so to that extent
+
+211
+00:09:59,480 --> 00:10:05,320
+interventions were really very
+
+212
+00:10:01,679 --> 00:10:10,359
+successful uh how however then they made
+
+213
+00:10:05,320 --> 00:10:14,120
+the bubble when it's the Super Bubble um
+
+214
+00:10:10,360 --> 00:10:18,879
+that much greater uh and the and the the
+
+215
+00:10:14,120 --> 00:10:20,959
+the great crisis of 20 crash of 2008 was
+
+216
+00:10:18,879 --> 00:10:25,078
+preceded by the great
+
+217
+00:10:20,958 --> 00:10:28,559
+moderation when you know risk uh
+
+218
+00:10:25,078 --> 00:10:30,399
+assessments were at at a minimum so
+
+219
+00:10:28,559 --> 00:10:34,319
+that's the
+
+220
+00:10:30,399 --> 00:10:37,720
+contradiction and that's the the kind of
+
+221
+00:10:34,320 --> 00:10:41,200
+awareness of reality that we need in
+
+222
+00:10:37,720 --> 00:10:45,040
+order to uh maintain
+
+223
+00:10:41,200 --> 00:10:47,759
+balance I would agree with you that the
+
+224
+00:10:45,039 --> 00:10:50,039
+the system can only continue if there is
+
+225
+00:10:47,759 --> 00:10:52,759
+a systemic change not just a marginal
+
+226
+00:10:50,039 --> 00:10:55,278
+change if there is a systemic change and
+
+227
+00:10:52,759 --> 00:10:57,799
+not just in finance but in the whole
+
+228
+00:10:55,278 --> 00:10:59,639
+relationship of markets and government
+
+229
+00:10:57,799 --> 00:11:01,958
+that's right now whether that happens or
+
+230
+00:10:59,639 --> 00:11:05,039
+not as you say very much remains to be
+
+231
+00:11:01,958 --> 00:11:07,039
+seen the jury's out and in fact perhaps
+
+232
+00:11:05,039 --> 00:11:09,159
+the evidence is becoming less favorable
+
+233
+00:11:07,039 --> 00:11:12,519
+to that point of view but actually I
+
+234
+00:11:09,159 --> 00:11:17,000
+will will address exactly that question
+
+235
+00:11:12,519 --> 00:11:21,039
+in in my last lecture uh shall We Now go
+
+236
+00:11:17,000 --> 00:11:22,799
+to MIT uh where uh we'll take the first
+
+237
+00:11:21,039 --> 00:11:25,838
+uh set of questions and then we'll move
+
+238
+00:11:22,799 --> 00:11:28,399
+to the audience here in Budapest uh do
+
+239
+00:11:25,839 --> 00:11:30,880
+we have uh a question uh to start with
+
+240
+00:11:28,399 --> 00:11:32,919
+from MIT
+
+241
+00:11:30,879 --> 00:11:37,360
+yes we have three questions prepare good
+
+242
+00:11:32,919 --> 00:11:39,599
+afternoon Mr Soros Mr ketki and CU
+
+243
+00:11:37,360 --> 00:11:42,120
+participants first
+
+244
+00:11:39,600 --> 00:11:45,040
+question yes we can hear could you talk
+
+245
+00:11:42,120 --> 00:11:46,278
+a bit a bit more slowly because uh then
+
+246
+00:11:45,039 --> 00:11:50,000
+we'll we'll hear more
+
+247
+00:11:46,278 --> 00:11:52,519
+clearly very good can you hear
+
+248
+00:11:50,000 --> 00:11:55,879
+me can you hear
+
+249
+00:11:52,519 --> 00:12:00,720
+me okay I guess you can uh yes my name
+
+250
+00:11:55,879 --> 00:12:03,000
+is Mark I'm an alumnist of MIT
+
+251
+00:12:00,720 --> 00:12:05,399
+do we have we can't hear you have we
+
+252
+00:12:03,000 --> 00:12:07,399
+have we lost the sound we have lost the
+
+253
+00:12:05,399 --> 00:12:11,958
+sound for the moment pressure mic
+
+254
+00:12:07,399 --> 00:12:15,480
+again there we go yes um my name is Mark
+
+255
+00:12:11,958 --> 00:12:16,919
+lar I'm an alumnus of uh MIT and a
+
+256
+00:12:15,480 --> 00:12:19,759
+professor of management at suffk
+
+257
+00:12:16,919 --> 00:12:23,278
+University in Boston I'd like to thank
+
+258
+00:12:19,759 --> 00:12:25,919
+Mr Soros for a blast of fresh air and
+
+259
+00:12:23,278 --> 00:12:29,439
+unorthodox thinking uh I have a question
+
+260
+00:12:25,919 --> 00:12:31,958
+about the role of uh private incentives
+
+261
+00:12:29,440 --> 00:12:35,480
+and compensation incentives of top
+
+262
+00:12:31,958 --> 00:12:36,799
+managers as a possible um source of
+
+263
+00:12:35,480 --> 00:12:40,680
+distortion I'm wondering whether that's
+
+264
+00:12:36,799 --> 00:12:42,719
+a major or a minor factor in such crisis
+
+265
+00:12:40,679 --> 00:12:45,679
+and whether Mr s has some
+
+266
+00:12:42,720 --> 00:12:48,320
+recommendations about how to regulate
+
+267
+00:12:45,679 --> 00:12:49,879
+the uh compensation and incentives of
+
+268
+00:12:48,320 --> 00:12:54,839
+top
+
+269
+00:12:49,879 --> 00:12:58,320
+managers well I mentioned that
+
+270
+00:12:54,839 --> 00:13:00,000
+institutions uh that are too big to fail
+
+271
+00:12:58,320 --> 00:13:03,519
+have to submit
+
+272
+00:13:00,000 --> 00:13:08,480
+to government regulation of
+
+273
+00:13:03,519 --> 00:13:12,639
+salaries and there is at the moment some
+
+274
+00:13:08,480 --> 00:13:16,278
+serious um I would say
+
+275
+00:13:12,639 --> 00:13:18,198
+social injustice in the very large
+
+276
+00:13:16,278 --> 00:13:21,519
+bonuses that people in those
+
+277
+00:13:18,198 --> 00:13:25,679
+institutions earn
+
+278
+00:13:21,519 --> 00:13:31,159
+because the earnings currently are due
+
+279
+00:13:25,679 --> 00:13:34,958
+to a hidden subsidy that the banks are
+
+280
+00:13:31,159 --> 00:13:38,120
+receiving by keeping interest rates at
+
+281
+00:13:34,958 --> 00:13:40,559
+zero and allowing them to invest for
+
+282
+00:13:38,120 --> 00:13:43,799
+instance in government bonds 10year
+
+283
+00:13:40,559 --> 00:13:47,679
+bonds yielding 3 and a half% that's 3
+
+284
+00:13:43,799 --> 00:13:52,319
+and a half% free and clear hidden
+
+285
+00:13:47,679 --> 00:13:55,919
+subsidy this is the route that we have
+
+286
+00:13:52,320 --> 00:13:59,759
+chosen following the the Japanese
+
+287
+00:13:55,919 --> 00:14:04,078
+example uh to allow the banks to earn
+
+288
+00:13:59,759 --> 00:14:07,240
+their way out of a hole and I think for
+
+289
+00:14:04,078 --> 00:14:11,278
+the employees of the banks to then get
+
+290
+00:14:07,240 --> 00:14:14,278
+an extra bonus on that money actually is
+
+291
+00:14:11,278 --> 00:14:14,278
+socially
+
+292
+00:14:17,000 --> 00:14:20,879
+unacceptable another question from
+
+293
+00:14:21,559 --> 00:14:28,078
+MIT hello my name is am kalar I'm a
+
+294
+00:14:25,679 --> 00:14:31,120
+Sloan MBA student and I want to thank
+
+295
+00:14:28,078 --> 00:14:33,638
+you first for having this talk with us
+
+296
+00:14:31,120 --> 00:14:36,278
+um can you please share your views on
+
+297
+00:14:33,639 --> 00:14:39,039
+the comments made yesterday by Professor
+
+298
+00:14:36,278 --> 00:14:42,320
+rubini about the status of the US Dollar
+
+299
+00:14:39,039 --> 00:14:44,599
+carry trades and the consequences which
+
+300
+00:14:42,320 --> 00:14:46,720
+may arise when these positions will
+
+301
+00:14:44,600 --> 00:14:50,000
+unfold and do you think we're
+
+302
+00:14:46,720 --> 00:14:50,879
+experiencing a a new bubble evolving
+
+303
+00:14:50,000 --> 00:14:55,198
+thank
+
+304
+00:14:50,879 --> 00:14:57,799
+you uh I didn't actually read those
+
+305
+00:14:55,198 --> 00:15:02,120
+those comments so I don't know what you
+
+306
+00:14:57,799 --> 00:15:04,639
+are uh referring referring to but uh
+
+307
+00:15:02,120 --> 00:15:06,959
+certainly there are
+
+308
+00:15:04,639 --> 00:15:11,959
+currently uh
+
+309
+00:15:06,958 --> 00:15:16,679
+imbalances uh uh in uh the financial
+
+310
+00:15:11,958 --> 00:15:19,719
+system uh due to the uh quantitative
+
+311
+00:15:16,679 --> 00:15:23,319
+easing and the
+
+312
+00:15:19,720 --> 00:15:26,800
+availability of free financing so that
+
+313
+00:15:23,320 --> 00:15:29,600
+is actually for the moment uh to the
+
+314
+00:15:26,799 --> 00:15:34,120
+extent that the stimulus is applied in
+
+315
+00:15:29,600 --> 00:15:40,199
+the United States which uh really would
+
+316
+00:15:34,120 --> 00:15:43,000
+need to reduce its Uh current account uh
+
+317
+00:15:40,198 --> 00:15:48,399
+deficit uh the stimulus is applied in
+
+318
+00:15:43,000 --> 00:15:52,318
+the wrong place and is building up the
+
+319
+00:15:48,399 --> 00:15:55,159
+imbalances which were partially uh
+
+320
+00:15:52,318 --> 00:15:57,479
+responsible for the crisis in what sense
+
+321
+00:15:55,159 --> 00:16:00,759
+do you mean it's being applied in the
+
+322
+00:15:57,480 --> 00:16:03,240
+wrong place the stimulus well because to
+
+323
+00:16:00,759 --> 00:16:06,199
+to balance the world
+
+324
+00:16:03,240 --> 00:16:09,039
+economy the United States has been
+
+325
+00:16:06,198 --> 00:16:12,318
+consuming significantly more 6 and a
+
+326
+00:16:09,039 --> 00:16:17,439
+half% more at the end uh than it was
+
+327
+00:16:12,318 --> 00:16:20,120
+producing and that built up the the um
+
+328
+00:16:17,440 --> 00:16:23,279
+surpluses in the uh in the other
+
+329
+00:16:20,120 --> 00:16:26,560
+countries that uh uh and which were then
+
+330
+00:16:23,278 --> 00:16:29,639
+in invested in US government bonds and
+
+331
+00:16:26,559 --> 00:16:32,638
+that was uh sort of at the root root of
+
+332
+00:16:29,639 --> 00:16:35,240
+the great moderation that preceded the
+
+333
+00:16:32,639 --> 00:16:37,198
+storm that's what I mean MH so you're
+
+334
+00:16:35,240 --> 00:16:39,039
+saying the stimulus it would be better
+
+335
+00:16:37,198 --> 00:16:41,198
+if more stimulus were applied in other
+
+336
+00:16:39,039 --> 00:16:42,958
+countries in the in the exporting
+
+337
+00:16:41,198 --> 00:16:45,039
+countries and the in the Surplus
+
+338
+00:16:42,958 --> 00:16:48,198
+countries yes and then particularly in
+
+339
+00:16:45,039 --> 00:16:51,639
+the developing world and as you know I'm
+
+340
+00:16:48,198 --> 00:16:54,198
+advocating uh the re the use of the
+
+341
+00:16:51,639 --> 00:16:56,198
+special drawing rights uh for the
+
+342
+00:16:54,198 --> 00:16:59,399
+developing world but that would take us
+
+343
+00:16:56,198 --> 00:17:01,359
+too far here do we have another question
+
+344
+00:16:59,399 --> 00:17:05,480
+from
+
+345
+00:17:01,360 --> 00:17:09,199
+MIT hi my name is Fernando DTE and I am
+
+346
+00:17:05,480 --> 00:17:13,400
+a PhD candidate at MIT and my question
+
+347
+00:17:09,199 --> 00:17:15,160
+is in terms of predictability of returns
+
+348
+00:17:13,400 --> 00:17:17,360
+what are the different
+
+349
+00:17:15,160 --> 00:17:20,279
+implications between the efficient
+
+350
+00:17:17,359 --> 00:17:23,838
+markets hypothesis and
+
+351
+00:17:20,279 --> 00:17:26,318
+reflexivity the what in terms of the pr
+
+352
+00:17:23,838 --> 00:17:30,519
+predictability of the crisis and of the
+
+353
+00:17:26,318 --> 00:17:33,798
+cycle uh where were the where were the
+
+354
+00:17:30,519 --> 00:17:35,720
+specific different points between an
+
+355
+00:17:33,798 --> 00:17:38,079
+efficient market analysis and the
+
+356
+00:17:35,720 --> 00:17:40,679
+reflexivity analysis which in a sense
+
+357
+00:17:38,079 --> 00:17:43,399
+would allow you to see you know which
+
+358
+00:17:40,679 --> 00:17:46,840
+analysis was empirically better well you
+
+359
+00:17:43,400 --> 00:17:49,880
+know I'm not qualified to to criticize
+
+360
+00:17:46,839 --> 00:17:52,798
+the efficient market hypothesis and the
+
+361
+00:17:49,880 --> 00:17:55,200
+rational expectations Theory directly
+
+362
+00:17:52,798 --> 00:17:56,599
+because I'm not familiar with it the
+
+363
+00:17:55,200 --> 00:18:00,400
+fact that I
+
+364
+00:17:56,599 --> 00:18:02,959
+was uh able to make a living for last 50
+
+365
+00:18:00,400 --> 00:18:08,080
+years without being familiar with it is
+
+366
+00:18:02,960 --> 00:18:12,480
+a comment on the value of that uh of
+
+367
+00:18:08,079 --> 00:18:17,599
+those however um uh I I can tell you
+
+368
+00:18:12,480 --> 00:18:21,599
+that my uh interpretation of bubbles
+
+369
+00:18:17,599 --> 00:18:25,079
+expressly doeses not claim to be able to
+
+370
+00:18:21,599 --> 00:18:28,839
+tell whether a test will be successful
+
+371
+00:18:25,079 --> 00:18:31,439
+or not and from personal experience I
+
+372
+00:18:28,839 --> 00:18:32,240
+thought the Super Bubble was big enough
+
+373
+00:18:31,440 --> 00:18:35,640
+in
+
+374
+00:18:32,240 --> 00:18:39,359
+98 that it would lead to a collapse of
+
+375
+00:18:35,640 --> 00:18:43,919
+the financial system and I was wrong so
+
+376
+00:18:39,359 --> 00:18:46,519
+I do not claim to be able to predict uh
+
+377
+00:18:43,919 --> 00:18:51,880
+the future and I expressly claim the
+
+378
+00:18:46,519 --> 00:18:55,720
+opposite however I think that with that
+
+379
+00:18:51,880 --> 00:19:01,720
+theory it is possible to anticipate
+
+380
+00:18:55,720 --> 00:19:04,240
+events to uh create uh scenarios and
+
+381
+00:19:01,720 --> 00:19:07,640
+hypotheses that you can then test
+
+382
+00:19:04,240 --> 00:19:10,120
+against the actual course of events and
+
+383
+00:19:07,640 --> 00:19:14,240
+that is in fact what I have been doing
+
+384
+00:19:10,119 --> 00:19:17,519
+for the last uh 50 years as a market
+
+385
+00:19:14,240 --> 00:19:21,079
+participants a participant whenever I
+
+386
+00:19:17,519 --> 00:19:23,839
+could I formulated a hypothesis uh with
+
+387
+00:19:21,079 --> 00:19:25,399
+regard to a particular stock or the
+
+388
+00:19:23,839 --> 00:19:29,519
+market or an
+
+389
+00:19:25,400 --> 00:19:33,480
+industry um and then I tested it against
+
+390
+00:19:29,519 --> 00:19:37,200
+events and when events uh evolve
+
+391
+00:19:33,480 --> 00:19:40,880
+differently I reassessed it uh so I
+
+392
+00:19:37,200 --> 00:19:43,000
+think this and this is a very paparian
+
+393
+00:19:40,880 --> 00:19:47,600
+approach and that's why I'm a great
+
+394
+00:19:43,000 --> 00:19:50,759
+admirer of of Papa's uh uh theory of
+
+395
+00:19:47,599 --> 00:19:54,199
+scientific method uh even though he
+
+396
+00:19:50,759 --> 00:20:01,158
+doesn't apply the way he he he wants it
+
+397
+00:19:54,200 --> 00:20:04,679
+to uh to social phena uh because of this
+
+398
+00:20:01,159 --> 00:20:07,720
+Reliance on conjectures and
+
+399
+00:20:04,679 --> 00:20:10,919
+reputations uh and it it's been a very
+
+400
+00:20:07,720 --> 00:20:12,600
+very rewarding process as far as I'm
+
+401
+00:20:10,919 --> 00:20:15,400
+concerned well well let me press you a
+
+402
+00:20:12,599 --> 00:20:17,719
+little bit further on that uh to give a
+
+403
+00:20:15,400 --> 00:20:19,240
+specific example if we look at this
+
+404
+00:20:17,720 --> 00:20:21,038
+latest crisis and I think this was
+
+405
+00:20:19,240 --> 00:20:23,839
+really the question that was being asked
+
+406
+00:20:21,038 --> 00:20:27,759
+if we look at this latest crisis uh
+
+407
+00:20:23,839 --> 00:20:30,959
+could you describe for us at what point
+
+408
+00:20:27,759 --> 00:20:34,079
+you began to uh develop if you like
+
+409
+00:20:30,960 --> 00:20:37,038
+these hypoth a hypothesis suggesting to
+
+410
+00:20:34,079 --> 00:20:41,240
+you that we may be moving
+
+411
+00:20:37,038 --> 00:20:43,558
+into into a climax of a a major bubble
+
+412
+00:20:41,240 --> 00:20:45,759
+or perhaps even the Super Bubble and you
+
+413
+00:20:43,558 --> 00:20:48,798
+know what were some of the events that
+
+414
+00:20:45,759 --> 00:20:50,240
+led you either to confirm or uh draw
+
+415
+00:20:48,798 --> 00:20:53,480
+back from that
+
+416
+00:20:50,240 --> 00:20:57,960
+hypothesis that we may be that was clear
+
+417
+00:20:53,480 --> 00:21:00,720
+to me obviously for many years and and I
+
+418
+00:20:57,960 --> 00:21:04,079
+in in my my previous book in
+
+419
+00:21:00,720 --> 00:21:09,159
+2006 I spelled it out and I identified
+
+420
+00:21:04,079 --> 00:21:14,480
+actually uh the the subp and the housing
+
+421
+00:21:09,159 --> 00:21:17,840
+U Market as the locus from which the the
+
+422
+00:21:14,480 --> 00:21:20,960
+uh crisis would come so that was and I
+
+423
+00:21:17,839 --> 00:21:24,480
+was not the only one who who did that uh
+
+424
+00:21:20,960 --> 00:21:27,798
+so it was visible but when it would come
+
+425
+00:21:24,480 --> 00:21:30,640
+was could not be determined and frankly
+
+426
+00:21:27,798 --> 00:21:33,278
+I and many others who expected it to
+
+427
+00:21:30,640 --> 00:21:36,799
+happen expected it to happen at least a
+
+428
+00:21:33,278 --> 00:21:44,159
+year earlier uh then it really started
+
+429
+00:21:36,798 --> 00:21:49,558
+to hit uh in the early part of uh of uh
+
+430
+00:21:44,159 --> 00:21:53,200
+2007 and in August two and I I wrote
+
+431
+00:21:49,558 --> 00:21:57,359
+about it uh then and published it that
+
+432
+00:21:53,200 --> 00:21:59,840
+was the new paradigm uh which I wrote
+
+433
+00:21:57,359 --> 00:22:05,759
+actually at Christmas
+
+434
+00:21:59,839 --> 00:22:10,798
+2006 um um published in in in April um
+
+435
+00:22:05,759 --> 00:22:12,679
+and then in August I saw that this the
+
+436
+00:22:10,798 --> 00:22:16,558
+crisis has really
+
+437
+00:22:12,679 --> 00:22:20,159
+arrived and I came out of retirement and
+
+438
+00:22:16,558 --> 00:22:25,960
+took over the management of my fund uh
+
+439
+00:22:20,159 --> 00:22:29,278
+in order to uh protect my my um estate
+
+440
+00:22:25,960 --> 00:22:33,079
+um which I did in in August so from
+
+441
+00:22:29,278 --> 00:22:36,839
+August uh 2007 it was pretty clear to
+
+442
+00:22:33,079 --> 00:22:40,519
+you that this was going to be a major
+
+443
+00:22:36,839 --> 00:22:43,079
+the major uh financial crisis not just
+
+444
+00:22:40,519 --> 00:22:45,240
+another minor bubble of the kind that
+
+445
+00:22:43,079 --> 00:22:49,240
+we've seen over the last 20 years yes
+
+446
+00:22:45,240 --> 00:22:53,599
+but to for for the order of
+
+447
+00:22:49,240 --> 00:22:55,960
+uh being being truthful I did not
+
+448
+00:22:53,599 --> 00:22:59,519
+anticipate that Leeman brothers would be
+
+449
+00:22:55,960 --> 00:23:03,319
+allowed to fail I I saw the crisis as
+
+450
+00:22:59,519 --> 00:23:06,119
+being the turning point but I did not
+
+451
+00:23:03,319 --> 00:23:09,278
+anticipate that the authorities would
+
+452
+00:23:06,119 --> 00:23:13,239
+fail to rescue Leman brothers and I
+
+453
+00:23:09,278 --> 00:23:15,480
+think that was a gamechanging event do
+
+454
+00:23:13,240 --> 00:23:17,640
+you think I'm sorry to take the time of
+
+455
+00:23:15,480 --> 00:23:19,759
+of our friends at MIT but on on that
+
+456
+00:23:17,640 --> 00:23:21,880
+point of Leman Brothers do you think the
+
+457
+00:23:19,759 --> 00:23:24,839
+authorities had any real
+
+458
+00:23:21,880 --> 00:23:26,880
+alternative I I think they did although
+
+459
+00:23:24,839 --> 00:23:31,278
+they would say that they did not have
+
+460
+00:23:26,880 --> 00:23:34,120
+the powers uh of resolution to intervene
+
+461
+00:23:31,278 --> 00:23:36,880
+but in actual fact Whenever there is a
+
+462
+00:23:34,119 --> 00:23:39,719
+crisis and the authorities recognize it
+
+463
+00:23:36,880 --> 00:23:43,080
+that recognize it as such they took
+
+464
+00:23:39,720 --> 00:23:45,640
+measures or in historically which could
+
+465
+00:23:43,079 --> 00:23:49,000
+not be justified by the then prevailing
+
+466
+00:23:45,640 --> 00:23:52,480
+rules so they always uh used a large
+
+467
+00:23:49,000 --> 00:23:54,519
+degree of discretion and they could have
+
+468
+00:23:52,480 --> 00:23:58,159
+done it had
+
+469
+00:23:54,519 --> 00:24:00,839
+they been determined to do so another
+
+470
+00:23:58,159 --> 00:24:00,840
+question from
+
+471
+00:24:02,079 --> 00:24:08,119
+MIT this is Ricardo cavero head of the
+
+472
+00:24:05,798 --> 00:24:11,079
+economics Department of MIT good
+
+473
+00:24:08,119 --> 00:24:14,199
+afternoon Mr Soros um you mentioned the
+
+474
+00:24:11,079 --> 00:24:16,558
+the need to control credit uh in order
+
+475
+00:24:14,200 --> 00:24:19,798
+to regulate asset Bubbles and you
+
+476
+00:24:16,558 --> 00:24:21,158
+mentioned the example of China um but
+
+477
+00:24:19,798 --> 00:24:23,240
+the big difference between China and the
+
+478
+00:24:21,159 --> 00:24:26,480
+US is the type of financial markets they
+
+479
+00:24:23,240 --> 00:24:28,880
+have and we have in in China it's mostly
+
+480
+00:24:26,480 --> 00:24:30,759
+Bank Med credit most mostly Bank
+
+481
+00:24:28,880 --> 00:24:33,360
+mediated the same is true in Continental
+
+482
+00:24:30,759 --> 00:24:35,200
+Europe but in the US Banks play a very
+
+483
+00:24:33,359 --> 00:24:37,599
+small role so what do you do in a more
+
+484
+00:24:35,200 --> 00:24:40,038
+complex Financial market like the US in
+
+485
+00:24:37,599 --> 00:24:41,678
+order to control credit when asset
+
+486
+00:24:40,038 --> 00:24:44,398
+bubble is
+
+487
+00:24:41,679 --> 00:24:47,120
+developing I I I'm I'm sorry Professor
+
+488
+00:24:44,398 --> 00:24:48,759
+cabalero the the the sound transmission
+
+489
+00:24:47,119 --> 00:24:51,519
+was not very clear I think I understood
+
+490
+00:24:48,759 --> 00:24:53,558
+the question but uh come back if I've
+
+491
+00:24:51,519 --> 00:24:56,679
+misinterpreted uh I think the question
+
+492
+00:24:53,558 --> 00:24:58,918
+was that uh you mentioned that there's
+
+493
+00:24:56,679 --> 00:25:00,919
+going to be a need to control credit as
+
+494
+00:24:58,919 --> 00:25:03,720
+well as use monetary policy to regulate
+
+495
+00:25:00,919 --> 00:25:06,600
+Bubbles and you gave China as an example
+
+496
+00:25:03,720 --> 00:25:08,720
+of the successful control of credit uh I
+
+497
+00:25:06,599 --> 00:25:11,119
+think the question was that in China
+
+498
+00:25:08,720 --> 00:25:14,558
+it's possible to control credit because
+
+499
+00:25:11,119 --> 00:25:16,639
+they have uh a dominant banking system
+
+500
+00:25:14,558 --> 00:25:18,798
+and almost no credit markets and indeed
+
+501
+00:25:16,640 --> 00:25:21,278
+the the banking system is largely State
+
+502
+00:25:18,798 --> 00:25:24,319
+controlled if you if you have a system
+
+503
+00:25:21,278 --> 00:25:27,720
+like the US which is largely a credit
+
+504
+00:25:24,319 --> 00:25:30,558
+market securitized system is there any
+
+505
+00:25:27,720 --> 00:25:33,120
+feasible way of actually exercising
+
+506
+00:25:30,558 --> 00:25:36,599
+control over credit I think that was the
+
+507
+00:25:33,119 --> 00:25:40,839
+question yes I think there is and in
+
+508
+00:25:36,599 --> 00:25:44,038
+fact that control was being exercised as
+
+509
+00:25:40,839 --> 00:25:48,319
+I've mentioned in my lecture when I
+
+510
+00:25:44,038 --> 00:25:53,119
+started in business banking system was
+
+511
+00:25:48,319 --> 00:25:56,079
+extremely closely controlled and I I've
+
+512
+00:25:53,119 --> 00:25:58,839
+actually witnessed and participated in
+
+513
+00:25:56,079 --> 00:26:03,240
+the gradual decontrol
+
+514
+00:25:58,839 --> 00:26:05,720
+of the finance of the banking system in
+
+515
+00:26:03,240 --> 00:26:11,000
+1972 I wrote
+
+516
+00:26:05,720 --> 00:26:14,480
+a paper uh entitled the case for for
+
+517
+00:26:11,000 --> 00:26:18,440
+growth Banks because I said that an
+
+518
+00:26:14,480 --> 00:26:23,519
+industry that was totally dormant and
+
+519
+00:26:18,440 --> 00:26:26,278
+the people uh working in it were not
+
+520
+00:26:23,519 --> 00:26:29,639
+motivated by profit motive but were more
+
+521
+00:26:26,278 --> 00:26:32,759
+like more like government and employees
+
+522
+00:26:29,640 --> 00:26:35,960
+H there was a new group of banks
+
+523
+00:26:32,759 --> 00:26:41,119
+actually very much under the leadership
+
+524
+00:26:35,960 --> 00:26:44,200
+of Walter wristen of City Bank um and
+
+525
+00:26:41,119 --> 00:26:47,000
+they fanned out from City Bank and and
+
+526
+00:26:44,200 --> 00:26:50,558
+they actually wanted to do banking for
+
+527
+00:26:47,000 --> 00:26:53,319
+profit and uh and I said this could be
+
+528
+00:26:50,558 --> 00:26:56,639
+very rewarding uh for investment and in
+
+529
+00:26:53,319 --> 00:27:02,000
+fact it was uh and then in
+
+530
+00:26:56,640 --> 00:27:05,520
+73 it came the the oil crisis and the
+
+531
+00:27:02,000 --> 00:27:10,919
+large um surpluses that the oil
+
+532
+00:27:05,519 --> 00:27:13,158
+producing countries uh um uh received
+
+533
+00:27:10,919 --> 00:27:15,320
+which were then rechanneled through the
+
+534
+00:27:13,159 --> 00:27:19,399
+commercial Banks and that's when the
+
+535
+00:27:15,319 --> 00:27:25,319
+London Market the euro dollar market
+
+536
+00:27:19,398 --> 00:27:28,558
+suddenly came to life and gradually U
+
+537
+00:27:25,319 --> 00:27:33,960
+the very strict controls on on State
+
+538
+00:27:28,558 --> 00:27:38,319
+banking were were overcome by setting up
+
+539
+00:27:33,960 --> 00:27:41,399
+a London subsidiary that was exempt and
+
+540
+00:27:38,319 --> 00:27:45,240
+that then eventually led to the
+
+541
+00:27:41,398 --> 00:27:49,000
+financial crisis of 82 and so on so it
+
+542
+00:27:45,240 --> 00:27:51,759
+it is a historic process and I actually
+
+543
+00:27:49,000 --> 00:27:53,798
+have lived through the entire history
+
+544
+00:27:51,759 --> 00:27:55,519
+but is it possible now that the genie
+
+545
+00:27:53,798 --> 00:27:58,599
+has been let out of the bottle now that
+
+546
+00:27:55,519 --> 00:28:00,919
+you have a credit market system as
+
+547
+00:27:58,599 --> 00:28:02,798
+opposed to or a capital market system of
+
+548
+00:28:00,919 --> 00:28:05,840
+credit rather than a banking system of
+
+549
+00:28:02,798 --> 00:28:07,480
+credit in the US can you control credit
+
+550
+00:28:05,839 --> 00:28:10,240
+when it's supplied by the capital
+
+551
+00:28:07,480 --> 00:28:14,720
+markets well o o obviously you can't
+
+552
+00:28:10,240 --> 00:28:16,880
+control it as if if it were uh uh within
+
+553
+00:28:14,720 --> 00:28:18,919
+the banking system and actually what
+
+554
+00:28:16,880 --> 00:28:21,480
+happened was in
+
+555
+00:28:18,919 --> 00:28:24,840
+1982 as you recall because that's when
+
+556
+00:28:21,480 --> 00:28:28,360
+we first started discussing these issues
+
+557
+00:28:24,839 --> 00:28:32,038
+uh um the banks were forced by by the
+
+558
+00:28:28,359 --> 00:28:35,199
+central banks to renew roll over the
+
+559
+00:28:32,038 --> 00:28:37,480
+credits in order to prevent a collapse
+
+560
+00:28:35,200 --> 00:28:40,519
+and they didn't like it and that's
+
+561
+00:28:37,480 --> 00:28:43,919
+actually when they started securitizing
+
+562
+00:28:40,519 --> 00:28:47,120
+their loans uh so that they couldn't be
+
+563
+00:28:43,919 --> 00:28:49,200
+caught by the central banks in case of
+
+564
+00:28:47,119 --> 00:28:53,918
+need and then in
+
+565
+00:28:49,200 --> 00:28:56,798
+97 most of the Sovereign uh bonds had
+
+566
+00:28:53,919 --> 00:28:58,600
+been securitized and therefore actually
+
+567
+00:28:56,798 --> 00:29:01,879
+except in the case of Kore
+
+568
+00:28:58,599 --> 00:29:05,918
+South Korea uh the the banks could not
+
+569
+00:29:01,880 --> 00:29:09,480
+be uh forced to roll over the the loans
+
+570
+00:29:05,919 --> 00:29:13,200
+and that's why the brunt of the burden
+
+571
+00:29:09,480 --> 00:29:17,079
+was carried by the countries concerned
+
+572
+00:29:13,200 --> 00:29:19,600
+uh so uh it is more difficult if you
+
+573
+00:29:17,079 --> 00:29:21,879
+don't have it in the banking system but
+
+574
+00:29:19,599 --> 00:29:23,678
+I think that the measures that I
+
+575
+00:29:21,880 --> 00:29:27,120
+proposed and I think they need to be
+
+576
+00:29:23,679 --> 00:29:28,880
+further elaborated and and and refined
+
+577
+00:29:27,119 --> 00:29:30,798
+uh could actually
+
+578
+00:29:28,880 --> 00:29:33,880
+give you that kind of the control that
+
+579
+00:29:30,798 --> 00:29:35,798
+you that you need should we have one
+
+580
+00:29:33,880 --> 00:29:38,480
+more question from MIT and then we'll go
+
+581
+00:29:35,798 --> 00:29:41,519
+to the floor here and why don't we maybe
+
+582
+00:29:38,480 --> 00:29:43,599
+take take hang around unless there's
+
+583
+00:29:41,519 --> 00:29:45,319
+somebody dying at MIT we we'll have some
+
+584
+00:29:43,599 --> 00:29:49,359
+question I think there's someone about
+
+585
+00:29:45,319 --> 00:29:49,359
+to ask a question okay yeah last
+
+586
+00:29:50,079 --> 00:29:55,000
+question good afternoon Mr sorus I have
+
+587
+00:29:52,880 --> 00:29:57,159
+a question uh I'm a second year student
+
+588
+00:29:55,000 --> 00:30:00,038
+at MIT SLO and I want to carry on a
+
+589
+00:29:57,159 --> 00:30:00,039
+point about China
+
+590
+00:30:02,240 --> 00:30:05,839
+it's
+
+591
+00:30:03,519 --> 00:30:08,278
+on good afternoon Mr s I'm a second year
+
+592
+00:30:05,839 --> 00:30:10,278
+SL student to carry on with the point of
+
+593
+00:30:08,278 --> 00:30:12,798
+China it is able to control Capital
+
+594
+00:30:10,278 --> 00:30:14,240
+inflows due to its dominant economic
+
+595
+00:30:12,798 --> 00:30:16,960
+position in the
+
+596
+00:30:14,240 --> 00:30:19,359
+world how about a middle developing
+
+597
+00:30:16,960 --> 00:30:21,558
+country how does it do likewise one
+
+598
+00:30:19,359 --> 00:30:24,678
+example I think of is Malaysia which
+
+599
+00:30:21,558 --> 00:30:27,359
+closed up its its capital inflow borders
+
+600
+00:30:24,679 --> 00:30:28,759
+after 1998 crisis how does a developing
+
+601
+00:30:27,359 --> 00:30:32,959
+country like that
+
+602
+00:30:28,759 --> 00:30:35,558
+stand withstand International Capital
+
+603
+00:30:32,960 --> 00:30:37,960
+inflows uh I think the the question is
+
+604
+00:30:35,558 --> 00:30:40,599
+again uh apologies but it didn't come
+
+605
+00:30:37,960 --> 00:30:43,720
+through very clearly but uh I think the
+
+606
+00:30:40,599 --> 00:30:47,240
+question was about Capital controls and
+
+607
+00:30:43,720 --> 00:30:51,038
+the disruptive inflows and outflows of
+
+608
+00:30:47,240 --> 00:30:52,880
+capital uh China has Capital controls
+
+609
+00:30:51,038 --> 00:30:54,960
+even despite the fact that it's an
+
+610
+00:30:52,880 --> 00:30:57,480
+overwhelming now an overwhelmingly
+
+611
+00:30:54,960 --> 00:31:00,399
+powerful economy uh I think the question
+
+612
+00:30:57,480 --> 00:31:03,319
+was how how can other developing
+
+613
+00:31:00,398 --> 00:31:04,959
+countries other emerging economies uh
+
+614
+00:31:03,319 --> 00:31:08,319
+which are smaller and potentially more
+
+615
+00:31:04,960 --> 00:31:10,399
+vulnerable how should they cope with the
+
+616
+00:31:08,319 --> 00:31:13,000
+uh problem or the threat of disruptive
+
+617
+00:31:10,398 --> 00:31:16,599
+Capital flows yeah well it is much
+
+618
+00:31:13,000 --> 00:31:19,398
+easier to control Capital flows when
+
+619
+00:31:16,599 --> 00:31:22,759
+they are coming in than it is when
+
+620
+00:31:19,398 --> 00:31:26,719
+they're going out uh and you can see
+
+621
+00:31:22,759 --> 00:31:32,919
+that Brazil just imposed a
+
+622
+00:31:26,720 --> 00:31:36,960
+2% tax tax on all new Financial Capital
+
+623
+00:31:32,919 --> 00:31:41,399
+coming into Brazil in order to slow down
+
+624
+00:31:36,960 --> 00:31:45,919
+the inflow now that's a bit cruder than
+
+625
+00:31:41,398 --> 00:31:52,199
+the more sophisticated method that Chile
+
+626
+00:31:45,919 --> 00:31:55,038
+uh applies which uh apportions the the
+
+627
+00:31:52,200 --> 00:31:59,919
+uh the tax to the length of time that
+
+628
+00:31:55,038 --> 00:32:03,480
+the capital is is is committed uh uh but
+
+629
+00:31:59,919 --> 00:32:07,480
+and probably it will not slow it will
+
+630
+00:32:03,480 --> 00:32:12,000
+slow the inflow but probably will not uh
+
+631
+00:32:07,480 --> 00:32:16,200
+uh stop it uh but clearly there is a
+
+632
+00:32:12,000 --> 00:32:20,200
+greater role for Capital controls then
+
+633
+00:32:16,200 --> 00:32:26,759
+the Washington consensus recognized uh
+
+634
+00:32:20,200 --> 00:32:28,319
+prior uh to the the crisis now China has
+
+635
+00:32:26,759 --> 00:32:34,000
+actually
+
+636
+00:32:28,319 --> 00:32:37,119
+uh discovered a fabulous
+
+637
+00:32:34,000 --> 00:32:40,599
+machine uh for
+
+638
+00:32:37,119 --> 00:32:44,158
+mobilizing the creative and and
+
+639
+00:32:40,599 --> 00:32:49,359
+acquisitive uh energies of the people
+
+640
+00:32:44,159 --> 00:32:52,120
+and and yet uh uh creaming off a
+
+641
+00:32:49,359 --> 00:32:54,558
+significant portion of their
+
+642
+00:32:52,119 --> 00:33:00,038
+productivity for the benefit of the
+
+643
+00:32:54,558 --> 00:33:03,440
+state by tying the rembi to the dollar
+
+644
+00:33:00,038 --> 00:33:04,798
+and and effectively ensuring that the
+
+645
+00:33:03,440 --> 00:33:09,519
+Remi is
+
+646
+00:33:04,798 --> 00:33:12,519
+undervalued so that China has built up
+
+647
+00:33:09,519 --> 00:33:15,440
+the the amount of money that has been
+
+648
+00:33:12,519 --> 00:33:18,759
+creamed off without people feeling any
+
+649
+00:33:15,440 --> 00:33:22,960
+pain uh can be measured it's $2.3
+
+650
+00:33:18,759 --> 00:33:25,839
+trillion dollar and still
+
+651
+00:33:22,960 --> 00:33:27,480
+growing very good answer should we have
+
+652
+00:33:25,839 --> 00:33:30,079
+some questions here maybe we come back
+
+653
+00:33:27,480 --> 00:33:32,759
+to the yeah we we may come back uh if
+
+654
+00:33:30,079 --> 00:33:36,079
+there's time uh there's a question there
+
+655
+00:33:32,759 --> 00:33:40,000
+in the middle let's start with
+
+656
+00:33:36,079 --> 00:33:41,798
+that um hi yes um my name is Zan Gluk I
+
+657
+00:33:40,000 --> 00:33:43,720
+uh studied philosophy at Bard and now
+
+658
+00:33:41,798 --> 00:33:46,918
+I'm at the sociology Department here at
+
+659
+00:33:43,720 --> 00:33:49,440
+CU um I have two related questions I'll
+
+660
+00:33:46,919 --> 00:33:53,320
+try and make them brief um about the
+
+661
+00:33:49,440 --> 00:33:55,200
+nature of capitalism um one of them is
+
+662
+00:33:53,319 --> 00:33:57,319
+about economic theory and the other one
+
+663
+00:33:55,200 --> 00:33:58,440
+could I could say about uh Phil
+
+664
+00:33:57,319 --> 00:34:01,558
+philanthropy
+
+665
+00:33:58,440 --> 00:34:04,600
+practice um it seems that what you're
+
+666
+00:34:01,558 --> 00:34:08,320
+proposing here is a uh a theory of
+
+667
+00:34:04,599 --> 00:34:11,319
+crisis of sorts uh of financial capital
+
+668
+00:34:08,320 --> 00:34:13,599
+and I wanted to ask about um a broader
+
+669
+00:34:11,320 --> 00:34:17,639
+field of economic theory um crisis
+
+670
+00:34:13,599 --> 00:34:19,440
+Theory more generally and related to a
+
+671
+00:34:17,639 --> 00:34:23,079
+point brought up by Joseph stiglet in
+
+672
+00:34:19,440 --> 00:34:26,079
+his um lecture last week at CU um namely
+
+673
+00:34:23,079 --> 00:34:28,720
+that the postwar period we saw a 15
+
+674
+00:34:26,079 --> 00:34:31,599
+years of uh relative stability where
+
+675
+00:34:28,719 --> 00:34:33,398
+there were no um crises of capitalism
+
+676
+00:34:31,599 --> 00:34:35,039
+and that was a bit of an anomaly within
+
+677
+00:34:33,398 --> 00:34:39,078
+the history of capitalism I was
+
+678
+00:34:35,039 --> 00:34:41,800
+wondering how your uh Theory would apply
+
+679
+00:34:39,079 --> 00:34:44,039
+more broadly historically to say the
+
+680
+00:34:41,800 --> 00:34:45,720
+early capitalist crisis of the 19th
+
+681
+00:34:44,039 --> 00:34:50,320
+century
+
+682
+00:34:45,719 --> 00:34:52,878
+um and secondly just don't go second
+
+683
+00:34:50,320 --> 00:34:54,879
+because I missed the key key words so I
+
+684
+00:34:52,878 --> 00:34:58,078
+couldn't understand the question uh the
+
+685
+00:34:54,878 --> 00:35:00,440
+the the question is uh you have theory
+
+686
+00:34:58,079 --> 00:35:03,760
+of crisis of capitalism of financial
+
+687
+00:35:00,440 --> 00:35:07,760
+crisis uh can you relate it not just to
+
+688
+00:35:03,760 --> 00:35:10,079
+the crisis of the last 20 or 30 years uh
+
+689
+00:35:07,760 --> 00:35:13,320
+but going further back into into history
+
+690
+00:35:10,079 --> 00:35:16,400
+into the history of 19th century of
+
+691
+00:35:13,320 --> 00:35:19,519
+capitalism uh does your theory in some
+
+692
+00:35:16,400 --> 00:35:22,079
+sense still apply yeah yes the the big
+
+693
+00:35:19,519 --> 00:35:24,480
+difference that in the 19th century ever
+
+694
+00:35:22,079 --> 00:35:27,800
+since You' have had Financial PR uh uh
+
+695
+00:35:24,480 --> 00:35:30,000
+markets you have had financial crisis uh
+
+696
+00:35:27,800 --> 00:35:34,039
+in fact even when you only had two lip
+
+697
+00:35:30,000 --> 00:35:36,519
+markets you had financial crisis but but
+
+698
+00:35:34,039 --> 00:35:39,960
+each time there was a crisis there was
+
+699
+00:35:36,519 --> 00:35:45,079
+an attempt to understand what went wrong
+
+700
+00:35:39,960 --> 00:35:48,280
+and to uh bring some regulatory reform
+
+701
+00:35:45,079 --> 00:35:50,240
+and as I read the history of the 19th
+
+702
+00:35:48,280 --> 00:35:53,280
+century there were all kinds of
+
+703
+00:35:50,239 --> 00:35:56,559
+commissions in England examining after
+
+704
+00:35:53,280 --> 00:36:00,359
+each financial crisis what went wrong
+
+705
+00:35:56,559 --> 00:36:04,239
+and a step further was taken to build up
+
+706
+00:36:00,358 --> 00:36:09,318
+Central Banking and in the 20th century
+
+707
+00:36:04,239 --> 00:36:13,039
+uh after the after 19 29 uh you started
+
+708
+00:36:09,318 --> 00:36:18,400
+with the regulation of uh uh stock
+
+709
+00:36:13,039 --> 00:36:23,079
+markets uh so uh crisis were followed by
+
+710
+00:36:18,400 --> 00:36:26,240
+reforms whereas starting in 1980 because
+
+711
+00:36:23,079 --> 00:36:29,280
+of predominance of Market
+
+712
+00:36:26,239 --> 00:36:30,598
+fundamentalism uh crisis were followed
+
+713
+00:36:29,280 --> 00:36:33,680
+by
+
+714
+00:36:30,599 --> 00:36:37,160
+deregulation partly actually for very
+
+715
+00:36:33,679 --> 00:36:40,078
+practical reasons because in 19 after
+
+716
+00:36:37,159 --> 00:36:43,399
+1982 the banks also had to earn their
+
+717
+00:36:40,079 --> 00:36:46,280
+way out of the hole and it took them
+
+718
+00:36:43,400 --> 00:36:50,519
+about three to five years to do it
+
+719
+00:36:46,280 --> 00:36:53,400
+before eventually uh the uh Emerging
+
+720
+00:36:50,519 --> 00:36:56,280
+Market debt was reorganized into Brady
+
+721
+00:36:53,400 --> 00:36:58,920
+bonds uh so there was a practical reason
+
+722
+00:36:56,280 --> 00:37:02,839
+for doing it but there was also this
+
+723
+00:36:58,920 --> 00:37:06,200
+this um uh uh let's say ideological
+
+724
+00:37:02,838 --> 00:37:08,480
+reason and don't forget that glass
+
+725
+00:37:06,199 --> 00:37:12,239
+deagle was abolished only a few years
+
+726
+00:37:08,480 --> 00:37:14,480
+ago and and and uh short selling on the
+
+727
+00:37:12,239 --> 00:37:19,078
+stock exchange was the was abolished
+
+728
+00:37:14,480 --> 00:37:21,838
+only just in time uh for
+
+729
+00:37:19,079 --> 00:37:24,200
+bares yes there was a qu I think I had
+
+730
+00:37:21,838 --> 00:37:25,799
+the second question do you want to
+
+731
+00:37:24,199 --> 00:37:29,480
+briefly the second question very very
+
+732
+00:37:25,800 --> 00:37:31,039
+brief um uh it's it's related um and
+
+733
+00:37:29,480 --> 00:37:32,880
+perhaps could be related also to this
+
+734
+00:37:31,039 --> 00:37:34,480
+new economic Institute you're talking
+
+735
+00:37:32,880 --> 00:37:38,318
+about so about philanthropic
+
+736
+00:37:34,480 --> 00:37:41,800
+philanthropic practice um whether uh
+
+737
+00:37:38,318 --> 00:37:45,838
+philanthropy in your opinion um changes
+
+738
+00:37:41,800 --> 00:37:49,640
+the nature of capitalism um that is to
+
+739
+00:37:45,838 --> 00:37:52,000
+say um some critics have said that um
+
+740
+00:37:49,639 --> 00:37:53,799
+philanthropy sometimes acts as a
+
+741
+00:37:52,000 --> 00:37:56,800
+Band-Aid as what you've said is a
+
+742
+00:37:53,800 --> 00:37:58,480
+fundamentally broken system um and I was
+
+743
+00:37:56,800 --> 00:38:01,560
+wondering what you see the role of
+
+744
+00:37:58,480 --> 00:38:04,280
+philanthropy as whether or not it can
+
+745
+00:38:01,559 --> 00:38:06,719
+affect a deep structural change within
+
+746
+00:38:04,280 --> 00:38:09,640
+capitalism or whether you see it as some
+
+747
+00:38:06,719 --> 00:38:12,879
+type of a transition to uh a different
+
+748
+00:38:09,639 --> 00:38:15,118
+type of uh systemic solution to some of
+
+749
+00:38:12,880 --> 00:38:18,318
+the problems we've been
+
+750
+00:38:15,119 --> 00:38:22,720
+experiencing yes I I I do think and I
+
+751
+00:38:18,318 --> 00:38:25,719
+will deal with that issue uh uh
+
+752
+00:38:22,719 --> 00:38:27,879
+particularly in in the in the last
+
+753
+00:38:25,719 --> 00:38:31,919
+lecture uh where I deal with the
+
+754
+00:38:27,880 --> 00:38:36,720
+international aspects uh because uh
+
+755
+00:38:31,920 --> 00:38:40,960
+there U the system was supposed to to uh
+
+756
+00:38:36,719 --> 00:38:44,239
+to be uh a sort of a a Level Playing
+
+757
+00:38:40,960 --> 00:38:48,720
+Field but of but in fact the playing the
+
+758
+00:38:44,239 --> 00:38:51,279
+playing field was not level and and the
+
+759
+00:38:48,719 --> 00:38:54,159
+the center particularly the United
+
+760
+00:38:51,280 --> 00:38:59,040
+States was more equal than
+
+761
+00:38:54,159 --> 00:39:03,519
+others uh and and that brought about
+
+762
+00:38:59,039 --> 00:39:06,679
+certain imbalances which were very much
+
+763
+00:39:03,519 --> 00:39:09,719
+an element in the Super Bubble which I
+
+764
+00:39:06,679 --> 00:39:12,519
+didn't have time today to deal with but
+
+765
+00:39:09,719 --> 00:39:13,559
+I will uh deal with it in my fifth and
+
+766
+00:39:12,519 --> 00:39:16,519
+my last
+
+767
+00:39:13,559 --> 00:39:18,199
+lecture let question there and then one
+
+768
+00:39:16,519 --> 00:39:19,800
+there and then one no no no we'll have
+
+769
+00:39:18,199 --> 00:39:21,439
+this one and then you uh my name is
+
+770
+00:39:19,800 --> 00:39:24,480
+Peter Mi am from the economics
+
+771
+00:39:21,440 --> 00:39:26,838
+Department of the CU and in light of
+
+772
+00:39:24,480 --> 00:39:29,559
+your last words might be uh my question
+
+773
+00:39:26,838 --> 00:39:32,440
+is a little bit premature uh because you
+
+774
+00:39:29,559 --> 00:39:34,480
+uh promised what to speak uh later on uh
+
+775
+00:39:32,440 --> 00:39:37,440
+but I saw an interesting contrast
+
+776
+00:39:34,480 --> 00:39:39,960
+between your lecture and the the
+
+777
+00:39:37,440 --> 00:39:42,079
+subjects and the questions of the after
+
+778
+00:39:39,960 --> 00:39:44,720
+of the discussion after that people were
+
+779
+00:39:42,079 --> 00:39:47,119
+asking you about China in Malaysia and
+
+780
+00:39:44,719 --> 00:39:50,480
+other things so the international aspect
+
+781
+00:39:47,119 --> 00:39:53,079
+uh can we formulate the problem in uh in
+
+782
+00:39:50,480 --> 00:39:58,159
+in this language because what you
+
+783
+00:39:53,079 --> 00:40:00,318
+presented was basically a a uh a a
+
+784
+00:39:58,159 --> 00:40:02,799
+crisis uh
+
+785
+00:40:00,318 --> 00:40:04,519
+recurring according to the rules of the
+
+786
+00:40:02,800 --> 00:40:05,960
+international financial markets
+
+787
+00:40:04,519 --> 00:40:09,199
+according to the rule of the American
+
+788
+00:40:05,960 --> 00:40:12,400
+markets but maybe actually and in in the
+
+789
+00:40:09,199 --> 00:40:16,279
+last uh event it is certainly the case
+
+790
+00:40:12,400 --> 00:40:17,920
+that uh the the bubble was created by
+
+791
+00:40:16,280 --> 00:40:21,240
+real
+
+792
+00:40:17,920 --> 00:40:23,800
+differences on the globe uh the
+
+793
+00:40:21,239 --> 00:40:25,799
+difference where China is relative to
+
+794
+00:40:23,800 --> 00:40:28,240
+United States difference where India is
+
+795
+00:40:25,800 --> 00:40:32,280
+relative to United States so so it's not
+
+796
+00:40:28,239 --> 00:40:34,159
+uh a a rule problem it's it's a
+
+797
+00:40:32,280 --> 00:40:37,079
+complexity of the world it's
+
+798
+00:40:34,159 --> 00:40:40,480
+globalization where countries having
+
+799
+00:40:37,079 --> 00:40:42,960
+really different situations uh play the
+
+800
+00:40:40,480 --> 00:40:45,400
+game on the international context and
+
+801
+00:40:42,960 --> 00:40:48,318
+because of the uh communication these
+
+802
+00:40:45,400 --> 00:40:52,160
+things go very very fast uh don't you
+
+803
+00:40:48,318 --> 00:40:54,519
+think that uh these are probably as
+
+804
+00:40:52,159 --> 00:40:57,879
+important element of the story the real
+
+805
+00:40:54,519 --> 00:41:00,679
+differences and just uh a quick
+
+806
+00:40:57,880 --> 00:41:02,960
+reference to to the consequences I think
+
+807
+00:41:00,679 --> 00:41:05,039
+it was two days ago where uh Krugman in
+
+808
+00:41:02,960 --> 00:41:07,079
+the New York Times was talking about the
+
+809
+00:41:05,039 --> 00:41:10,440
+the Chinese currency problem very much
+
+810
+00:41:07,079 --> 00:41:13,280
+in the context as you do uh and then he
+
+811
+00:41:10,440 --> 00:41:15,760
+said China was stealing jobs from
+
+812
+00:41:13,280 --> 00:41:18,640
+elsewhere now this is real thing this is
+
+813
+00:41:15,760 --> 00:41:20,960
+not speculation and we cannot blame I
+
+814
+00:41:18,639 --> 00:41:22,559
+think from here or from anywhere else
+
+815
+00:41:20,960 --> 00:41:24,960
+that the Chinese government is pursuing
+
+816
+00:41:22,559 --> 00:41:28,559
+such a policy it's not speculation it's
+
+817
+00:41:24,960 --> 00:41:31,199
+not stupidity it's their interest
+
+818
+00:41:28,559 --> 00:41:34,279
+um yes there is obviously an
+
+819
+00:41:31,199 --> 00:41:39,039
+international aspect to it but let's
+
+820
+00:41:34,280 --> 00:41:43,119
+face it this particular crisis in 20072
+
+821
+00:41:39,039 --> 00:41:45,480
+2008 it originated at the center you see
+
+822
+00:41:43,119 --> 00:41:48,480
+and and therefore for this particular
+
+823
+00:41:45,480 --> 00:41:51,318
+phase of the crisis that issue is not
+
+824
+00:41:48,480 --> 00:41:55,639
+Central that's why I didn't deal with it
+
+825
+00:41:51,318 --> 00:41:58,960
+today I will deal with it uh fifth uh
+
+826
+00:41:55,639 --> 00:42:01,400
+lecture uh but if it is a very
+
+827
+00:41:58,960 --> 00:42:05,119
+definitely and I think that the
+
+828
+00:42:01,400 --> 00:42:07,960
+International System has to be rebuilt
+
+829
+00:42:05,119 --> 00:42:10,680
+uh I will I I don't want to go into my
+
+830
+00:42:07,960 --> 00:42:12,838
+fifth lecture now so bear with me until
+
+831
+00:42:10,679 --> 00:42:14,759
+then now there's a question over there
+
+832
+00:42:12,838 --> 00:42:16,279
+now there's a Forest of Hands going up
+
+833
+00:42:14,760 --> 00:42:18,839
+lots of people want to ask questions so
+
+834
+00:42:16,280 --> 00:42:20,640
+can we keep the questions question and I
+
+835
+00:42:18,838 --> 00:42:22,599
+would like to ask don't you think that
+
+836
+00:42:20,639 --> 00:42:24,558
+uh Regulators will be forced to ease
+
+837
+00:42:22,599 --> 00:42:28,440
+regulations at times of growth and this
+
+838
+00:42:24,559 --> 00:42:30,920
+is just a part of uh natural cycle that
+
+839
+00:42:28,440 --> 00:42:35,159
+regulations happen after such a crisis
+
+840
+00:42:30,920 --> 00:42:37,960
+and then as Market grow Regulators are
+
+841
+00:42:35,159 --> 00:42:40,318
+forced by politial political pressure to
+
+842
+00:42:37,960 --> 00:42:44,440
+ease uh Market regulations that
+
+843
+00:42:40,318 --> 00:42:47,480
+contribute later to the question is that
+
+844
+00:42:44,440 --> 00:42:49,240
+uh once the crisis subsides actually
+
+845
+00:42:47,480 --> 00:42:53,159
+Regulators will be forced to ease
+
+846
+00:42:49,239 --> 00:42:54,879
+regulation by political pressures uh so
+
+847
+00:42:53,159 --> 00:42:56,719
+even if there is a slight increase in
+
+848
+00:42:54,880 --> 00:42:58,039
+regulation in the immediate response to
+
+849
+00:42:56,719 --> 00:43:00,480
+the crisis
+
+850
+00:42:58,039 --> 00:43:02,000
+uh an easing in the long run is likely
+
+851
+00:43:00,480 --> 00:43:06,639
+well there already
+
+852
+00:43:02,000 --> 00:43:09,920
+is a desire to uh uh uh forget about
+
+853
+00:43:06,639 --> 00:43:13,239
+regulations because the the the the the
+
+854
+00:43:09,920 --> 00:43:16,200
+uh institutions that survived actually
+
+855
+00:43:13,239 --> 00:43:19,000
+their uh Market position has been
+
+856
+00:43:16,199 --> 00:43:21,598
+greatly strengthened and and therefore
+
+857
+00:43:19,000 --> 00:43:23,960
+they certainly tried to protect it with
+
+858
+00:43:21,599 --> 00:43:28,039
+all they have got and they've got plenty
+
+859
+00:43:23,960 --> 00:43:33,960
+so uh uh you will have a serious
+
+860
+00:43:28,039 --> 00:43:37,960
+issue uh and uh I just hope that we will
+
+861
+00:43:33,960 --> 00:43:42,800
+not forget uh about the reforms that are
+
+862
+00:43:37,960 --> 00:43:45,880
+needed uh because uh I I think that the
+
+863
+00:43:42,800 --> 00:43:48,920
+system has been very seriously weakened
+
+864
+00:43:45,880 --> 00:43:53,640
+and if you you put Humpty Dumpty
+
+865
+00:43:48,920 --> 00:43:58,079
+together again it will not
+
+866
+00:43:53,639 --> 00:44:01,358
+last uh question over there
+
+867
+00:43:58,079 --> 00:44:03,839
+and maybe another one after thank you
+
+868
+00:44:01,358 --> 00:44:07,119
+good afternoon Mr
+
+869
+00:44:03,838 --> 00:44:09,199
+shash writers Al also PhD candidate
+
+870
+00:44:07,119 --> 00:44:12,480
+myself actually can you slow down it's
+
+871
+00:44:09,199 --> 00:44:16,000
+hard to answer so THS and writers um and
+
+872
+00:44:12,480 --> 00:44:18,400
+PhD candidate bnab Edge my question
+
+873
+00:44:16,000 --> 00:44:22,519
+would relate mainly to the last question
+
+874
+00:44:18,400 --> 00:44:24,838
+of MIT emerging markets and Bubbles um
+
+875
+00:44:22,519 --> 00:44:28,400
+are you not concerned that actually a
+
+876
+00:44:24,838 --> 00:44:31,159
+new uh bubble is uh formulating in the
+
+877
+00:44:28,400 --> 00:44:34,400
+Emerging Markets let's say with the
+
+878
+00:44:31,159 --> 00:44:37,159
+words of yours um fed by the positive
+
+879
+00:44:34,400 --> 00:44:40,119
+feedbacks of the increasing commodity
+
+880
+00:44:37,159 --> 00:44:42,558
+prices um the belief that these
+
+881
+00:44:40,119 --> 00:44:45,358
+countries has a greater potential and
+
+882
+00:44:42,559 --> 00:44:47,839
+the carry trade operations yeah thank
+
+883
+00:44:45,358 --> 00:44:49,239
+you the question was about Emerging
+
+884
+00:44:47,838 --> 00:44:52,039
+Markets don't you think that a new
+
+885
+00:44:49,239 --> 00:44:54,558
+bubble is is is coming along in Emerging
+
+886
+00:44:52,039 --> 00:44:56,800
+Markets fueled by misconceptions like
+
+887
+00:44:54,559 --> 00:44:58,519
+commodity prices will go up forever
+
+888
+00:44:56,800 --> 00:45:01,160
+these these countries have far better
+
+889
+00:44:58,519 --> 00:45:03,800
+prospects you know the the rise of China
+
+890
+00:45:01,159 --> 00:45:09,199
+and so on I don't think that everything
+
+891
+00:45:03,800 --> 00:45:12,359
+is a bubble and I do think that that um
+
+892
+00:45:09,199 --> 00:45:15,679
+uh this financial crisis which
+
+893
+00:45:12,358 --> 00:45:19,358
+originated at the center has hurt the
+
+894
+00:45:15,679 --> 00:45:24,759
+center much more than the than the
+
+895
+00:45:19,358 --> 00:45:28,239
+periphery and and uh uh I I do expect
+
+896
+00:45:24,760 --> 00:45:32,240
+the Emerging Markets to do significantly
+
+897
+00:45:28,239 --> 00:45:34,719
+better uh than than uh than the United
+
+898
+00:45:32,239 --> 00:45:34,719
+States
+
+899
+00:45:35,318 --> 00:45:39,159
+economy there was a question
+
+900
+00:45:40,199 --> 00:45:45,399
+there good afternoon Peter
+
+901
+00:45:42,760 --> 00:45:48,920
+grumberg do you think there's scope for
+
+902
+00:45:45,400 --> 00:45:51,760
+applying some aspects of sharia law or
+
+903
+00:45:48,920 --> 00:45:53,519
+ethical banking uh particularly with uh
+
+904
+00:45:51,760 --> 00:45:54,480
+reference to provision of credit and
+
+905
+00:45:53,519 --> 00:45:58,079
+debt
+
+906
+00:45:54,480 --> 00:46:01,440
+Finance sh law Sharia
+
+907
+00:45:58,079 --> 00:46:04,119
+banking Islamic banking I I don't know
+
+908
+00:46:01,440 --> 00:46:06,559
+much about it I'm sorry or ethical
+
+909
+00:46:04,119 --> 00:46:10,079
+banking is is is there an ethical
+
+910
+00:46:06,559 --> 00:46:12,240
+Dimension to banking that that could be
+
+911
+00:46:10,079 --> 00:46:14,720
+somehow brought back would that be a way
+
+912
+00:46:12,239 --> 00:46:18,159
+of controlling the banks by telling them
+
+913
+00:46:14,719 --> 00:46:21,439
+to be more virtuous yeah no look I'm a
+
+914
+00:46:18,159 --> 00:46:24,000
+great promoter of ethical values but I
+
+915
+00:46:21,440 --> 00:46:27,358
+don't see the application in this in
+
+916
+00:46:24,000 --> 00:46:30,920
+this context and I I the impression that
+
+917
+00:46:27,358 --> 00:46:34,519
+I have but I really don't take this as a
+
+918
+00:46:30,920 --> 00:46:38,720
+Ser well considered opinion
+
+919
+00:46:34,519 --> 00:46:41,639
+that the Islamic banking kind of
+
+920
+00:46:38,719 --> 00:46:45,679
+reconciles the Islamic rules with
+
+921
+00:46:41,639 --> 00:46:48,799
+banking through subterfuge where using
+
+922
+00:46:45,679 --> 00:46:52,318
+some other techniques
+
+923
+00:46:48,800 --> 00:46:54,839
+to find a
+
+924
+00:46:52,318 --> 00:46:56,599
+compromise uh there's a couple questions
+
+925
+00:46:54,838 --> 00:46:58,838
+here in the middle and then one there
+
+926
+00:46:56,599 --> 00:46:58,838
+thank you
+
+927
+00:47:00,280 --> 00:47:05,000
+um I'm L leasi from City Bank and amcham
+
+928
+00:47:03,280 --> 00:47:08,760
+so I'm one of those hated
+
+929
+00:47:05,000 --> 00:47:12,880
+Bankers um I just wanted to ask how why
+
+930
+00:47:08,760 --> 00:47:16,200
+is it in your opinion uh Dr shes that so
+
+931
+00:47:12,880 --> 00:47:18,318
+little analysis is being done about the
+
+932
+00:47:16,199 --> 00:47:20,399
+culpability of
+
+933
+00:47:18,318 --> 00:47:23,880
+interventions like The Fanny May and
+
+934
+00:47:20,400 --> 00:47:26,079
+Freddy ma to enable some of these things
+
+935
+00:47:23,880 --> 00:47:28,440
+to to proceed this is probably the only
+
+936
+00:47:26,079 --> 00:47:29,880
+time when the people who didn't pay back
+
+937
+00:47:28,440 --> 00:47:32,280
+the money are the good guys and the ones
+
+938
+00:47:29,880 --> 00:47:35,119
+that didn't get it back are the bad guys
+
+939
+00:47:32,280 --> 00:47:37,880
+and uh I might be biased obviously in
+
+940
+00:47:35,119 --> 00:47:41,119
+that the question is and and the
+
+941
+00:47:37,880 --> 00:47:43,960
+gentleman works for City Bank so take
+
+942
+00:47:41,119 --> 00:47:47,200
+that into account uh the question is uh
+
+943
+00:47:43,960 --> 00:47:49,318
+why has so little analysis been done of
+
+944
+00:47:47,199 --> 00:47:52,078
+the culpability of government
+
+945
+00:47:49,318 --> 00:47:54,400
+intervention in in creating this crisis
+
+946
+00:47:52,079 --> 00:47:56,160
+and the main example being Fanny May and
+
+947
+00:47:54,400 --> 00:47:58,440
+Freddy Mack you know they were supported
+
+948
+00:47:56,159 --> 00:48:01,639
+by the government uh they encouraged
+
+949
+00:47:58,440 --> 00:48:03,838
+lending to subprime borrowers and so on
+
+950
+00:48:01,639 --> 00:48:06,400
+and this is the first crisis in which
+
+951
+00:48:03,838 --> 00:48:09,440
+the people who didn't pay back the debt
+
+952
+00:48:06,400 --> 00:48:12,280
+don't seem to um bear any moral
+
+953
+00:48:09,440 --> 00:48:15,480
+responsibility but actually I certainly
+
+954
+00:48:12,280 --> 00:48:19,280
+am un record uh uh blaming The
+
+955
+00:48:15,480 --> 00:48:22,719
+Regulators for failing to regulate I
+
+956
+00:48:19,280 --> 00:48:25,640
+mean that was perhaps the the major
+
+957
+00:48:22,719 --> 00:48:27,318
+failure that doesn't exempt the banks
+
+958
+00:48:25,639 --> 00:48:31,199
+but it certainly
+
+959
+00:48:27,318 --> 00:48:36,519
+uh uh uh Regulators were as much at
+
+960
+00:48:31,199 --> 00:48:39,679
+fault in in in in uh uh uh failing to
+
+961
+00:48:36,519 --> 00:48:43,000
+perform their duties as the banks were
+
+962
+00:48:39,679 --> 00:48:45,239
+in in exceeding their U mandate but if
+
+963
+00:48:43,000 --> 00:48:47,639
+if I could I I'd like to press you a bit
+
+964
+00:48:45,239 --> 00:48:49,719
+on this because actually the this is a
+
+965
+00:48:47,639 --> 00:48:51,199
+point of view that's presented a lot in
+
+966
+00:48:49,719 --> 00:48:53,919
+the Wall Street Journal by the
+
+967
+00:48:51,199 --> 00:48:56,358
+Republican Party in the US that actually
+
+968
+00:48:53,920 --> 00:48:59,400
+this whole crisis was caused by the fact
+
+969
+00:48:56,358 --> 00:49:01,798
+that markets were not free enough it was
+
+970
+00:48:59,400 --> 00:49:06,599
+the fact that governments intervened in
+
+971
+00:49:01,798 --> 00:49:08,440
+markets subsidized uh Home Loans to uh
+
+972
+00:49:06,599 --> 00:49:10,240
+you know poor households who wouldn't re
+
+973
+00:49:08,440 --> 00:49:11,720
+couldn't repay that actually caused the
+
+974
+00:49:10,239 --> 00:49:14,519
+crisis what's your reaction to that
+
+975
+00:49:11,719 --> 00:49:18,439
+argument it I think it's it's it's very
+
+976
+00:49:14,519 --> 00:49:21,079
+simple if you didn't have regulations
+
+977
+00:49:18,440 --> 00:49:22,920
+you Pro you wouldn't have sophisticated
+
+978
+00:49:21,079 --> 00:49:25,318
+financial markets because they would
+
+979
+00:49:22,920 --> 00:49:27,680
+have collapsed long ago I mean they
+
+980
+00:49:25,318 --> 00:49:29,639
+didn't collapse in '98
+
+981
+00:49:27,679 --> 00:49:32,480
+when there was plenty of reason for it
+
+982
+00:49:29,639 --> 00:49:37,440
+to to collapse because The Regulators
+
+983
+00:49:32,480 --> 00:49:39,719
+intervened successfully so uh to to to
+
+984
+00:49:37,440 --> 00:49:43,000
+argue that if you had no
+
+985
+00:49:39,719 --> 00:49:45,558
+regulations uh you would have no
+
+986
+00:49:43,000 --> 00:49:48,400
+crises I would say you also would have
+
+987
+00:49:45,559 --> 00:49:48,400
+no financial
+
+988
+00:49:48,679 --> 00:49:54,919
+markets okay
+
+989
+00:49:52,159 --> 00:49:57,199
+uh good afternoon Mr shos I'm Stuart
+
+990
+00:49:54,920 --> 00:49:59,798
+Durrant managing director of the ceu
+
+991
+00:49:57,199 --> 00:50:02,358
+business school and I'd like to pick up
+
+992
+00:49:59,798 --> 00:50:05,318
+on the issue which you raised of hidden
+
+993
+00:50:02,358 --> 00:50:07,480
+subsidies in Banks uh reported in the
+
+994
+00:50:05,318 --> 00:50:09,000
+times yesterday I think no surprise
+
+995
+00:50:07,480 --> 00:50:12,280
+there
+
+996
+00:50:09,000 --> 00:50:14,599
+um you make the point that the banks are
+
+997
+00:50:12,280 --> 00:50:17,519
+currently taking advantage of a window
+
+998
+00:50:14,599 --> 00:50:20,400
+of opportunity able to earn their way
+
+999
+00:50:17,519 --> 00:50:23,639
+out of a Hole by borrowing very cheaply
+
+1000
+00:50:20,400 --> 00:50:26,318
+and investing in government bonds at 3
+
+1001
+00:50:23,639 --> 00:50:29,039
+three and a half% or something what has
+
+1002
+00:50:26,318 --> 00:50:31,400
+made is possible was to a large extent
+
+1003
+00:50:29,039 --> 00:50:34,759
+the implementation of the quantitative
+
+1004
+00:50:31,400 --> 00:50:36,760
+easing programs and at least the way it
+
+1005
+00:50:34,760 --> 00:50:38,599
+was presented to me was that these
+
+1006
+00:50:36,760 --> 00:50:40,880
+programs were introduced in order to
+
+1007
+00:50:38,599 --> 00:50:44,798
+make government bonds less attractive to
+
+1008
+00:50:40,880 --> 00:50:49,440
+Banks and to promote the spread of
+
+1009
+00:50:44,798 --> 00:50:52,119
+credit into the economy is QE a failure
+
+1010
+00:50:49,440 --> 00:50:54,480
+or do we need to try harder uh the
+
+1011
+00:50:52,119 --> 00:50:57,000
+question is well in a nut show it's
+
+1012
+00:50:54,480 --> 00:50:58,798
+whether quantitative easing is a failure
+
+1013
+00:50:57,000 --> 00:51:01,639
+or is it responsible for this this this
+
+1014
+00:50:58,798 --> 00:51:04,079
+hidden subsidy yeah no no but what the
+
+1015
+00:51:01,639 --> 00:51:06,440
+question is the question was that the
+
+1016
+00:51:04,079 --> 00:51:08,039
+the reason for this subsidy to Banks is
+
+1017
+00:51:06,440 --> 00:51:11,280
+that there's been all this quantitative
+
+1018
+00:51:08,039 --> 00:51:13,039
+easing keeping short rates at zero of
+
+1019
+00:51:11,280 --> 00:51:14,720
+course that's given the subsidy to Banks
+
+1020
+00:51:13,039 --> 00:51:17,480
+does that mean the quantitative easing
+
+1021
+00:51:14,719 --> 00:51:21,000
+was actually a mistake no no I I think
+
+1022
+00:51:17,480 --> 00:51:23,719
+that that uh it was absolutely necessary
+
+1023
+00:51:21,000 --> 00:51:27,280
+uh to prevent a collapse uh so the
+
+1024
+00:51:23,719 --> 00:51:31,039
+authorities did the right thing uh
+
+1025
+00:51:27,280 --> 00:51:34,040
+with quantitative easing in my opinion
+
+1026
+00:51:31,039 --> 00:51:38,480
+the mistake they made was not to
+
+1027
+00:51:34,039 --> 00:51:40,358
+recapitalize banks on a compulsory basis
+
+1028
+00:51:38,480 --> 00:51:43,880
+uh uh but to
+
+1029
+00:51:40,358 --> 00:51:47,000
+inject uh these hidden subsidies to
+
+1030
+00:51:43,880 --> 00:51:50,838
+allow them to earn their way out of the
+
+1031
+00:51:47,000 --> 00:51:53,599
+hole the the injection should have been
+
+1032
+00:51:50,838 --> 00:51:56,798
+at the level of the capital not at the
+
+1033
+00:51:53,599 --> 00:52:02,920
+level of the balance sheet and uh the
+
+1034
+00:51:56,798 --> 00:52:05,400
+700 billion uh of tarp uh money the
+
+1035
+00:52:02,920 --> 00:52:08,760
+originally voted would have been in my
+
+1036
+00:52:05,400 --> 00:52:11,880
+opinion enough to underwrite the
+
+1037
+00:52:08,760 --> 00:52:15,839
+recapitalization of of of the banks uh
+
+1038
+00:52:11,880 --> 00:52:19,559
+in other words uh the Scandinavian
+
+1039
+00:52:15,838 --> 00:52:22,880
+approach would have been more effective
+
+1040
+00:52:19,559 --> 00:52:26,200
+than the Japanese approach because we
+
+1041
+00:52:22,880 --> 00:52:29,599
+basically gone the Japanese route and as
+
+1042
+00:52:26,199 --> 00:52:32,118
+you know know after 18 years Japan is
+
+1043
+00:52:29,599 --> 00:52:34,079
+still not out of the woods but even if
+
+1044
+00:52:32,119 --> 00:52:37,680
+you did did recapitalize them if you
+
+1045
+00:52:34,079 --> 00:52:39,960
+give the banks money at 0%
+
+1046
+00:52:37,679 --> 00:52:41,759
+interest what is to stop them why
+
+1047
+00:52:39,960 --> 00:52:44,400
+shouldn't they invest it in government
+
+1048
+00:52:41,760 --> 00:52:47,599
+Bots at 3 and a half% and make these
+
+1049
+00:52:44,400 --> 00:52:50,160
+large profits yeah aren't you inevitably
+
+1050
+00:52:47,599 --> 00:52:53,838
+providing them with a subsidy well and
+
+1051
+00:52:50,159 --> 00:52:55,920
+and and if the banks didn't uh invest at
+
+1052
+00:52:53,838 --> 00:53:00,440
+3 and a half% interest rate would not be
+
+1053
+00:52:55,920 --> 00:53:03,000
+3 and a half per but much higher so uh
+
+1054
+00:53:00,440 --> 00:53:07,559
+that's a that's part of the mechanism of
+
+1055
+00:53:03,000 --> 00:53:11,639
+quantitative easing basically uh the the
+
+1056
+00:53:07,559 --> 00:53:16,519
+point is that if you recapitalize the
+
+1057
+00:53:11,639 --> 00:53:19,960
+banks if you separated the old bank from
+
+1058
+00:53:16,519 --> 00:53:24,039
+the new bank and injected Capital into a
+
+1059
+00:53:19,960 --> 00:53:26,760
+new bank and allowed the old bank to run
+
+1060
+00:53:24,039 --> 00:53:31,239
+off its portfolio there would have be
+
+1061
+00:53:26,760 --> 00:53:33,960
+new Banks which are flush with deposits
+
+1062
+00:53:31,239 --> 00:53:35,479
+and capital looking
+
+1063
+00:53:33,960 --> 00:53:38,440
+for
+
+1064
+00:53:35,480 --> 00:53:39,960
+suitable investment opportunity or
+
+1065
+00:53:38,440 --> 00:53:43,400
+lending and therefore lending to the
+
+1066
+00:53:39,960 --> 00:53:49,679
+private sector they would have been much
+
+1067
+00:53:43,400 --> 00:53:53,680
+more ready to lend and to take risk okay
+
+1068
+00:53:49,679 --> 00:53:55,679
+uh thank you uh Charles Kovac ex-banker
+
+1069
+00:53:53,679 --> 00:53:58,399
+in any case uh while we're on the
+
+1070
+00:53:55,679 --> 00:54:01,519
+subject of the interest rates uh I just
+
+1071
+00:53:58,400 --> 00:54:03,599
+like to note that uh the 0% interest
+
+1072
+00:54:01,519 --> 00:54:05,960
+rate was not necessarily charged by the
+
+1073
+00:54:03,599 --> 00:54:08,000
+government for the money given to the
+
+1074
+00:54:05,960 --> 00:54:09,760
+banks but that is the short-term
+
+1075
+00:54:08,000 --> 00:54:12,639
+interest rate effectively paid to
+
+1076
+00:54:09,760 --> 00:54:15,559
+Consumers uh in the United States and
+
+1077
+00:54:12,639 --> 00:54:18,039
+that means that the demand dep deposits
+
+1078
+00:54:15,559 --> 00:54:21,920
+of the banks have become very cheap this
+
+1079
+00:54:18,039 --> 00:54:24,440
+goes a long way forward a lot more than
+
+1080
+00:54:21,920 --> 00:54:27,119
+just the uh monies that the governments
+
+1081
+00:54:24,440 --> 00:54:29,280
+have has in have invested um on the
+
+1082
+00:54:27,119 --> 00:54:31,358
+other hand uh don't you think that the
+
+1083
+00:54:29,280 --> 00:54:33,798
+lower interest rates which affect the
+
+1084
+00:54:31,358 --> 00:54:35,920
+entire economy are also driven by the
+
+1085
+00:54:33,798 --> 00:54:37,759
+general recession which seems to be
+
+1086
+00:54:35,920 --> 00:54:40,358
+taking place in in the states it's not
+
+1087
+00:54:37,760 --> 00:54:42,440
+necessarily just Bank driven yeah OB
+
+1088
+00:54:40,358 --> 00:54:44,920
+obviously the fact that there is no
+
+1089
+00:54:42,440 --> 00:54:46,760
+private demand keeps interest rates
+
+1090
+00:54:44,920 --> 00:54:49,680
+lower than they would than it would
+
+1091
+00:54:46,760 --> 00:54:51,880
+would be otherwise that's no question
+
+1092
+00:54:49,679 --> 00:54:53,919
+could I ask you do you believe that that
+
+1093
+00:54:51,880 --> 00:54:56,079
+the bond market is in potentially a
+
+1094
+00:54:53,920 --> 00:54:58,358
+bubble you know you say we must look for
+
+1095
+00:54:56,079 --> 00:55:01,720
+Bubble every but do you think that Bond
+
+1096
+00:54:58,358 --> 00:55:03,519
+long-term Bond bonds at 3 and a half%
+
+1097
+00:55:01,719 --> 00:55:06,199
+given what's happening with the fiscal
+
+1098
+00:55:03,519 --> 00:55:09,119
+deficits all over the world that that
+
+1099
+00:55:06,199 --> 00:55:13,199
+this is also a dangerously unsustainable
+
+1100
+00:55:09,119 --> 00:55:15,760
+situ situation uh I think that that
+
+1101
+00:55:13,199 --> 00:55:18,118
+right now you're still in a deflationary
+
+1102
+00:55:15,760 --> 00:55:21,799
+environment although the economy is
+
+1103
+00:55:18,119 --> 00:55:27,358
+recovering and and as soon as it starts
+
+1104
+00:55:21,798 --> 00:55:28,759
+recovering uh um and you can you and the
+
+1105
+00:55:27,358 --> 00:55:32,519
+if the
+
+1106
+00:55:28,760 --> 00:55:36,280
+authorities don't manage it extremely
+
+1107
+00:55:32,519 --> 00:55:38,798
+skillfully uh the financial markets are
+
+1108
+00:55:36,280 --> 00:55:40,079
+going to get nervous about the prospect
+
+1109
+00:55:38,798 --> 00:55:43,239
+of the
+
+1110
+00:55:40,079 --> 00:55:46,039
+inflation and that would then push up
+
+1111
+00:55:43,239 --> 00:55:48,639
+interest rates and choke off uh the
+
+1112
+00:55:46,039 --> 00:55:51,160
+recovery and that in a way is
+
+1113
+00:55:48,639 --> 00:55:56,798
+reminiscent of what happened in the'
+
+1114
+00:55:51,159 --> 00:56:02,440
+70s uh where you had stop go uh and and
+
+1115
+00:55:56,798 --> 00:56:06,480
+I think we we will be in a period of
+
+1116
+00:56:02,440 --> 00:56:11,000
+prolonged uh stagflation if you like or
+
+1117
+00:56:06,480 --> 00:56:14,280
+or or or uh or fears of stagflation yeah
+
+1118
+00:56:11,000 --> 00:56:17,400
+uh but I think the the the the the
+
+1119
+00:56:14,280 --> 00:56:19,798
+financial markets themselves will
+
+1120
+00:56:17,400 --> 00:56:22,798
+prevent inflation from getting out of
+
+1121
+00:56:19,798 --> 00:56:25,119
+hand there was a lady there at back
+
+1122
+00:56:22,798 --> 00:56:27,559
+hello my name is Lila stria I'm a
+
+1123
+00:56:25,119 --> 00:56:31,440
+registered auditor at business
+
+1124
+00:56:27,559 --> 00:56:36,480
+adviser uh I my question is about a
+
+1125
+00:56:31,440 --> 00:56:37,760
+book that was published uh in early 2009
+
+1126
+00:56:36,480 --> 00:56:42,880
+by Harry
+
+1127
+00:56:37,760 --> 00:56:45,280
+Dent uh this is a a an economist who was
+
+1128
+00:56:42,880 --> 00:56:47,880
+successful in predicting uh the major
+
+1129
+00:56:45,280 --> 00:56:51,400
+Bubbles and crisises that you were uh
+
+1130
+00:56:47,880 --> 00:56:54,318
+talking about and in this book he says
+
+1131
+00:56:51,400 --> 00:56:56,838
+that uh apart from quoting you that this
+
+1132
+00:56:54,318 --> 00:56:59,519
+is the the end of an era
+
+1133
+00:56:56,838 --> 00:57:03,239
+uh it describes quite a gloomy picture
+
+1134
+00:56:59,519 --> 00:57:05,318
+uh of the next few years even decade um
+
+1135
+00:57:03,239 --> 00:57:09,199
+he says that uh the Next Great
+
+1136
+00:57:05,318 --> 00:57:10,400
+Depression will be from 2008 to Lasting
+
+1137
+00:57:09,199 --> 00:57:13,279
+to
+
+1138
+00:57:10,400 --> 00:57:16,838
+2023 with the worst part start uh
+
+1139
+00:57:13,280 --> 00:57:20,559
+starting late 2009 making the Dow Jones
+
+1140
+00:57:16,838 --> 00:57:22,519
+falling to 3,800 points which will not
+
+1141
+00:57:20,559 --> 00:57:25,480
+recover until
+
+1142
+00:57:22,519 --> 00:57:28,000
+2017 so would you like to reflect on
+
+1143
+00:57:25,480 --> 00:57:30,798
+this thank thank you yes I I don't know
+
+1144
+00:57:28,000 --> 00:57:34,119
+who it is I haven't heard the name but I
+
+1145
+00:57:30,798 --> 00:57:36,719
+can disagree with it because on
+
+1146
+00:57:34,119 --> 00:57:39,200
+principle because I don't think that the
+
+1147
+00:57:36,719 --> 00:57:43,759
+future is predictable the way he's
+
+1148
+00:57:39,199 --> 00:57:48,838
+predicting it I mean my whole theory is
+
+1149
+00:57:43,760 --> 00:57:52,240
+that that uh uh financial markets evolve
+
+1150
+00:57:48,838 --> 00:57:55,199
+in a historic process and history is
+
+1151
+00:57:52,239 --> 00:57:57,959
+essentially unpredictable because it
+
+1152
+00:57:55,199 --> 00:58:02,118
+will depend on decisions that have not
+
+1153
+00:57:57,960 --> 00:58:02,119
+yet been taken so how can they be
+
+1154
+00:58:02,400 --> 00:58:07,318
+predicted yes the lady over
+
+1155
+00:58:04,838 --> 00:58:10,318
+there my name is Christina and I teach
+
+1156
+00:58:07,318 --> 00:58:12,038
+Finance at CU Business School uh Mr shos
+
+1157
+00:58:10,318 --> 00:58:15,440
+my question is you mentioned the
+
+1158
+00:58:12,039 --> 00:58:18,359
+conglomerate mergers in the 1960s as a
+
+1159
+00:58:15,440 --> 00:58:21,559
+contributor uh to the Bubba my question
+
+1160
+00:58:18,358 --> 00:58:23,880
+is whether the recent mer the recent the
+
+1161
+00:58:21,559 --> 00:58:26,400
+merger wave that started in the 1980s
+
+1162
+00:58:23,880 --> 00:58:28,240
+with the Strategic mergers of large
+
+1163
+00:58:26,400 --> 00:58:31,400
+companies has been
+
+1164
+00:58:28,239 --> 00:58:33,679
+contributing uh to uh the financial
+
+1165
+00:58:31,400 --> 00:58:36,798
+crisis on a longer term level by
+
+1166
+00:58:33,679 --> 00:58:40,879
+creating large players in the market for
+
+1167
+00:58:36,798 --> 00:58:42,559
+which lenders like to lend too thank you
+
+1168
+00:58:40,880 --> 00:58:45,200
+the question was you you said that in
+
+1169
+00:58:42,559 --> 00:58:47,798
+the 1960s the conglomerate Boom the merg
+
+1170
+00:58:45,199 --> 00:58:49,838
+Mania created a bubble do you think a
+
+1171
+00:58:47,798 --> 00:58:52,559
+similar a second round of merg mania
+
+1172
+00:58:49,838 --> 00:58:55,000
+from the 1980s onward which created
+
+1173
+00:58:52,559 --> 00:58:56,680
+bigger and bigger companies uh which
+
+1174
+00:58:55,000 --> 00:58:59,719
+wanted to deal with bigger and bigger
+
+1175
+00:58:56,679 --> 00:59:01,639
+lenders was also a a contributor to to
+
+1176
+00:58:59,719 --> 00:59:05,038
+this latest
+
+1177
+00:59:01,639 --> 00:59:08,519
+bubble a minor contributor I would I I
+
+1178
+00:59:05,039 --> 00:59:11,760
+would say that it was not a central
+
+1179
+00:59:08,519 --> 00:59:15,519
+element in in in in the Super Bubble
+
+1180
+00:59:11,760 --> 00:59:18,000
+there was this uh and and obviously uh
+
+1181
+00:59:15,519 --> 00:59:20,880
+the concentration of the financial
+
+1182
+00:59:18,000 --> 00:59:24,880
+system is much more disturbing in that
+
+1183
+00:59:20,880 --> 00:59:30,079
+respect than con the concentration in
+
+1184
+00:59:24,880 --> 00:59:33,760
+the um uh the um uh normal
+
+1185
+00:59:30,079 --> 00:59:35,680
+industry except I would say the media
+
+1186
+00:59:33,760 --> 00:59:37,559
+but that's a different story because oh
+
+1187
+00:59:35,679 --> 00:59:40,960
+tell us about the media no no it has to
+
+1188
+00:59:37,559 --> 00:59:44,000
+do with the it has to do with democracy
+
+1189
+00:59:40,960 --> 00:59:47,318
+uh we're we just we want to see if if
+
+1190
+00:59:44,000 --> 00:59:51,318
+are there one or two more questions from
+
+1191
+00:59:47,318 --> 00:59:52,440
+MIT okay I are there can we communicate
+
+1192
+00:59:51,318 --> 00:59:55,838
+with
+
+1193
+00:59:52,440 --> 00:59:58,000
+MIT tell them we will come back to them
+
+1194
+00:59:55,838 --> 01:00:00,038
+uh we we'll come back uh We've we've got
+
+1195
+00:59:58,000 --> 01:00:02,358
+about five minutes left so maybe there's
+
+1196
+01:00:00,039 --> 01:00:04,240
+time for one or two questions from MIT
+
+1197
+01:00:02,358 --> 01:00:07,960
+after we've had another question from
+
+1198
+01:00:04,239 --> 01:00:10,598
+here yes sir in Middle there just a
+
+1199
+01:00:07,960 --> 01:00:13,039
+moment the
+
+1200
+01:00:10,599 --> 01:00:17,039
+microphone M wolitzky I'm not a
+
+1201
+01:00:13,039 --> 01:00:20,039
+financial expert I'm just a doctor and a
+
+1202
+01:00:17,039 --> 01:00:23,119
+taxpayer and my question is has anything
+
+1203
+01:00:20,039 --> 01:00:25,440
+what we have heard today to do with a
+
+1204
+01:00:23,119 --> 01:00:27,358
+taxpayer the bailout has definitely
+
+1205
+01:00:25,440 --> 01:00:29,960
+something to do with a taxpayer and is
+
+1206
+01:00:27,358 --> 01:00:32,639
+there a danger that at some point the
+
+1207
+01:00:29,960 --> 01:00:35,798
+taxpayers don't want to support this
+
+1208
+01:00:32,639 --> 01:00:37,480
+virtual system on top of them yes
+
+1209
+01:00:35,798 --> 01:00:40,960
+obviously the tax players are an
+
+1210
+01:00:37,480 --> 01:00:46,440
+important player players in this in this
+
+1211
+01:00:40,960 --> 01:00:51,480
+and they are politically uh uh objecting
+
+1212
+01:00:46,440 --> 01:00:56,880
+to the higher taxes uh that are implicit
+
+1213
+01:00:51,480 --> 01:01:02,838
+in the runup of the of the U uh national
+
+1214
+01:00:56,880 --> 01:01:05,599
+debt uh but you have to bear in mind
+
+1215
+01:01:02,838 --> 01:01:09,159
+that there would be a an alternative
+
+1216
+01:01:05,599 --> 01:01:12,480
+cost if you did not stimulate the
+
+1217
+01:01:09,159 --> 01:01:16,719
+economy because and and you you really
+
+1218
+01:01:12,480 --> 01:01:19,480
+have to look at the national debt a a as
+
+1219
+01:01:16,719 --> 01:01:22,558
+as a percentage of the gross national
+
+1220
+01:01:19,480 --> 01:01:26,358
+product so if the gross national product
+
+1221
+01:01:22,559 --> 01:01:30,559
+Falls uh you can be in a debt
+
+1222
+01:01:26,358 --> 01:01:33,558
+trap uh that would be much worse than
+
+1223
+01:01:30,559 --> 01:01:36,000
+than than the stimulus so it's it's
+
+1224
+01:01:33,559 --> 01:01:39,000
+something it's a question of the Lesser
+
+1225
+01:01:36,000 --> 01:01:42,079
+evil that you have to consider right do
+
+1226
+01:01:39,000 --> 01:01:42,079
+we have a question from
+
+1227
+01:01:44,960 --> 01:01:50,880
+MIT no I I I I I think I think we we we
+
+1228
+01:01:49,199 --> 01:01:52,480
+can't we can't get through to that uh
+
+1229
+01:01:50,880 --> 01:01:55,480
+one more question then from the floor
+
+1230
+01:01:52,480 --> 01:01:55,480
+here
+
+1231
+01:01:58,400 --> 01:02:03,400
+Jay fogelman from The ceu Business
+
+1232
+01:02:00,480 --> 01:02:07,480
+School faculty Mr Shor as to pursue an
+
+1233
+01:02:03,400 --> 01:02:09,559
+earlier question uh you uh indicated yes
+
+1234
+01:02:07,480 --> 01:02:11,679
+that the the uh Financial system and the
+
+1235
+01:02:09,559 --> 01:02:14,559
+crisis that we're experiencing certainly
+
+1236
+01:02:11,679 --> 01:02:17,159
+has an international Dimension uh that's
+
+1237
+01:02:14,559 --> 01:02:19,440
+related to to globalization but I'm
+
+1238
+01:02:17,159 --> 01:02:21,879
+wondering more specifically whether
+
+1239
+01:02:19,440 --> 01:02:24,639
+changes in information technology and
+
+1240
+01:02:21,880 --> 01:02:26,440
+Communications technology the internet
+
+1241
+01:02:24,639 --> 01:02:29,838
+but much more than that
+
+1242
+01:02:26,440 --> 01:02:32,720
+has erased Geographic and cultural
+
+1243
+01:02:29,838 --> 01:02:35,880
+barriers and changed the speed of
+
+1244
+01:02:32,719 --> 01:02:39,078
+communication and has provided a glut of
+
+1245
+01:02:35,880 --> 01:02:41,880
+information much of it highly failable
+
+1246
+01:02:39,079 --> 01:02:45,079
+has this changed the function of of
+
+1247
+01:02:41,880 --> 01:02:48,240
+markets just in in quantitatively or is
+
+1248
+01:02:45,079 --> 01:02:51,278
+it a difference in kind no it certainly
+
+1249
+01:02:48,239 --> 01:02:54,278
+is also an element that has to be taken
+
+1250
+01:02:51,278 --> 01:02:56,798
+into account it's not an essential
+
+1251
+01:02:54,278 --> 01:02:59,880
+ingredient for say
+
+1252
+01:02:56,798 --> 01:03:04,119
+explaining what is going on but it is a
+
+1253
+01:02:59,880 --> 01:03:06,880
+contributing factor and uh and uh the
+
+1254
+01:03:04,119 --> 01:03:09,720
+element of time is
+
+1255
+01:03:06,880 --> 01:03:14,358
+extremely important particularly at
+
+1256
+01:03:09,719 --> 01:03:17,000
+times of Crisis where you just simply
+
+1257
+01:03:14,358 --> 01:03:20,639
+don't have the time
+
+1258
+01:03:17,000 --> 01:03:23,480
+to gather all the information that would
+
+1259
+01:03:20,639 --> 01:03:26,480
+be available if you had the time to
+
+1260
+01:03:23,480 --> 01:03:28,719
+collect it and that applies to Market
+
+1261
+01:03:26,480 --> 01:03:33,159
+participants and I can talk from
+
+1262
+01:03:28,719 --> 01:03:37,519
+personal experience and and also of
+
+1263
+01:03:33,159 --> 01:03:41,199
+course to the regulators and that is
+
+1264
+01:03:37,519 --> 01:03:46,278
+responsible for the increased liquidity
+
+1265
+01:03:41,199 --> 01:03:50,318
+preference that canes uh uh uh recognize
+
+1266
+01:03:46,278 --> 01:03:53,559
+and is a contributing factor in the
+
+1267
+01:03:50,318 --> 01:03:56,759
+severity or bringing on uh the crisis
+
+1268
+01:03:53,559 --> 01:03:58,559
+and when you look at the incredible
+
+1269
+01:03:56,760 --> 01:04:03,119
+increase in
+
+1270
+01:03:58,559 --> 01:04:05,920
+volatility uh that had to do partly with
+
+1271
+01:04:03,119 --> 01:04:08,720
+the increased speed of
+
+1272
+01:04:05,920 --> 01:04:12,559
+communications uh but mainly with the
+
+1273
+01:04:08,719 --> 01:04:17,159
+much increased range of of of
+
+1274
+01:04:12,559 --> 01:04:19,760
+uncertainty that that uh pervaded uh the
+
+1275
+01:04:17,159 --> 01:04:22,000
+market the fear of the
+
+1276
+01:04:19,760 --> 01:04:23,960
+unknown this is going to be the last
+
+1277
+01:04:22,000 --> 01:04:27,039
+question there's a gentleman there at
+
+1278
+01:04:23,960 --> 01:04:29,480
+the end
+
+1279
+01:04:27,039 --> 01:04:31,799
+good afternoon thank you very much for
+
+1280
+01:04:29,480 --> 01:04:34,440
+coming my question would be don't you
+
+1281
+01:04:31,798 --> 01:04:38,358
+think the biggest problem of this crisis
+
+1282
+01:04:34,440 --> 01:04:40,559
+is is judging the the crisis so we talk
+
+1283
+01:04:38,358 --> 01:04:44,598
+about regulation but the first step
+
+1284
+01:04:40,559 --> 01:04:46,278
+would be judging and as um Mr said this
+
+1285
+01:04:44,599 --> 01:04:48,720
+is international pretty much
+
+1286
+01:04:46,278 --> 01:04:51,079
+International crisis so the whole
+
+1287
+01:04:48,719 --> 01:04:54,719
+judging would be International who is
+
+1288
+01:04:51,079 --> 01:04:56,519
+the one who's the one in charge and and
+
+1289
+01:04:54,719 --> 01:04:58,959
+how what do you think about the first
+
+1290
+01:04:56,519 --> 01:05:01,318
+step because you say it's a huge crisis
+
+1291
+01:04:58,960 --> 01:05:03,960
+other people say it's not that
+
+1292
+01:05:01,318 --> 01:05:05,920
+huge uh the question is and I think it's
+
+1293
+01:05:03,960 --> 01:05:10,039
+a very good one to to round it off with
+
+1294
+01:05:05,920 --> 01:05:14,278
+that uh the biggest problem of a crisis
+
+1295
+01:05:10,039 --> 01:05:16,359
+like this is judging how serious it is
+
+1296
+01:05:14,278 --> 01:05:18,679
+who should be in charge if it's an an
+
+1297
+01:05:16,358 --> 01:05:21,038
+international crisis with International
+
+1298
+01:05:18,679 --> 01:05:23,558
+Dimensions is there an authority there
+
+1299
+01:05:21,039 --> 01:05:26,480
+who is in charge is there an authority
+
+1300
+01:05:23,559 --> 01:05:28,000
+that is able to assess how serious it is
+
+1301
+01:05:26,480 --> 01:05:30,760
+because some people say this is the
+
+1302
+01:05:28,000 --> 01:05:33,679
+worst crisis in human history others say
+
+1303
+01:05:30,760 --> 01:05:36,319
+well it's already over it what so how
+
+1304
+01:05:33,679 --> 01:05:39,159
+can you be confident that there is a
+
+1305
+01:05:36,318 --> 01:05:41,000
+regulator out there who can deal or a
+
+1306
+01:05:39,159 --> 01:05:43,920
+set of regulators out there who can deal
+
+1307
+01:05:41,000 --> 01:05:46,559
+with crisis actually you don't have a
+
+1308
+01:05:43,920 --> 01:05:50,838
+regulator out there and that is the
+
+1309
+01:05:46,559 --> 01:05:53,798
+challenge that confronts us because you
+
+1310
+01:05:50,838 --> 01:05:56,759
+financial markets have been globalized
+
+1311
+01:05:53,798 --> 01:05:59,480
+but globalization was based on a false
+
+1312
+01:05:56,760 --> 01:06:03,160
+principle that markets don't need to be
+
+1313
+01:05:59,480 --> 01:06:07,920
+regulated therefore globalization and
+
+1314
+01:06:03,159 --> 01:06:12,358
+deregulation went together and you can
+
+1315
+01:06:07,920 --> 01:06:13,760
+deregulate uh in a in a way that forces
+
+1316
+01:06:12,358 --> 01:06:17,159
+the the
+
+1317
+01:06:13,760 --> 01:06:19,079
+recit countries to join the
+
+1318
+01:06:17,159 --> 01:06:22,639
+deregulation
+
+1319
+01:06:19,079 --> 01:06:25,599
+because deregulation puts capital in a
+
+1320
+01:06:22,639 --> 01:06:27,838
+position that it can move around freely
+
+1321
+01:06:25,599 --> 01:06:30,000
+and it can escape Taxation and
+
+1322
+01:06:27,838 --> 01:06:32,358
+Regulation and therefore it will go
+
+1323
+01:06:30,000 --> 01:06:36,559
+where it is deregulated and since
+
+1324
+01:06:32,358 --> 01:06:41,038
+capital is in indispensable for for the
+
+1325
+01:06:36,559 --> 01:06:43,119
+economy countries had to compete in
+
+1326
+01:06:41,039 --> 01:06:46,160
+deregulating but when it comes to
+
+1327
+01:06:43,119 --> 01:06:50,000
+regulating it doesn't work the same way
+
+1328
+01:06:46,159 --> 01:06:54,519
+because the regulation at which is in
+
+1329
+01:06:50,000 --> 01:06:57,440
+existence is all based on the principle
+
+1330
+01:06:54,519 --> 01:07:00,559
+of sovereignty
+
+1331
+01:06:57,440 --> 01:07:02,200
+and different nations have different
+
+1332
+01:07:00,559 --> 01:07:05,160
+interests
+
+1333
+01:07:02,199 --> 01:07:08,598
+therefore they they will
+
+1334
+01:07:05,159 --> 01:07:11,920
+regulate according to their their
+
+1335
+01:07:08,599 --> 01:07:15,160
+interests and that actually puts into
+
+1336
+01:07:11,920 --> 01:07:18,838
+place a very strong force for the
+
+1337
+01:07:15,159 --> 01:07:20,278
+disintegration of global markets through
+
+1338
+01:07:18,838 --> 01:07:24,078
+National
+
+1339
+01:07:20,278 --> 01:07:28,318
+regulation and that and since a
+
+1340
+01:07:24,079 --> 01:07:29,559
+multi lateral system is more efficient
+
+1341
+01:07:28,318 --> 01:07:34,239
+than
+
+1342
+01:07:29,559 --> 01:07:37,160
+a bilateral system uh of
+
+1343
+01:07:34,239 --> 01:07:40,519
+regulations uh the challenge is how to
+
+1344
+01:07:37,159 --> 01:07:42,719
+create something which currently doesn't
+
+1345
+01:07:40,519 --> 01:07:45,278
+exist so it's not a question of
+
+1346
+01:07:42,719 --> 01:07:49,798
+restarting the economy it's a question
+
+1347
+01:07:45,278 --> 01:07:53,639
+of building a regulatory structure that
+
+1348
+01:07:49,798 --> 01:07:56,639
+was not created when markets were
+
+1349
+01:07:53,639 --> 01:07:56,639
+globalized
+
+1350
+01:07:59,440 --> 01:08:05,639
+well this is an exciting and and could
+
+1351
+01:08:02,920 --> 01:08:08,960
+go on much longer but I do want to thank
+
+1352
+01:08:05,639 --> 01:08:13,358
+U our very Lively questioners and
+
+1353
+01:08:08,960 --> 01:08:16,000
+audience at MIT and our equally Lively
+
+1354
+01:08:13,358 --> 01:08:18,600
+audience and highly interactive audience
+
+1355
+01:08:16,000 --> 01:08:21,798
+here at uh central European
+
+1356
+01:08:18,600 --> 01:08:22,880
+University um we will continue this
+
+1357
+01:08:21,798 --> 01:08:26,039
+journey
+
+1358
+01:08:22,880 --> 01:08:29,520
+tomorrow when Mr Soros will outline his
+
+1359
+01:08:26,039 --> 01:08:32,039
+concept of open society which is in many
+
+1360
+01:08:29,520 --> 01:08:35,080
+ways the heart of what central European
+
+1361
+01:08:32,039 --> 01:08:38,719
+University is all about I'm very
+
+1362
+01:08:35,079 --> 01:08:41,119
+grateful to ANL kety for so expertly
+
+1363
+01:08:38,719 --> 01:08:44,920
+guiding today's
+
+1364
+01:08:41,119 --> 01:08:47,960
+discussion and of course and above all
+
+1365
+01:08:44,920 --> 01:08:50,079
+to thank George Soros for continuing to
+
+1366
+01:08:47,960 --> 01:08:55,640
+stimulate Us in this extraordinary
+
+1367
+01:08:50,079 --> 01:08:55,640
+series of ceu lectures thank you
+

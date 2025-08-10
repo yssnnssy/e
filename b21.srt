@@ -1,0 +1,6052 @@
+1
+00:00:00,120 --> 00:00:06,620
+well
+
+2
+00:00:01,860 --> 00:00:06,620
+the short talk is this
+
+3
+00:00:07,620 --> 00:00:12,660
+I did a lot of math
+
+4
+00:00:10,500 --> 00:00:15,660
+I made a lot of money
+
+5
+00:00:12,660 --> 00:00:19,198
+and I gave almost all of it away
+
+6
+00:00:15,660 --> 00:00:22,560
+that's the story of my life now
+
+7
+00:00:19,199 --> 00:00:27,000
+it's a good story but it's short
+
+8
+00:00:22,559 --> 00:00:28,618
+but for reasons which I won't go into
+
+9
+00:00:27,000 --> 00:00:30,839
+I uh
+
+10
+00:00:28,618 --> 00:00:34,799
+I needed money
+
+11
+00:00:30,839 --> 00:00:38,238
+and I had borrowed money to invest in a
+
+12
+00:00:34,799 --> 00:00:42,599
+company with a friends of mine
+
+13
+00:00:38,238 --> 00:00:45,179
+and I need needed to pay it back
+
+14
+00:00:42,600 --> 00:00:47,460
+but there was a place in Princeton
+
+15
+00:00:45,179 --> 00:00:49,679
+called The Institute for defense
+
+16
+00:00:47,460 --> 00:00:51,679
+analyzes
+
+17
+00:00:49,679 --> 00:00:55,399
+which was a highly
+
+18
+00:00:51,679 --> 00:01:00,000
+classified place
+
+19
+00:00:55,399 --> 00:01:01,160
+under the Aegis of the government the
+
+20
+00:01:00,000 --> 00:01:04,019
+defense department
+
+21
+00:01:01,159 --> 00:01:08,340
+and what we're supposed to do
+
+22
+00:01:04,019 --> 00:01:11,580
+is uh break Russian codes
+
+23
+00:01:08,340 --> 00:01:13,320
+well that was an interesting challenge
+
+24
+00:01:11,579 --> 00:01:15,959
+uh
+
+25
+00:01:13,319 --> 00:01:19,339
+I like the work
+
+26
+00:01:15,959 --> 00:01:21,959
+they told us you could do your own
+
+27
+00:01:19,340 --> 00:01:24,540
+mathematics up to half your time which
+
+28
+00:01:21,959 --> 00:01:27,179
+the other half you had to do you know
+
+29
+00:01:24,540 --> 00:01:30,080
+this cold cracking business
+
+30
+00:01:27,180 --> 00:01:30,080
+at a certain point
+
+31
+00:01:30,118 --> 00:01:35,280
+I came to
+
+32
+00:01:32,879 --> 00:01:37,078
+Stony Brook University I was 30 years
+
+33
+00:01:35,280 --> 00:01:39,900
+old
+
+34
+00:01:37,078 --> 00:01:42,478
+to be the chair
+
+35
+00:01:39,900 --> 00:01:45,359
+of their math department
+
+36
+00:01:42,478 --> 00:01:47,459
+which was not a very strong Department
+
+37
+00:01:45,359 --> 00:01:51,118
+and I was pretty young to be the
+
+38
+00:01:47,459 --> 00:01:53,039
+chairman but I thought it would be fun
+
+39
+00:01:51,118 --> 00:01:54,920
+and I had a lot of money to work with
+
+40
+00:01:53,040 --> 00:01:57,659
+because
+
+41
+00:01:54,920 --> 00:01:59,820
+the governor at the time was a guy named
+
+42
+00:01:57,659 --> 00:02:02,460
+Rockefeller now I think everyone has
+
+43
+00:01:59,819 --> 00:02:05,758
+probably heard of the name Rockefeller
+
+44
+00:02:02,459 --> 00:02:07,559
+but if has anyone not heard of the name
+
+45
+00:02:05,759 --> 00:02:10,038
+Rockefeller
+
+46
+00:02:07,560 --> 00:02:12,239
+okay most of you have heard of
+
+47
+00:02:10,038 --> 00:02:14,759
+Rockefeller Rockefeller loved the State
+
+48
+00:02:12,239 --> 00:02:17,159
+University and was pouring money on it
+
+49
+00:02:14,759 --> 00:02:19,019
+so I had a lot of money to work with
+
+50
+00:02:17,159 --> 00:02:22,079
+and uh
+
+51
+00:02:19,020 --> 00:02:25,080
+hired some terrific people so
+
+52
+00:02:22,080 --> 00:02:29,580
+hire some terrific people
+
+53
+00:02:25,080 --> 00:02:31,920
+but at the same time in that time frame
+
+54
+00:02:29,580 --> 00:02:35,360
+I started again interested in another
+
+55
+00:02:31,919 --> 00:02:35,359
+area of math
+
+56
+00:02:35,759 --> 00:02:41,399
+and uh
+
+57
+00:02:38,280 --> 00:02:44,459
+I worked on that area
+
+58
+00:02:41,400 --> 00:02:46,140
+and came up with something really quite
+
+59
+00:02:44,459 --> 00:02:49,378
+beautiful
+
+60
+00:02:46,139 --> 00:02:52,018
+three dimensions it was a function I
+
+61
+00:02:49,378 --> 00:02:55,139
+can't really describe it but it
+
+62
+00:02:52,019 --> 00:02:58,439
+it lived in three dimensions closed
+
+63
+00:02:55,139 --> 00:03:00,958
+three-dimensional spaces
+
+64
+00:02:58,439 --> 00:03:03,959
+and I
+
+65
+00:03:00,959 --> 00:03:06,659
+was quite pleased
+
+66
+00:03:03,959 --> 00:03:10,500
+I showed it to churn
+
+67
+00:03:06,659 --> 00:03:12,959
+I I say I showed it I we I centered by
+
+68
+00:03:10,500 --> 00:03:14,699
+the mail because in those days there was
+
+69
+00:03:12,959 --> 00:03:17,939
+no email
+
+70
+00:03:14,699 --> 00:03:19,318
+and chern said well you've done this in
+
+71
+00:03:17,939 --> 00:03:23,280
+three dimensions
+
+72
+00:03:19,318 --> 00:03:26,579
+but it should work in all dimensions
+
+73
+00:03:23,280 --> 00:03:28,439
+I was very dubious but I said okay let's
+
+74
+00:03:26,580 --> 00:03:30,120
+work together and see
+
+75
+00:03:28,439 --> 00:03:32,878
+and he was right
+
+76
+00:03:30,120 --> 00:03:35,640
+it would work in all dimensions
+
+77
+00:03:32,878 --> 00:03:37,878
+and I was very pleased we published the
+
+78
+00:03:35,639 --> 00:03:37,878
+paper
+
+79
+00:03:38,340 --> 00:03:43,319
+and about five years later
+
+80
+00:03:41,098 --> 00:03:46,018
+a physicist
+
+81
+00:03:43,318 --> 00:03:48,899
+named Whitton
+
+82
+00:03:46,019 --> 00:03:51,959
+saw this paper and thought and he was
+
+83
+00:03:48,900 --> 00:03:55,019
+right it could apply to physics
+
+84
+00:03:51,959 --> 00:03:58,519
+and then some other physicists saw how
+
+85
+00:03:55,019 --> 00:03:58,519
+it could apply to physics
+
+86
+00:03:58,919 --> 00:04:05,339
+I didn't know any physics at all
+
+87
+00:04:01,860 --> 00:04:06,780
+churn might have known something but it
+
+88
+00:04:05,340 --> 00:04:08,280
+never occurred to him that would apply
+
+89
+00:04:06,780 --> 00:04:12,000
+to physics
+
+90
+00:04:08,280 --> 00:04:14,158
+and remarkably so you never know where
+
+91
+00:04:12,000 --> 00:04:16,798
+something will go
+
+92
+00:04:14,158 --> 00:04:21,000
+you think you're doing math and you're
+
+93
+00:04:16,798 --> 00:04:23,758
+actually doing physics maybe or whatever
+
+94
+00:04:21,000 --> 00:04:25,918
+so today
+
+95
+00:04:23,759 --> 00:04:30,300
+that is
+
+96
+00:04:25,918 --> 00:04:34,740
+called churn Simon's Theory
+
+97
+00:04:30,300 --> 00:04:37,139
+it's all over the place in physics on
+
+98
+00:04:34,740 --> 00:04:40,439
+average every day
+
+99
+00:04:37,139 --> 00:04:45,060
+four papers in physics
+
+100
+00:04:40,439 --> 00:04:48,680
+reference this churn Simon's Theory
+
+101
+00:04:45,060 --> 00:04:52,259
+so I can't take any credit for it at all
+
+102
+00:04:48,680 --> 00:04:55,079
+but uh but there it was and of course
+
+103
+00:04:52,259 --> 00:04:57,900
+I'm quite pleased about it but I can't
+
+104
+00:04:55,079 --> 00:05:00,240
+say that oh I I invented this for
+
+105
+00:04:57,899 --> 00:05:02,819
+physics
+
+106
+00:05:00,240 --> 00:05:04,860
+well
+
+107
+00:05:02,819 --> 00:05:07,439
+shortly after that
+
+108
+00:05:04,860 --> 00:05:10,020
+I started to get interested
+
+109
+00:05:07,439 --> 00:05:12,478
+in the world of Investments
+
+110
+00:05:10,019 --> 00:05:15,000
+I had come into to
+
+111
+00:05:12,478 --> 00:05:17,819
+a very small amount of money but it was
+
+112
+00:05:15,000 --> 00:05:20,639
+enough to start investing
+
+113
+00:05:17,819 --> 00:05:24,538
+and one thing led to another
+
+114
+00:05:20,639 --> 00:05:28,439
+I started hiring people
+
+115
+00:05:24,538 --> 00:05:30,439
+and we made what was called a hedge fund
+
+116
+00:05:28,439 --> 00:05:33,719
+and it was
+
+117
+00:05:30,439 --> 00:05:37,439
+remarkably successful
+
+118
+00:05:33,720 --> 00:05:39,539
+it's still going I'm not with it anymore
+
+119
+00:05:37,439 --> 00:05:41,819
+but I made
+
+120
+00:05:39,538 --> 00:05:46,560
+a tremendous amount of money
+
+121
+00:05:41,819 --> 00:05:50,639
+from this from this hedge fund
+
+122
+00:05:46,560 --> 00:05:52,918
+now my lovely wife Marilyn
+
+123
+00:05:50,639 --> 00:05:55,740
+said let's give some of it away
+
+124
+00:05:52,918 --> 00:05:57,120
+so I said okay fine so we gave some
+
+125
+00:05:55,740 --> 00:05:58,918
+charity
+
+126
+00:05:57,120 --> 00:06:00,899
+and then she said well why don't we
+
+127
+00:05:58,918 --> 00:06:02,399
+start a foundation
+
+128
+00:06:00,899 --> 00:06:04,500
+and uh
+
+129
+00:06:02,399 --> 00:06:06,839
+okay starting Foundation
+
+130
+00:06:04,500 --> 00:06:09,478
+she started a foundation
+
+131
+00:06:06,839 --> 00:06:11,159
+I put money into it
+
+132
+00:06:09,478 --> 00:06:12,959
+the good thing about putting money into
+
+133
+00:06:11,160 --> 00:06:16,199
+a foundation is you can give the money
+
+134
+00:06:12,959 --> 00:06:18,659
+away you've got the tax advantage but it
+
+135
+00:06:16,199 --> 00:06:20,100
+doesn't have to be spent immediately so
+
+136
+00:06:18,660 --> 00:06:21,600
+you can put money into the foundation
+
+137
+00:06:20,100 --> 00:06:24,000
+and say well we'll see what we want to
+
+138
+00:06:21,600 --> 00:06:25,199
+do with it tomorrow or next year or
+
+139
+00:06:24,000 --> 00:06:28,620
+whatever
+
+140
+00:06:25,199 --> 00:06:30,900
+but it grew and grew
+
+141
+00:06:28,620 --> 00:06:34,019
+and grew
+
+142
+00:06:30,899 --> 00:06:36,719
+so uh
+
+143
+00:06:34,019 --> 00:06:38,459
+it today
+
+144
+00:06:36,720 --> 00:06:42,600
+oh well
+
+145
+00:06:38,459 --> 00:06:46,620
+we decided to focus on science
+
+146
+00:06:42,600 --> 00:06:48,900
+with our uh Foundation
+
+147
+00:06:46,620 --> 00:06:50,220
+focus on science
+
+148
+00:06:48,899 --> 00:06:52,198
+uh
+
+149
+00:06:50,220 --> 00:06:55,620
+90 percent of it
+
+150
+00:06:52,199 --> 00:06:58,620
+should be science eight 60 of that
+
+151
+00:06:55,620 --> 00:07:01,680
+should be basic science
+
+152
+00:06:58,620 --> 00:07:03,000
+and 30 of that could be translational
+
+153
+00:07:01,680 --> 00:07:06,120
+science
+
+154
+00:07:03,000 --> 00:07:08,699
+and 10 could be education and Outreach
+
+155
+00:07:06,120 --> 00:07:11,220
+and things like that
+
+156
+00:07:08,699 --> 00:07:14,879
+so today uh
+
+157
+00:07:11,220 --> 00:07:17,460
+that Foundation is
+
+158
+00:07:14,879 --> 00:07:22,079
+extremely large
+
+159
+00:07:17,459 --> 00:07:24,239
+and so most of the money that I made was
+
+160
+00:07:22,079 --> 00:07:29,279
+put into the foundation
+
+161
+00:07:24,240 --> 00:07:32,340
+so I'm not so rich as I was before but
+
+162
+00:07:29,279 --> 00:07:34,379
+uh Rich enough it was extremely
+
+163
+00:07:32,339 --> 00:07:37,560
+interesting to model things and see them
+
+164
+00:07:34,379 --> 00:07:39,180
+uh programmed up God knows not by me but
+
+165
+00:07:37,560 --> 00:07:41,879
+someone else could program them up and
+
+166
+00:07:39,180 --> 00:07:43,800
+test out theories of models would it
+
+167
+00:07:41,879 --> 00:07:45,719
+work what it would not work and at the
+
+168
+00:07:43,800 --> 00:07:49,319
+same time mathematics was going
+
+169
+00:07:45,720 --> 00:07:51,900
+extremely well and I did do the work
+
+170
+00:07:49,319 --> 00:07:54,479
+there that subsequently got this
+
+171
+00:07:51,899 --> 00:07:58,258
+bubbling prize solved the you know kind
+
+172
+00:07:54,478 --> 00:08:00,538
+of a major problem in geometry and uh
+
+173
+00:07:58,259 --> 00:08:02,759
+was going swimmingly I was it was a it
+
+174
+00:08:00,538 --> 00:08:05,159
+was a great experience I was there
+
+175
+00:08:02,759 --> 00:08:06,840
+but then this was the time of the
+
+176
+00:08:05,160 --> 00:08:09,720
+Vietnam War
+
+177
+00:08:06,839 --> 00:08:12,598
+and uh the president of this
+
+178
+00:08:09,720 --> 00:08:14,220
+organization two two steps up from my
+
+179
+00:08:12,598 --> 00:08:16,680
+local boss
+
+180
+00:08:14,220 --> 00:08:18,660
+guy named Maxwell Taylor some of the
+
+181
+00:08:16,680 --> 00:08:21,120
+people with gray hair in the room might
+
+182
+00:08:18,660 --> 00:08:23,639
+remember General Maxwell Taylor anyway
+
+183
+00:08:21,120 --> 00:08:25,620
+he ran this outfit and he wrote a crazy
+
+184
+00:08:23,639 --> 00:08:28,079
+article which was well I thought it was
+
+185
+00:08:25,620 --> 00:08:29,399
+crazy in the New York Times magazine
+
+186
+00:08:28,079 --> 00:08:31,439
+section
+
+187
+00:08:29,399 --> 00:08:33,598
+uh saying how we were going to win the
+
+188
+00:08:31,439 --> 00:08:35,940
+Vietnam War and it was just you know
+
+189
+00:08:33,599 --> 00:08:38,940
+victory was days away or whatever it was
+
+190
+00:08:35,940 --> 00:08:41,219
+that he was touting and uh
+
+191
+00:08:38,940 --> 00:08:42,659
+I didn't
+
+192
+00:08:41,219 --> 00:08:43,919
+agree with that now the work we were
+
+193
+00:08:42,658 --> 00:08:45,778
+doing had nothing to do with the Vietnam
+
+194
+00:08:43,918 --> 00:08:48,899
+War but it annoyed me
+
+195
+00:08:45,778 --> 00:08:51,000
+that my head of my organization could
+
+196
+00:08:48,899 --> 00:08:52,500
+take such a silly point of view and I
+
+197
+00:08:51,000 --> 00:08:56,419
+wrote a nice letter to the New York
+
+198
+00:08:52,500 --> 00:08:56,419
+Times expressing that view
+
+199
+00:08:57,799 --> 00:09:01,939
+which they kindly published
+
+200
+00:09:03,019 --> 00:09:08,759
+in that same Sunday edition
+
+201
+00:09:06,019 --> 00:09:10,679
+several weeks later so now I was on the
+
+202
+00:09:08,759 --> 00:09:13,080
+watch list I didn't know it but I was on
+
+203
+00:09:10,679 --> 00:09:15,419
+the watch list for the for this place
+
+204
+00:09:13,080 --> 00:09:17,100
+and then a guy came along a few months
+
+205
+00:09:15,419 --> 00:09:19,439
+later three or four
+
+206
+00:09:17,100 --> 00:09:22,560
+and he was a he announced that he was a
+
+207
+00:09:19,440 --> 00:09:24,899
+reporter for news Week Magazine
+
+208
+00:09:22,559 --> 00:09:26,278
+and he was doing an article on people
+
+209
+00:09:24,899 --> 00:09:28,919
+who worked for the defense department
+
+210
+00:09:26,278 --> 00:09:30,720
+but were opposed to the war and he was
+
+211
+00:09:28,919 --> 00:09:32,879
+having a hard time finding anyone to
+
+212
+00:09:30,720 --> 00:09:34,500
+interview but he heard about me he read
+
+213
+00:09:32,879 --> 00:09:37,278
+my letter could he interview me and I
+
+214
+00:09:34,500 --> 00:09:39,480
+said sure what did I know of course
+
+215
+00:09:37,278 --> 00:09:42,659
+of course
+
+216
+00:09:39,480 --> 00:09:45,300
+you can see how sophisticated I was at
+
+217
+00:09:42,659 --> 00:09:47,759
+that time so he said well uh you know
+
+218
+00:09:45,299 --> 00:09:49,319
+what what do you do well I blathered on
+
+219
+00:09:47,759 --> 00:09:51,240
+about this and that but I said but my
+
+220
+00:09:49,320 --> 00:09:54,600
+algorithm has been
+
+221
+00:09:51,240 --> 00:09:57,120
+uh since they say you can do 50 of your
+
+222
+00:09:54,600 --> 00:09:59,879
+work on mathematics and the other 50 on
+
+223
+00:09:57,120 --> 00:10:01,860
+their work uh right now I'm doing only
+
+224
+00:09:59,879 --> 00:10:04,080
+mathematics and I'm keeping careful
+
+225
+00:10:01,860 --> 00:10:07,800
+records when the war is over then I'll
+
+226
+00:10:04,080 --> 00:10:10,860
+do an equal amount of their work
+
+227
+00:10:07,799 --> 00:10:13,458
+and uh that's my Approach
+
+228
+00:10:10,860 --> 00:10:13,459
+so
+
+229
+00:10:13,620 --> 00:10:17,090
+no I mean you know
+
+230
+00:10:15,419 --> 00:10:19,500
+it's not unreasonable
+
+231
+00:10:17,090 --> 00:10:22,980
+[Laughter]
+
+232
+00:10:19,500 --> 00:10:24,778
+so I went back to tell my local boss I
+
+233
+00:10:22,980 --> 00:10:26,639
+it was the first intelligent thing that
+
+234
+00:10:24,778 --> 00:10:29,338
+had occurred to me a little late perhaps
+
+235
+00:10:26,639 --> 00:10:31,399
+but that I decided I better tell my my
+
+236
+00:10:29,339 --> 00:10:34,140
+local boss that I gave this interview
+
+237
+00:10:31,399 --> 00:10:36,539
+and he said you did and what did you say
+
+238
+00:10:34,139 --> 00:10:40,080
+and I said well I said what I said he
+
+239
+00:10:36,539 --> 00:10:42,599
+said hmm he said I better call Taylor
+
+240
+00:10:40,080 --> 00:10:45,000
+okay pick up the phone call this General
+
+241
+00:10:42,600 --> 00:10:46,379
+Maxwell Taylor that was
+
+242
+00:10:45,000 --> 00:10:49,320
+a little
+
+243
+00:10:46,379 --> 00:10:52,078
+silence at the other end and so on and
+
+244
+00:10:49,320 --> 00:10:54,000
+and he couldn't hear what Taylor was
+
+245
+00:10:52,078 --> 00:10:56,578
+saying and then he hung up he looked at
+
+246
+00:10:54,000 --> 00:11:00,000
+me said you're fired
+
+247
+00:10:56,578 --> 00:11:02,819
+fired I mean I'm fine you're fired
+
+248
+00:11:00,000 --> 00:11:04,679
+and well it was the first time and
+
+249
+00:11:02,820 --> 00:11:07,200
+happily the last time I was ever fired
+
+250
+00:11:04,679 --> 00:11:07,979
+but I was fired summarily and I said
+
+251
+00:11:07,200 --> 00:11:10,440
+well
+
+252
+00:11:07,980 --> 00:11:13,278
+I'm a permanent member that was my title
+
+253
+00:11:10,440 --> 00:11:13,279
+permanent member
+
+254
+00:11:15,899 --> 00:11:19,860
+he said I'll tell you the difference and
+
+255
+00:11:17,759 --> 00:11:21,179
+when I started I was a temporary member
+
+256
+00:11:19,860 --> 00:11:23,399
+I was a temporary member and then I
+
+257
+00:11:21,179 --> 00:11:24,838
+became a permanent member
+
+258
+00:11:23,399 --> 00:11:26,639
+so he said I'll tell you the difference
+
+259
+00:11:24,839 --> 00:11:28,500
+between a temporary member and a
+
+260
+00:11:26,639 --> 00:11:30,659
+permanent member I said yes he said a
+
+261
+00:11:28,500 --> 00:11:33,600
+temporary member has a contract
+
+262
+00:11:30,659 --> 00:11:35,219
+well I guess it was true I had a letter
+
+263
+00:11:33,600 --> 00:11:37,019
+when I was a temporary member but when
+
+264
+00:11:35,220 --> 00:11:40,139
+it became a permanent member I didn't
+
+265
+00:11:37,019 --> 00:11:44,039
+have a contract and so there I was out
+
+266
+00:11:40,139 --> 00:11:47,819
+on my ear but not especially
+
+267
+00:11:44,039 --> 00:11:50,759
+worried and I did go against his advice
+
+268
+00:11:47,820 --> 00:11:52,980
+and I did take the job as chairman
+
+269
+00:11:50,759 --> 00:11:54,299
+at Stony Brook I figured
+
+270
+00:11:52,980 --> 00:11:56,459
+uh
+
+271
+00:11:54,299 --> 00:11:59,958
+it was better to be a fire Roar than a
+
+272
+00:11:56,458 --> 00:11:59,958
+fiery and
+
+273
+00:12:01,879 --> 00:12:08,039
+there was a fair amount of firing
+
+274
+00:12:05,039 --> 00:12:11,159
+regrettably that had to be done uh the
+
+275
+00:12:08,039 --> 00:12:12,838
+department was very weak but we hired a
+
+276
+00:12:11,159 --> 00:12:15,600
+lot of people we had a good time and we
+
+277
+00:12:12,839 --> 00:12:18,540
+did build a good department and I did do
+
+278
+00:12:15,600 --> 00:12:21,240
+some some mathematics there that ended
+
+279
+00:12:18,539 --> 00:12:24,379
+up with churn that ended up being a
+
+280
+00:12:21,240 --> 00:12:28,200
+pretty useful in physics
+
+281
+00:12:24,379 --> 00:12:30,838
+and uh and it was there that I did
+
+282
+00:12:28,200 --> 00:12:33,899
+learn about uh the bone marinop
+
+283
+00:12:30,839 --> 00:12:35,399
+experiment and the relation the apparent
+
+284
+00:12:33,899 --> 00:12:37,500
+relation between
+
+285
+00:12:35,399 --> 00:12:38,940
+what we mathematician called you know
+
+286
+00:12:37,500 --> 00:12:40,860
+bundles with connection and what the
+
+287
+00:12:38,940 --> 00:12:44,459
+physicists call Gage Theory and I did
+
+288
+00:12:40,860 --> 00:12:46,620
+run off to MIT and said not to MIT to
+
+289
+00:12:44,458 --> 00:12:49,018
+see is he was in I think he was at
+
+290
+00:12:46,620 --> 00:12:50,519
+Rockefeller that year and sat in some
+
+291
+00:12:49,019 --> 00:12:52,740
+place over coffee
+
+292
+00:12:50,519 --> 00:12:55,259
+and explain this connection
+
+293
+00:12:52,740 --> 00:12:57,720
+and it was a very very exciting time and
+
+294
+00:12:55,259 --> 00:13:00,240
+it was I think there were conversations
+
+295
+00:12:57,720 --> 00:13:03,899
+like that going on perhaps in lots of
+
+296
+00:13:00,240 --> 00:13:06,839
+coffee shops around about how physics
+
+297
+00:13:03,899 --> 00:13:08,759
+and the way it was evolving and the
+
+298
+00:13:06,839 --> 00:13:11,940
+geometric side of mathematics were
+
+299
+00:13:08,759 --> 00:13:14,360
+really becoming uh quite intertwined and
+
+300
+00:13:11,940 --> 00:13:17,100
+now they're
+
+301
+00:13:14,360 --> 00:13:19,620
+inextricably intertwined as far as I
+
+302
+00:13:17,100 --> 00:13:21,959
+could as far as I can see
+
+303
+00:13:19,620 --> 00:13:25,679
+so those were all those were all good
+
+304
+00:13:21,958 --> 00:13:28,939
+times but then as is said as he's been
+
+305
+00:13:25,679 --> 00:13:32,578
+giving my my talk uh
+
+306
+00:13:28,940 --> 00:13:34,079
+I did get frustrated I was stuck I was
+
+307
+00:13:32,578 --> 00:13:36,479
+really stuck in a problem I was trying
+
+308
+00:13:34,078 --> 00:13:38,278
+to prove a certain number was irrational
+
+309
+00:13:36,480 --> 00:13:41,339
+I guess you all know what an irrational
+
+310
+00:13:38,278 --> 00:13:43,379
+number is uh it might not seem so
+
+311
+00:13:41,339 --> 00:13:46,320
+important that a number be rational or
+
+312
+00:13:43,379 --> 00:13:48,439
+irrational but in this case uh it seemed
+
+313
+00:13:46,320 --> 00:13:51,540
+to have a lot of a lot of implications
+
+314
+00:13:48,440 --> 00:13:53,820
+and I was wholly incapable
+
+315
+00:13:51,539 --> 00:13:55,500
+of solving this problem and it's still
+
+316
+00:13:53,820 --> 00:13:57,540
+an open problem this whole area it's a
+
+317
+00:13:55,500 --> 00:13:58,620
+great set of problems about volumes and
+
+318
+00:13:57,539 --> 00:14:00,120
+whether
+
+319
+00:13:58,620 --> 00:14:03,539
+they're rational
+
+320
+00:14:00,120 --> 00:14:04,860
+in some sense so uh anyway I was I was
+
+321
+00:14:03,539 --> 00:14:08,278
+very frustrated
+
+322
+00:14:04,860 --> 00:14:11,339
+uh I had been I was on the wrong side of
+
+323
+00:14:08,278 --> 00:14:14,578
+of a divorce
+
+324
+00:14:11,339 --> 00:14:16,380
+I was on turned out on the right side of
+
+325
+00:14:14,578 --> 00:14:18,059
+my next marriage I did have a new
+
+326
+00:14:16,379 --> 00:14:20,939
+girlfriend who's standing sitting right
+
+327
+00:14:18,059 --> 00:14:23,518
+there my new girlfriend and
+
+328
+00:14:20,940 --> 00:14:25,380
+my South American Business at long last
+
+329
+00:14:23,519 --> 00:14:26,879
+started paying some dividends in fact
+
+330
+00:14:25,379 --> 00:14:29,578
+they started paying a lot of dividends
+
+331
+00:14:26,879 --> 00:14:33,240
+and I had some money and I invested that
+
+332
+00:14:29,578 --> 00:14:34,078
+money and found out that I wasn't bad at
+
+333
+00:14:33,240 --> 00:14:37,200
+it
+
+334
+00:14:34,078 --> 00:14:40,319
+and all of this
+
+335
+00:14:37,200 --> 00:14:44,399
+was made me think okay it's time for a
+
+336
+00:14:40,320 --> 00:14:46,440
+change and so in 1976 I was 38
+
+337
+00:14:44,399 --> 00:14:48,600
+I felt I'd been a mathematician all my
+
+338
+00:14:46,440 --> 00:14:50,579
+life but really sort of since I was 18 I
+
+339
+00:14:48,600 --> 00:14:51,839
+think I was so I I guess I spent 20
+
+340
+00:14:50,578 --> 00:14:55,799
+years
+
+341
+00:14:51,839 --> 00:14:58,800
+in that game and decided to to go into
+
+342
+00:14:55,799 --> 00:15:01,439
+business and never occurring that I
+
+343
+00:14:58,799 --> 00:15:05,759
+would apply mathematics to the business
+
+344
+00:15:01,440 --> 00:15:07,800
+Ivy did subsequently but I just felt you
+
+345
+00:15:05,759 --> 00:15:10,799
+know you read the newspapers you you you
+
+346
+00:15:07,799 --> 00:15:13,319
+think you'll do pretty well but and and
+
+347
+00:15:10,799 --> 00:15:17,039
+we did we did okay but after a little
+
+348
+00:15:13,320 --> 00:15:18,120
+bit I started collecting some data and I
+
+349
+00:15:17,039 --> 00:15:19,919
+figured
+
+350
+00:15:18,120 --> 00:15:21,299
+there's something to be modeled here
+
+351
+00:15:19,919 --> 00:15:24,000
+there's something to be modeled here
+
+352
+00:15:21,299 --> 00:15:26,278
+like we used to do in the old Ida days
+
+353
+00:15:24,000 --> 00:15:29,639
+so I brought in the best modeler in the
+
+354
+00:15:26,278 --> 00:15:32,698
+world uh Lenny a guy named Lenny
+
+355
+00:15:29,639 --> 00:15:34,139
+Baum from Ida and persuaded him to come
+
+356
+00:15:32,698 --> 00:15:35,639
+and we're going to make these models and
+
+357
+00:15:34,139 --> 00:15:38,579
+do great
+
+358
+00:15:35,639 --> 00:15:40,620
+and Lenny started making models and with
+
+359
+00:15:38,578 --> 00:15:44,879
+me and we were fooling around
+
+360
+00:15:40,620 --> 00:15:47,459
+but I kept trading and then Lenny seemed
+
+361
+00:15:44,879 --> 00:15:50,159
+to have got less and less interested in
+
+362
+00:15:47,458 --> 00:15:54,539
+models and more and more interested in
+
+363
+00:15:50,159 --> 00:15:57,059
+reading the news reel that in those days
+
+364
+00:15:54,539 --> 00:15:58,740
+it was just a role it would tick away
+
+365
+00:15:57,059 --> 00:16:00,239
+and you'd read the news and Lenny was
+
+366
+00:15:58,740 --> 00:16:02,519
+always reading the news instead of
+
+367
+00:16:00,240 --> 00:16:04,919
+thinking about models
+
+368
+00:16:02,519 --> 00:16:06,120
+and then he started having opinions on
+
+369
+00:16:04,919 --> 00:16:07,620
+what was going to go up and what was
+
+370
+00:16:06,120 --> 00:16:10,259
+going to go down this was all foreign
+
+371
+00:16:07,620 --> 00:16:14,519
+currencies bonds that kind of stuff
+
+372
+00:16:10,259 --> 00:16:16,759
+and I started listening to him and uh he
+
+373
+00:16:14,519 --> 00:16:18,899
+was right he was right
+
+374
+00:16:16,759 --> 00:16:23,120
+he was right enough times he said okay
+
+375
+00:16:18,899 --> 00:16:23,120
+the hell with the modeling let's just uh
+
+376
+00:16:24,059 --> 00:16:31,379
+let's just try to make some money and uh
+
+377
+00:16:28,078 --> 00:16:32,939
+we had a remarkable run in a two two
+
+378
+00:16:31,379 --> 00:16:35,939
+years since I said to Howard the model
+
+379
+00:16:32,940 --> 00:16:38,279
+and we multiplied our investors money by
+
+380
+00:16:35,940 --> 00:16:40,380
+12. now then that was even after that
+
+381
+00:16:38,278 --> 00:16:43,439
+phase that's a that sounds pretty good
+
+382
+00:16:40,379 --> 00:16:47,100
+right for uh it was we were incredibly
+
+383
+00:16:43,440 --> 00:16:49,620
+lucky see the last word up there is luck
+
+384
+00:16:47,100 --> 00:16:52,440
+Good Luck Good Luck Good Luck and we
+
+385
+00:16:49,620 --> 00:16:53,519
+certainly had good luck uh I've had a
+
+386
+00:16:52,440 --> 00:16:57,660
+lot of good luck
+
+387
+00:16:53,519 --> 00:16:59,459
+in my career so uh but in the back of my
+
+388
+00:16:57,659 --> 00:17:01,919
+mind was well okay London doesn't want
+
+389
+00:16:59,458 --> 00:17:03,359
+to build models but maybe we could build
+
+390
+00:17:01,919 --> 00:17:05,220
+some someone else could come in and
+
+391
+00:17:03,360 --> 00:17:08,699
+build models and another fellow Jim ax
+
+392
+00:17:05,220 --> 00:17:10,919
+who was quite a famous mathematician uh
+
+393
+00:17:08,699 --> 00:17:12,779
+left Stony Brook to come and and he did
+
+394
+00:17:10,919 --> 00:17:15,660
+build some models so
+
+395
+00:17:12,779 --> 00:17:17,578
+those next years was a combination of
+
+396
+00:17:15,660 --> 00:17:19,439
+fundamental trading I did venture
+
+397
+00:17:17,578 --> 00:17:22,980
+capital I invested in all kinds of
+
+398
+00:17:19,439 --> 00:17:24,839
+things but the models kept being built
+
+399
+00:17:22,980 --> 00:17:26,699
+and working better and better
+
+400
+00:17:24,838 --> 00:17:28,918
+and finally
+
+401
+00:17:26,699 --> 00:17:31,080
+at the end of about a 10-year run
+
+402
+00:17:28,919 --> 00:17:33,000
+it was clear to me that this
+
+403
+00:17:31,079 --> 00:17:33,899
+gut-wrenching business of fundamental I
+
+404
+00:17:33,000 --> 00:17:35,940
+mean
+
+405
+00:17:33,900 --> 00:17:37,500
+you know if you're doing fundamental
+
+406
+00:17:35,940 --> 00:17:39,360
+trading one morning you come in you feel
+
+407
+00:17:37,500 --> 00:17:40,919
+like a genius you know your positions
+
+408
+00:17:39,359 --> 00:17:43,079
+are all your way and you think God I'm
+
+409
+00:17:40,919 --> 00:17:45,000
+really smart and look at all the money I
+
+410
+00:17:43,079 --> 00:17:47,159
+made overnight then the next day you
+
+411
+00:17:45,000 --> 00:17:49,679
+come in and they've gone against you and
+
+412
+00:17:47,160 --> 00:17:51,720
+you feel like an idiot there was
+
+413
+00:17:49,679 --> 00:17:54,000
+we were pretty good at it but it just
+
+414
+00:17:51,720 --> 00:17:57,779
+didn't seem to be a way
+
+415
+00:17:54,000 --> 00:18:01,079
+to live your life you know uh so click
+
+416
+00:17:57,779 --> 00:18:03,720
+building models go with the model so
+
+417
+00:18:01,079 --> 00:18:06,298
+by 1988
+
+418
+00:18:03,720 --> 00:18:08,880
+I decided it's going to be a hundred
+
+419
+00:18:06,298 --> 00:18:11,240
+percent models and it and it has been
+
+420
+00:18:08,880 --> 00:18:15,360
+ever since in the business that we built
+
+421
+00:18:11,240 --> 00:18:17,579
+so some firms uh you know investing
+
+422
+00:18:15,359 --> 00:18:19,439
+firms say oh they have models and what
+
+423
+00:18:17,579 --> 00:18:22,139
+they typically mean is you know we have
+
+424
+00:18:19,440 --> 00:18:23,820
+a model and it advises the trader what
+
+425
+00:18:22,140 --> 00:18:24,960
+to do and if he likes the advice he'll
+
+426
+00:18:23,819 --> 00:18:27,720
+take it and if he doesn't like the
+
+427
+00:18:24,960 --> 00:18:31,079
+advice he won't take it well that's you
+
+428
+00:18:27,720 --> 00:18:33,600
+can't that's not science you can't
+
+429
+00:18:31,079 --> 00:18:35,519
+simulate how you would do how how was
+
+430
+00:18:33,599 --> 00:18:37,798
+how were you feeling when you got out of
+
+431
+00:18:35,519 --> 00:18:40,619
+bed uh you know 13 years ago when you're
+
+432
+00:18:37,798 --> 00:18:42,119
+looking at at historical simulations did
+
+433
+00:18:40,619 --> 00:18:44,099
+you like what the model said or didn't
+
+434
+00:18:42,119 --> 00:18:47,219
+you like what the model said that it's a
+
+435
+00:18:44,099 --> 00:18:49,319
+hard thing to back test so uh if you're
+
+436
+00:18:47,220 --> 00:18:51,179
+going to trade using models you're just
+
+437
+00:18:49,319 --> 00:18:53,579
+slavishly use the models you do whatever
+
+438
+00:18:51,179 --> 00:18:55,259
+the hell it says no matter how smart or
+
+439
+00:18:53,579 --> 00:18:58,980
+dumb you might think it is at that
+
+440
+00:18:55,259 --> 00:19:00,419
+moment and that uh turned out to be a
+
+441
+00:18:58,980 --> 00:19:03,058
+wonderful decision
+
+442
+00:19:00,419 --> 00:19:06,059
+so we built a business
+
+443
+00:19:03,058 --> 00:19:08,160
+a hundreds hundred percent based on
+
+444
+00:19:06,058 --> 00:19:09,720
+building computer models
+
+445
+00:19:08,160 --> 00:19:12,419
+uh
+
+446
+00:19:09,720 --> 00:19:14,880
+starting in those areas that that I I
+
+447
+00:19:12,419 --> 00:19:18,240
+mentioned currencies uh financial
+
+448
+00:19:14,880 --> 00:19:20,400
+instruments uh gradually uh moving to
+
+449
+00:19:18,240 --> 00:19:22,679
+stocks and finally to anything that
+
+450
+00:19:20,400 --> 00:19:25,259
+moved uh
+
+451
+00:19:22,679 --> 00:19:28,620
+well it had to be uh tradable how to be
+
+452
+00:19:25,259 --> 00:19:31,798
+liquid we were all was always liquid but
+
+453
+00:19:28,619 --> 00:19:35,399
+and you know bringing in data data in
+
+454
+00:19:31,798 --> 00:19:38,339
+those days we you know we sent gals down
+
+455
+00:19:35,400 --> 00:19:40,440
+to the New York Federal Reserve to copy
+
+456
+00:19:38,339 --> 00:19:42,779
+histories of interest rate numbers I
+
+457
+00:19:40,440 --> 00:19:44,519
+mean they didn't exist in the 70s you
+
+458
+00:19:42,779 --> 00:19:47,819
+couldn't go and buy data and it was
+
+459
+00:19:44,519 --> 00:19:50,038
+certainly not online deliveries of all
+
+460
+00:19:47,819 --> 00:19:51,899
+this stuff so to build the original
+
+461
+00:19:50,038 --> 00:19:55,379
+models we needed to collect a lot of
+
+462
+00:19:51,900 --> 00:19:57,298
+data by hand which we did and uh but
+
+463
+00:19:55,380 --> 00:19:59,220
+gradually
+
+464
+00:19:57,298 --> 00:20:00,900
+um you know we got smarter the models
+
+465
+00:19:59,220 --> 00:20:04,019
+got better we brought in more and more
+
+466
+00:20:00,900 --> 00:20:05,519
+people is said our we have the best math
+
+467
+00:20:04,019 --> 00:20:07,259
+and physics department in the world at
+
+468
+00:20:05,519 --> 00:20:10,099
+Renaissance I don't think that's quite
+
+469
+00:20:07,259 --> 00:20:13,440
+true uh on the other hand it ain't bad
+
+470
+00:20:10,099 --> 00:20:16,859
+uh we have a lot of smart uh Smart Guys
+
+471
+00:20:13,440 --> 00:20:19,500
+and uh and we certainly hired people who
+
+472
+00:20:16,859 --> 00:20:21,779
+were good at that kind of work
+
+473
+00:20:19,500 --> 00:20:26,819
+so we started this thing called The
+
+474
+00:20:21,779 --> 00:20:27,660
+Medallion Fund in 1988 in 1993 we closed
+
+475
+00:20:26,819 --> 00:20:31,319
+it
+
+476
+00:20:27,660 --> 00:20:33,440
+to any new investment by Outsiders just
+
+477
+00:20:31,319 --> 00:20:36,960
+employees could invest
+
+478
+00:20:33,440 --> 00:20:38,700
+by 2002 we started taking out the
+
+479
+00:20:36,960 --> 00:20:41,819
+outsiders all together buying them out
+
+480
+00:20:38,700 --> 00:20:45,240
+and by 2005 there weren't any left so
+
+481
+00:20:41,819 --> 00:20:47,700
+since then last five years this vaunted
+
+482
+00:20:45,240 --> 00:20:50,359
+Medallion fund has been owned a hundred
+
+483
+00:20:47,700 --> 00:20:53,819
+percent by by the employees
+
+484
+00:20:50,359 --> 00:20:56,399
+uh which today are about 300
+
+485
+00:20:53,819 --> 00:20:58,500
+300 employees
+
+486
+00:20:56,400 --> 00:20:59,640
+and well
+
+487
+00:20:58,500 --> 00:21:01,319
+so
+
+488
+00:20:59,640 --> 00:21:03,240
+people would always ask me well what's
+
+489
+00:21:01,319 --> 00:21:04,798
+the secret how come because we're not
+
+490
+00:21:03,240 --> 00:21:07,079
+the only
+
+491
+00:21:04,798 --> 00:21:10,038
+Quant firm in the world we're not the
+
+492
+00:21:07,079 --> 00:21:13,558
+only guys who have you know made models
+
+493
+00:21:10,038 --> 00:21:15,419
+I disparaged some who who model making
+
+494
+00:21:13,558 --> 00:21:17,160
+was sort of a part-time thing but there
+
+495
+00:21:15,419 --> 00:21:19,500
+were certainly other outfits but we seem
+
+496
+00:21:17,160 --> 00:21:21,779
+to have done better than than anybody we
+
+497
+00:21:19,500 --> 00:21:24,298
+had really established a remarkable
+
+498
+00:21:21,779 --> 00:21:25,980
+record so people always ask me well
+
+499
+00:21:24,298 --> 00:21:28,200
+what's the secret you know what are the
+
+500
+00:21:25,980 --> 00:21:29,579
+secrets not because I'm not going to
+
+501
+00:21:28,200 --> 00:21:31,080
+tell you the various
+
+502
+00:21:29,579 --> 00:21:34,678
+predictive
+
+503
+00:21:31,079 --> 00:21:38,779
+signals and so on and so forth
+
+504
+00:21:34,679 --> 00:21:38,780
+unless no I'm definitely not
+
+505
+00:21:40,679 --> 00:21:44,000
+we'll keep that that's even bigger
+
+506
+00:21:42,599 --> 00:21:47,819
+Secrets than that
+
+507
+00:21:44,000 --> 00:21:51,538
+their stuff down there at iea
+
+508
+00:21:47,819 --> 00:21:54,538
+it's these secrets are uh we try to
+
+509
+00:21:51,538 --> 00:21:57,480
+guard them but the real secret sauce
+
+510
+00:21:54,538 --> 00:21:59,339
+is that we start with great scientists
+
+511
+00:21:57,480 --> 00:22:01,380
+we start with
+
+512
+00:21:59,339 --> 00:22:03,359
+first class people who've done first
+
+513
+00:22:01,380 --> 00:22:05,039
+class work or we believe have reason to
+
+514
+00:22:03,359 --> 00:22:07,319
+believe we'll do first class work and
+
+515
+00:22:05,038 --> 00:22:09,000
+and because I was there at the beginning
+
+516
+00:22:07,319 --> 00:22:12,200
+and a few other people who had been
+
+517
+00:22:09,000 --> 00:22:15,980
+pretty good at math and science we had
+
+518
+00:22:12,200 --> 00:22:18,360
+we had good taste and that that's uh uh
+
+519
+00:22:15,980 --> 00:22:20,940
+stayed with the company
+
+520
+00:22:18,359 --> 00:22:23,219
+the second thing is we provide people
+
+521
+00:22:20,940 --> 00:22:25,860
+with a great infrastructure
+
+522
+00:22:23,220 --> 00:22:27,298
+and I've had people come to us from all
+
+523
+00:22:25,859 --> 00:22:30,359
+over when they come to work they said
+
+524
+00:22:27,298 --> 00:22:32,579
+they never saw it's more easy to get to
+
+525
+00:22:30,359 --> 00:22:34,740
+work here than anyplace else the data is
+
+526
+00:22:32,579 --> 00:22:36,319
+easily through we have someone in the we
+
+527
+00:22:34,740 --> 00:22:39,240
+have an alumnus here
+
+528
+00:22:36,319 --> 00:22:41,339
+that I saw earlier who could testify to
+
+529
+00:22:39,240 --> 00:22:44,700
+that I'm not going to ask him to do so
+
+530
+00:22:41,339 --> 00:22:46,379
+but he would so the infrastructure give
+
+531
+00:22:44,700 --> 00:22:50,159
+people a good infrastructure and I think
+
+532
+00:22:46,380 --> 00:22:52,919
+the most important thing that we do is
+
+533
+00:22:50,159 --> 00:22:54,960
+have an open atmosphere
+
+534
+00:22:52,919 --> 00:22:58,799
+so my belief is the best way to conduct
+
+535
+00:22:54,960 --> 00:23:00,960
+research on a broad scale is to make
+
+536
+00:22:58,798 --> 00:23:04,259
+sure as much as possible that everybody
+
+537
+00:23:00,960 --> 00:23:05,819
+knows what everybody else is doing at
+
+538
+00:23:04,259 --> 00:23:07,259
+least as quickly as possible sometimes
+
+539
+00:23:05,819 --> 00:23:08,700
+you got an idea you want to keep it to
+
+540
+00:23:07,259 --> 00:23:11,579
+yourself for a little while you don't
+
+541
+00:23:08,700 --> 00:23:13,860
+want to look like an idiot but the
+
+542
+00:23:11,579 --> 00:23:15,298
+sooner the better start talking to other
+
+543
+00:23:13,859 --> 00:23:16,619
+people about what you're doing because
+
+544
+00:23:15,298 --> 00:23:19,079
+that's what
+
+545
+00:23:16,619 --> 00:23:21,479
+what will will stimulate things the
+
+546
+00:23:19,079 --> 00:23:22,918
+fastest no compartmentization no we
+
+547
+00:23:21,480 --> 00:23:24,720
+don't have any little groups to say this
+
+548
+00:23:22,919 --> 00:23:27,659
+is our system and we developed it and
+
+549
+00:23:24,720 --> 00:23:29,640
+you you run it and we get paid based on
+
+550
+00:23:27,659 --> 00:23:32,700
+that and so on none of that everybody
+
+551
+00:23:29,640 --> 00:23:35,280
+meets once a week all the researchers
+
+552
+00:23:32,700 --> 00:23:39,058
+meet any new idea gets
+
+553
+00:23:35,279 --> 00:23:41,940
+uh brought up discussed vetted and
+
+554
+00:23:39,058 --> 00:23:45,240
+hopefully put into put into production
+
+555
+00:23:41,940 --> 00:23:47,159
+so it's an open atmosphere
+
+556
+00:23:45,240 --> 00:23:49,140
+and uh
+
+557
+00:23:47,159 --> 00:23:50,880
+and people get paid based on the overall
+
+558
+00:23:49,140 --> 00:23:53,159
+profits you don't get paid just on your
+
+559
+00:23:50,880 --> 00:23:54,539
+work you get paid based on the profits
+
+560
+00:23:53,159 --> 00:23:58,380
+of the firm so everyone has an interest
+
+561
+00:23:54,538 --> 00:24:01,259
+in really everyone else's success
+
+562
+00:23:58,380 --> 00:24:03,179
+okay so why don't we have enough
+
+563
+00:24:01,259 --> 00:24:04,919
+I don't want to dwell on this point but
+
+564
+00:24:03,179 --> 00:24:07,140
+why don't we have enough teachers of
+
+565
+00:24:04,919 --> 00:24:09,900
+math and science in the high schools who
+
+566
+00:24:07,140 --> 00:24:12,179
+know the subject and one answer is well
+
+567
+00:24:09,900 --> 00:24:14,100
+if they knew the subject well they'd
+
+568
+00:24:12,179 --> 00:24:16,620
+also know enough to work for Google or
+
+569
+00:24:14,099 --> 00:24:19,319
+Goldman Sachs or God knows where because
+
+570
+00:24:16,619 --> 00:24:22,019
+today the world is so much more
+
+571
+00:24:19,319 --> 00:24:24,599
+Quantified and the economy is so much
+
+572
+00:24:22,019 --> 00:24:29,279
+more based on quantitative methods than
+
+573
+00:24:24,599 --> 00:24:31,859
+it was 30 or 40 years ago so uh the
+
+574
+00:24:29,279 --> 00:24:34,798
+difference in the quality of the job the
+
+575
+00:24:31,859 --> 00:24:37,079
+pay and the respect is so great for
+
+576
+00:24:34,798 --> 00:24:38,158
+someone who's actually qualified to do a
+
+577
+00:24:37,079 --> 00:24:40,399
+good job of teaching High School
+
+578
+00:24:38,159 --> 00:24:45,299
+mathematics that they get pulled away
+
+579
+00:24:40,400 --> 00:24:47,519
+and uh don't often find themselves uh in
+
+580
+00:24:45,298 --> 00:24:49,558
+in the classroom anymore so you have to
+
+581
+00:24:47,519 --> 00:24:52,859
+make the job better that means pay these
+
+582
+00:24:49,558 --> 00:24:55,678
+folks more which we do in New York
+
+583
+00:24:52,859 --> 00:25:00,119
+through our program and a few other
+
+584
+00:24:55,679 --> 00:25:03,780
+cities and provide them more respect and
+
+585
+00:25:00,119 --> 00:25:07,259
+support which we do so uh you know if
+
+586
+00:25:03,779 --> 00:25:08,399
+you pay a guy 25 more and make them feel
+
+587
+00:25:07,259 --> 00:25:10,319
+or her
+
+588
+00:25:08,400 --> 00:25:12,900
+feel special
+
+589
+00:25:10,319 --> 00:25:14,759
+all of a sudden the career is a lot
+
+590
+00:25:12,900 --> 00:25:16,500
+better if you make the career better
+
+591
+00:25:14,759 --> 00:25:18,480
+people stay and will stay in their
+
+592
+00:25:16,500 --> 00:25:21,480
+career if it stays the way it is people
+
+593
+00:25:18,480 --> 00:25:23,599
+won't stay in the career and if we don't
+
+594
+00:25:21,480 --> 00:25:26,519
+do something
+
+595
+00:25:23,599 --> 00:25:29,278
+uh it isn't going to be a good situation
+
+596
+00:25:26,519 --> 00:25:31,079
+because one of as far as I can tell
+
+597
+00:25:29,278 --> 00:25:32,640
+and unlike most of the interviews with
+
+598
+00:25:31,079 --> 00:25:34,798
+you which I assume are largely about
+
+599
+00:25:32,640 --> 00:25:36,360
+your incredible success in in Quant and
+
+600
+00:25:34,798 --> 00:25:38,579
+as a Quant but
+
+601
+00:25:36,359 --> 00:25:40,619
+um is that one of your one of the
+
+602
+00:25:38,579 --> 00:25:43,319
+reasons you were so successful it seems
+
+603
+00:25:40,619 --> 00:25:45,599
+to me if I try and distill this is being
+
+604
+00:25:43,319 --> 00:25:48,658
+able to bring in really talented people
+
+605
+00:25:45,599 --> 00:25:50,099
+and let them run and with their talent
+
+606
+00:25:48,659 --> 00:25:53,159
+yes
+
+607
+00:25:50,099 --> 00:25:55,859
+and let them run uh
+
+608
+00:25:53,159 --> 00:25:59,159
+uh you have to have a good taste
+
+609
+00:25:55,859 --> 00:26:01,798
+in selecting people and uh but then you
+
+610
+00:25:59,159 --> 00:26:05,159
+don't sit on them you you you let them
+
+611
+00:26:01,798 --> 00:26:07,079
+do their thing and uh
+
+612
+00:26:05,159 --> 00:26:10,559
+that's uh
+
+613
+00:26:07,079 --> 00:26:12,599
+that's very satisfying and again when I
+
+614
+00:26:10,558 --> 00:26:13,619
+went into business
+
+615
+00:26:12,599 --> 00:26:17,459
+um
+
+616
+00:26:13,619 --> 00:26:19,979
+that was even more important yeah in a
+
+617
+00:26:17,460 --> 00:26:24,298
+certain sense and uh
+
+618
+00:26:19,980 --> 00:26:25,319
+I hired some terrific people there and
+
+619
+00:26:24,298 --> 00:26:28,139
+let them
+
+620
+00:26:25,319 --> 00:26:29,639
+as you say do your thing but do you
+
+621
+00:26:28,140 --> 00:26:31,140
+think your experiences chair helped
+
+622
+00:26:29,640 --> 00:26:32,880
+Prime you for that or not I mean the
+
+623
+00:26:31,140 --> 00:26:34,559
+sense of hiring faculty and saying okay
+
+624
+00:26:32,880 --> 00:26:36,900
+we think you're good now do good things
+
+625
+00:26:34,558 --> 00:26:39,658
+it's good
+
+626
+00:26:36,900 --> 00:26:42,298
+I mean I learned how to manage people
+
+627
+00:26:39,659 --> 00:26:44,039
+which is very difficult and something
+
+628
+00:26:42,298 --> 00:26:47,819
+you don't learn as an academic as a rule
+
+629
+00:26:44,038 --> 00:26:52,200
+right and uh so I left
+
+630
+00:26:47,819 --> 00:26:54,839
+Stony Brook I I think after eight years
+
+631
+00:26:52,200 --> 00:26:57,419
+and um and that's when I went into
+
+632
+00:26:54,839 --> 00:27:00,119
+business and uh
+
+633
+00:26:57,419 --> 00:27:01,980
+but I had learned to manage people
+
+634
+00:27:00,119 --> 00:27:04,379
+and uh
+
+635
+00:27:01,980 --> 00:27:08,400
+and I would I was
+
+636
+00:27:04,380 --> 00:27:09,900
+I was good at that I I uh well
+
+637
+00:27:08,400 --> 00:27:11,400
+recognizing talent and encouraging him
+
+638
+00:27:09,900 --> 00:27:13,019
+do the best thing is is great at
+
+639
+00:27:11,400 --> 00:27:14,159
+managing people if you can do if that's
+
+640
+00:27:13,019 --> 00:27:16,019
+what you can I mean sometimes
+
+641
+00:27:14,159 --> 00:27:17,400
+unfortunately there's the minutia of
+
+642
+00:27:16,019 --> 00:27:19,918
+other things that get in the way but
+
+643
+00:27:17,400 --> 00:27:22,140
+that's the heart of a good yeah that's
+
+644
+00:27:19,919 --> 00:27:24,778
+and and it's and it I it obviously
+
+645
+00:27:22,140 --> 00:27:26,400
+worked for you you and fortunately you
+
+646
+00:27:24,778 --> 00:27:29,278
+were you actually were able to build
+
+647
+00:27:26,400 --> 00:27:31,620
+look let me let me put this well let me
+
+648
+00:27:29,278 --> 00:27:34,500
+there's as far as I can tell again I've
+
+649
+00:27:31,619 --> 00:27:37,019
+tried to to think about your life having
+
+650
+00:27:34,500 --> 00:27:39,538
+been studying it lately
+
+651
+00:27:37,019 --> 00:27:42,240
+three factors probably are important but
+
+652
+00:27:39,538 --> 00:27:44,640
+one I I learned one was that you you you
+
+653
+00:27:42,240 --> 00:27:47,400
+had sold this company that had started
+
+654
+00:27:44,640 --> 00:27:49,679
+uh way back when in Colombia and so you
+
+655
+00:27:47,400 --> 00:27:51,419
+had a cushion you had a you weren't you
+
+656
+00:27:49,679 --> 00:27:53,460
+had a monetary cushion you weren't
+
+657
+00:27:51,419 --> 00:27:58,259
+quitting your job in some sense with
+
+658
+00:27:53,460 --> 00:28:01,880
+worrying about feeding my family I did
+
+659
+00:27:58,259 --> 00:28:01,879
+and in fact uh
+
+660
+00:28:02,339 --> 00:28:07,079
+it uh
+
+661
+00:28:04,619 --> 00:28:09,178
+that business was sold
+
+662
+00:28:07,079 --> 00:28:10,500
+and uh
+
+663
+00:28:09,179 --> 00:28:12,720
+for
+
+664
+00:28:10,500 --> 00:28:15,419
+quite a lot of money
+
+665
+00:28:12,720 --> 00:28:19,440
+and uh
+
+666
+00:28:15,419 --> 00:28:22,860
+my friends said from Columbia okay now
+
+667
+00:28:19,440 --> 00:28:25,320
+we have all this money uh we want you to
+
+668
+00:28:22,859 --> 00:28:27,178
+help invest it
+
+669
+00:28:25,319 --> 00:28:30,418
+I don't know anything about investing
+
+670
+00:28:27,179 --> 00:28:33,120
+but I said okay I'll do that
+
+671
+00:28:30,419 --> 00:28:36,080
+and I found a guy a mathematician who
+
+672
+00:28:33,119 --> 00:28:39,719
+had gone into the Commodities business
+
+673
+00:28:36,079 --> 00:28:42,839
+and uh I went and talked to him
+
+674
+00:28:39,720 --> 00:28:44,700
+to see what he was doing and
+
+675
+00:28:42,839 --> 00:28:46,439
+he seemed to really know what he was
+
+676
+00:28:44,700 --> 00:28:48,419
+doing so I said okay we're going to give
+
+677
+00:28:46,440 --> 00:28:51,778
+you X dollars
+
+678
+00:28:48,419 --> 00:28:55,500
+you can have 10 percent of the profits
+
+679
+00:28:51,778 --> 00:28:57,440
+and uh we want you to uh make some money
+
+680
+00:28:55,500 --> 00:29:00,240
+for us
+
+681
+00:28:57,440 --> 00:29:02,820
+if you lose too much you have to stop
+
+682
+00:29:00,240 --> 00:29:05,159
+and he said what's too much I said well
+
+683
+00:29:02,819 --> 00:29:07,439
+if you're down 30 percent you you have
+
+684
+00:29:05,159 --> 00:29:10,380
+to stop but as I was walking out the
+
+685
+00:29:07,440 --> 00:29:12,720
+door I said and if you make
+
+686
+00:29:10,380 --> 00:29:14,340
+a tremendous amount of money you have to
+
+687
+00:29:12,720 --> 00:29:18,200
+stop
+
+688
+00:29:14,339 --> 00:29:24,019
+how much is that I said if you multiply
+
+689
+00:29:18,200 --> 00:29:27,360
+our uh the fund uh by a factor of ten
+
+690
+00:29:24,019 --> 00:29:32,839
+after your fees then you have to stop
+
+691
+00:29:27,359 --> 00:29:36,119
+wow and well he couldn't argue with that
+
+692
+00:29:32,839 --> 00:29:38,459
+but the remarkable thing was that after
+
+693
+00:29:36,119 --> 00:29:40,918
+a few
+
+694
+00:29:38,460 --> 00:29:43,798
+steps that he that he took that didn't
+
+695
+00:29:40,919 --> 00:29:47,880
+work he get into something
+
+696
+00:29:43,798 --> 00:29:50,298
+and made a fortune in nine months nine
+
+697
+00:29:47,880 --> 00:29:53,520
+months later he had
+
+698
+00:29:50,298 --> 00:29:55,859
+multiplied our money by a fact of 10.
+
+699
+00:29:53,519 --> 00:29:58,740
+wow and uh
+
+700
+00:29:55,859 --> 00:30:00,778
+much of that was in a Bermuda trust that
+
+701
+00:29:58,740 --> 00:30:03,359
+had been set up
+
+702
+00:30:00,778 --> 00:30:05,700
+for me by uh
+
+703
+00:30:03,359 --> 00:30:08,879
+the father-in-law
+
+704
+00:30:05,700 --> 00:30:10,679
+of one of the two boys because he was
+
+705
+00:30:08,880 --> 00:30:12,539
+very appreciative that I'd gotten this
+
+706
+00:30:10,679 --> 00:30:15,240
+business going in the first place and he
+
+707
+00:30:12,538 --> 00:30:18,298
+owned he owned half the business and he
+
+708
+00:30:15,240 --> 00:30:21,298
+uh he took a hundred thousand dollars
+
+709
+00:30:18,298 --> 00:30:25,440
+and put it in a Bermuda Trust for my
+
+710
+00:30:21,298 --> 00:30:27,538
+family oh and so that hundred thousand
+
+711
+00:30:25,440 --> 00:30:31,100
+was invested with Charlie and that
+
+712
+00:30:27,538 --> 00:30:36,658
+became a million so now I'm
+
+713
+00:30:31,099 --> 00:30:39,959
+gone so uh uh so I don't know how we get
+
+714
+00:30:36,659 --> 00:30:41,640
+into that but uh no well the the fact
+
+715
+00:30:39,960 --> 00:30:44,399
+that um
+
+716
+00:30:41,640 --> 00:30:45,840
+um that that well yeah I we got into it
+
+717
+00:30:44,398 --> 00:30:48,119
+by saying I knew you'd you'd had a
+
+718
+00:30:45,839 --> 00:30:50,339
+little you'd had a cushion financially
+
+719
+00:30:48,119 --> 00:30:52,619
+which would which allowed which makes it
+
+720
+00:30:50,339 --> 00:30:55,259
+a little easier to switch to to quit
+
+721
+00:30:52,619 --> 00:30:57,538
+Academia I think obviously the but the
+
+722
+00:30:55,259 --> 00:30:59,940
+other thing was that you had
+
+723
+00:30:57,538 --> 00:31:01,980
+um so that was certainly a help there's
+
+724
+00:30:59,940 --> 00:31:03,840
+no doubt about it and and it might have
+
+725
+00:31:01,980 --> 00:31:06,778
+been a harder decision if you were if
+
+726
+00:31:03,839 --> 00:31:09,178
+you were going paycheck to paycheck
+
+727
+00:31:06,778 --> 00:31:11,640
+um but but but also you also had a
+
+728
+00:31:09,179 --> 00:31:13,860
+cushion of intellectual Excellence you
+
+729
+00:31:11,640 --> 00:31:15,600
+were able to build on the investment
+
+730
+00:31:13,859 --> 00:31:17,699
+you'd made in humanity as far as I can
+
+731
+00:31:15,599 --> 00:31:19,319
+see you brought in let's see someone you
+
+732
+00:31:17,700 --> 00:31:21,960
+knew a very important person from The
+
+733
+00:31:19,319 --> 00:31:24,058
+Institute of Defense analysis who'd been
+
+734
+00:31:21,960 --> 00:31:26,100
+had been involved in creating an
+
+735
+00:31:24,058 --> 00:31:28,859
+important very important algorithm which
+
+736
+00:31:26,099 --> 00:31:32,278
+led to speaker speech recognitions right
+
+737
+00:31:28,859 --> 00:31:35,639
+um Baum is his name or something or yeah
+
+738
+00:31:32,278 --> 00:31:38,640
+and then also acts your great hire from
+
+739
+00:31:35,640 --> 00:31:39,840
+from uh so you you were able to say oh
+
+740
+00:31:38,640 --> 00:31:41,820
+I've got these really good people I
+
+741
+00:31:39,839 --> 00:31:43,558
+already know they're really good and and
+
+742
+00:31:41,819 --> 00:31:47,398
+I can bring them in that must have been
+
+743
+00:31:43,558 --> 00:31:49,200
+important it wasn't it was important and
+
+744
+00:31:47,398 --> 00:31:51,898
+um
+
+745
+00:31:49,200 --> 00:31:53,240
+at a certain we were doing fundamental
+
+746
+00:31:51,898 --> 00:31:55,500
+trading
+
+747
+00:31:53,240 --> 00:31:58,679
+uh initially
+
+748
+00:31:55,500 --> 00:32:01,339
+and that worked out okay
+
+749
+00:31:58,679 --> 00:32:01,340
+wait a minute
+
+750
+00:32:01,500 --> 00:32:07,259
+I should go well I thought we had 10
+
+751
+00:32:03,960 --> 00:32:10,500
+minutes left uh 10 minutes or so is it
+
+752
+00:32:07,259 --> 00:32:14,519
+yeah 10 or 15 minutes yeah
+
+753
+00:32:10,500 --> 00:32:18,240
+yeah maybe maybe 15 minutes thank you
+
+754
+00:32:14,519 --> 00:32:20,158
+uh I don't know where I was oh yeah it
+
+755
+00:32:18,240 --> 00:32:25,440
+was fundamental trading but finally we
+
+756
+00:32:20,159 --> 00:32:29,340
+get into uh making models and uh
+
+757
+00:32:25,440 --> 00:32:31,860
+they worked better and uh it was ever
+
+758
+00:32:29,339 --> 00:32:33,359
+since it was it was model making
+
+759
+00:32:31,859 --> 00:32:35,759
+and uh
+
+760
+00:32:33,359 --> 00:32:38,459
+and your experience in algorithms well
+
+761
+00:32:35,759 --> 00:32:40,679
+obviously algorithms became very
+
+762
+00:32:38,460 --> 00:32:42,840
+important as did
+
+763
+00:32:40,679 --> 00:32:44,700
+um machine learning I mean which which
+
+764
+00:32:42,839 --> 00:32:46,199
+were you directly exposed to machine
+
+765
+00:32:44,700 --> 00:32:48,840
+learning or is that something that we're
+
+766
+00:32:46,200 --> 00:32:51,419
+brought in by your colleagues machine
+
+767
+00:32:48,839 --> 00:32:54,418
+learning didn't exist in those days as a
+
+768
+00:32:51,419 --> 00:32:58,020
+notion I think machine learning has only
+
+769
+00:32:54,419 --> 00:32:59,700
+been around for about 10 years or uh 15
+
+770
+00:32:58,019 --> 00:33:00,480
+years
+
+771
+00:32:59,700 --> 00:33:02,759
+um
+
+772
+00:33:00,480 --> 00:33:06,659
+no we didn't uh we didn't do machine
+
+773
+00:33:02,759 --> 00:33:08,819
+learning but the uh the idea of of in
+
+774
+00:33:06,659 --> 00:33:11,820
+some sense
+
+775
+00:33:08,819 --> 00:33:13,619
+in in some sense looking at having a
+
+776
+00:33:11,819 --> 00:33:15,178
+vast Storehouse of data
+
+777
+00:33:13,619 --> 00:33:18,000
+that you could analyze and look for
+
+778
+00:33:15,179 --> 00:33:20,159
+patterns yes uh what became a central
+
+779
+00:33:18,000 --> 00:33:22,798
+feature obviously of what of what that's
+
+780
+00:33:20,159 --> 00:33:25,500
+what we did we had
+
+781
+00:33:22,798 --> 00:33:30,839
+a tremendous amount of data historical
+
+782
+00:33:25,500 --> 00:33:33,720
+data tick data even the tech we had a
+
+783
+00:33:30,839 --> 00:33:38,158
+ton of that and the way it worked is as
+
+784
+00:33:33,720 --> 00:33:40,500
+a guy would think oh well maybe uh
+
+785
+00:33:38,159 --> 00:33:43,260
+this would be a predictive signal and
+
+786
+00:33:40,500 --> 00:33:44,700
+he'd hook up something and then we could
+
+787
+00:33:43,259 --> 00:33:48,240
+test it
+
+788
+00:33:44,700 --> 00:33:50,640
+back tested for the previous 10 years to
+
+789
+00:33:48,240 --> 00:33:53,000
+see this does this really work and and
+
+790
+00:33:50,640 --> 00:33:53,000
+uh
+
+791
+00:33:53,119 --> 00:33:59,099
+if it was a statistically significant it
+
+792
+00:33:57,179 --> 00:34:01,679
+would go into the uh it would go into
+
+793
+00:33:59,099 --> 00:34:03,538
+the business so uh
+
+794
+00:34:01,679 --> 00:34:05,700
+that's the way
+
+795
+00:34:03,538 --> 00:34:07,740
+that's the way it will work and it's
+
+796
+00:34:05,700 --> 00:34:10,320
+probably still works that way yeah it
+
+797
+00:34:07,740 --> 00:34:12,960
+still works that way it's called black
+
+798
+00:34:10,320 --> 00:34:15,300
+box right but but and I'm intrigued by
+
+799
+00:34:12,960 --> 00:34:17,820
+that because in some sense
+
+800
+00:34:15,300 --> 00:34:19,440
+I've I've done a lot of discussions with
+
+801
+00:34:17,820 --> 00:34:21,780
+people in the past and and written about
+
+802
+00:34:19,440 --> 00:34:24,119
+AI but
+
+803
+00:34:21,780 --> 00:34:26,460
+um the idea that that that basically
+
+804
+00:34:24,119 --> 00:34:29,220
+patterns can be discerned that you might
+
+805
+00:34:26,460 --> 00:34:32,039
+not discern yourself but by by looking
+
+806
+00:34:29,219 --> 00:34:33,598
+at data enough uh and that's how Tesla
+
+807
+00:34:32,039 --> 00:34:34,918
+can look and find you know in principle
+
+808
+00:34:33,599 --> 00:34:37,679
+hopefully that someone's not a
+
+809
+00:34:34,918 --> 00:34:41,039
+pedestrian but a but a stoplight
+
+810
+00:34:37,679 --> 00:34:43,019
+um is is you is it a black box can come
+
+811
+00:34:41,039 --> 00:34:45,300
+up as saying this is what you should do
+
+812
+00:34:43,019 --> 00:34:47,820
+but it never tells you why you should do
+
+813
+00:34:45,300 --> 00:34:49,260
+it absolutely and and and it's
+
+814
+00:34:47,820 --> 00:34:51,899
+frustrating for people and I understand
+
+815
+00:34:49,260 --> 00:34:53,460
+early on you it was a natural tendency
+
+816
+00:34:51,898 --> 00:34:55,618
+for you guys not to believe it to say
+
+817
+00:34:53,460 --> 00:34:58,019
+look we have an intuition why should we
+
+818
+00:34:55,619 --> 00:34:59,760
+trust this machine telling us to do X
+
+819
+00:34:58,019 --> 00:35:01,440
+when there's no rational reason that we
+
+820
+00:34:59,760 --> 00:35:04,260
+can think of doing it I didn't worry
+
+821
+00:35:01,440 --> 00:35:07,940
+about that I didn't if it if it worked
+
+822
+00:35:04,260 --> 00:35:10,560
+it worked and uh but we had very strong
+
+823
+00:35:07,940 --> 00:35:12,800
+uh uh
+
+824
+00:35:10,559 --> 00:35:14,659
+oh
+
+825
+00:35:12,800 --> 00:35:18,240
+conditions
+
+826
+00:35:14,659 --> 00:35:20,039
+there's requirements yeah that can the
+
+827
+00:35:18,239 --> 00:35:23,598
+uh
+
+828
+00:35:20,039 --> 00:35:23,599
+the uh
+
+829
+00:35:26,000 --> 00:35:31,639
+the signal versus the the the rest of
+
+830
+00:35:29,639 --> 00:35:34,199
+the noise I guess
+
+831
+00:35:31,639 --> 00:35:36,539
+you know predictive signals and they
+
+832
+00:35:34,199 --> 00:35:38,819
+have to have enough statistical
+
+833
+00:35:36,539 --> 00:35:39,719
+significance
+
+834
+00:35:38,820 --> 00:35:42,599
+um
+
+835
+00:35:39,719 --> 00:35:44,819
+to uh put them into the system and
+
+836
+00:35:42,599 --> 00:35:46,940
+they're tested all the time
+
+837
+00:35:44,820 --> 00:35:49,980
+sometimes a signal
+
+838
+00:35:46,940 --> 00:35:52,200
+disappears after a while so you take it
+
+839
+00:35:49,980 --> 00:35:56,159
+out of the system what's happened is
+
+840
+00:35:52,199 --> 00:35:58,739
+that as the markets have become uh
+
+841
+00:35:56,159 --> 00:36:00,838
+electronic and computers have been
+
+842
+00:35:58,739 --> 00:36:03,299
+applied to generating prices and
+
+843
+00:36:00,838 --> 00:36:05,279
+accepting trades and all the rest the
+
+844
+00:36:03,300 --> 00:36:06,359
+markets have grown tremendously more
+
+845
+00:36:05,280 --> 00:36:08,280
+liquid
+
+846
+00:36:06,358 --> 00:36:10,078
+spreads have come down the bid ask
+
+847
+00:36:08,280 --> 00:36:12,480
+spreads have come down
+
+848
+00:36:10,079 --> 00:36:15,420
+the fellows who used to be you know the
+
+849
+00:36:12,480 --> 00:36:17,460
+Specialists on the floor Specialists of
+
+850
+00:36:15,420 --> 00:36:19,559
+all they were supposed to be the market
+
+851
+00:36:17,460 --> 00:36:20,760
+makers you know whatever it was full of
+
+852
+00:36:19,559 --> 00:36:23,039
+baloney they would create very
+
+853
+00:36:20,760 --> 00:36:25,079
+widespreads and at the first sign of
+
+854
+00:36:23,039 --> 00:36:26,639
+trouble they would they would disappear
+
+855
+00:36:25,079 --> 00:36:28,140
+uh
+
+856
+00:36:26,639 --> 00:36:30,000
+uh with
+
+857
+00:36:28,139 --> 00:36:33,239
+the Electronic Training has come the
+
+858
+00:36:30,000 --> 00:36:35,219
+ability to trade fast and that has
+
+859
+00:36:33,239 --> 00:36:37,139
+brought spreads down and in his broad
+
+860
+00:36:35,219 --> 00:36:39,719
+Market impact down so there's two things
+
+861
+00:36:37,139 --> 00:36:42,239
+that happens when you
+
+862
+00:36:39,719 --> 00:36:45,959
+buy a stock one thing
+
+863
+00:36:42,239 --> 00:36:48,118
+you pay a little typically you will pay
+
+864
+00:36:45,960 --> 00:36:49,679
+a little bit above the mid price just as
+
+865
+00:36:48,119 --> 00:36:51,358
+if you sell it you'll sell it for a
+
+866
+00:36:49,679 --> 00:36:53,000
+little bit below the mid price but the
+
+867
+00:36:51,358 --> 00:36:55,619
+other thing that happens is
+
+868
+00:36:53,000 --> 00:36:56,699
+infinitesimally perhaps you move the
+
+869
+00:36:55,619 --> 00:36:58,440
+market
+
+870
+00:36:56,699 --> 00:36:59,578
+well if you buy a hundred shares you're
+
+871
+00:36:58,440 --> 00:37:00,960
+probably not going to move the market
+
+872
+00:36:59,579 --> 00:37:02,460
+whether you buy a hundred thousand
+
+873
+00:37:00,960 --> 00:37:03,780
+shares you probably are going to move in
+
+874
+00:37:02,460 --> 00:37:07,019
+the market well how much you're going to
+
+875
+00:37:03,780 --> 00:37:08,220
+move it well if you're the only buyer
+
+876
+00:37:07,019 --> 00:37:10,380
+out there you're going to move it a heck
+
+877
+00:37:08,219 --> 00:37:12,779
+of a lot but if there's a lot of buyers
+
+878
+00:37:10,380 --> 00:37:14,640
+and and if you're the only if you're on
+
+879
+00:37:12,780 --> 00:37:17,160
+these sellers but if there's a lot of
+
+880
+00:37:14,639 --> 00:37:19,980
+people active in that market a hundred
+
+881
+00:37:17,159 --> 00:37:21,838
+thousand shares might go very easily so
+
+882
+00:37:19,980 --> 00:37:24,119
+the more volume
+
+883
+00:37:21,838 --> 00:37:26,159
+the better and it's volume that's been
+
+884
+00:37:24,119 --> 00:37:30,480
+created by these high frequency Traders
+
+885
+00:37:26,159 --> 00:37:32,519
+so I think the the research shows that
+
+886
+00:37:30,480 --> 00:37:35,579
+the costs of training
+
+887
+00:37:32,519 --> 00:37:38,280
+spreads and Market impact of them down
+
+888
+00:37:35,579 --> 00:37:42,420
+come down a great deal and it's all due
+
+889
+00:37:38,280 --> 00:37:44,460
+to high frequency Traders so uh is it
+
+890
+00:37:42,420 --> 00:37:46,139
+socially useful well if you think liquid
+
+891
+00:37:44,460 --> 00:37:48,539
+you know highly liquid markets are
+
+892
+00:37:46,139 --> 00:37:50,480
+socially useful then and I think so will
+
+893
+00:37:48,539 --> 00:37:53,880
+there ever be glitches and that could be
+
+894
+00:37:50,480 --> 00:37:56,039
+there was uh there was a glitch
+
+895
+00:37:53,880 --> 00:37:58,920
+I think they called it the flash crash
+
+896
+00:37:56,039 --> 00:38:00,900
+of a few months ago and for eight
+
+897
+00:37:58,920 --> 00:38:03,960
+minutes or so the market some Market
+
+898
+00:38:00,900 --> 00:38:05,700
+took a dive and they came right back
+
+899
+00:38:03,960 --> 00:38:08,338
+I mean it came right back no but I mean
+
+900
+00:38:05,699 --> 00:38:10,139
+it's an important point in 1987 when the
+
+901
+00:38:08,338 --> 00:38:11,880
+stock market crashed it went down 25
+
+902
+00:38:10,139 --> 00:38:14,159
+percent in half a day and it didn't
+
+903
+00:38:11,880 --> 00:38:16,079
+recover for six months because there was
+
+904
+00:38:14,159 --> 00:38:16,819
+nobody there on the other side they were
+
+905
+00:38:16,079 --> 00:38:19,260
+wrong
+
+906
+00:38:16,820 --> 00:38:20,940
+this thing recovered this flash class
+
+907
+00:38:19,260 --> 00:38:23,220
+recovery because someone had made a
+
+908
+00:38:20,940 --> 00:38:26,400
+mistake I presume some kind of order
+
+909
+00:38:23,219 --> 00:38:27,959
+went in that was much too big uh there
+
+910
+00:38:26,400 --> 00:38:30,119
+was nervousness in the market it was
+
+911
+00:38:27,960 --> 00:38:32,280
+already down three percent and it took a
+
+912
+00:38:30,119 --> 00:38:34,260
+dive and everyone stood back and said oh
+
+913
+00:38:32,280 --> 00:38:37,820
+my God what's going on well but then the
+
+914
+00:38:34,260 --> 00:38:40,320
+algorithms kicked in and you know uh
+
+915
+00:38:37,820 --> 00:38:42,240
+all this training just came back and and
+
+916
+00:38:40,320 --> 00:38:44,099
+this thing disappeared in 10 minutes so
+
+917
+00:38:42,239 --> 00:38:46,500
+it it
+
+918
+00:38:44,099 --> 00:38:47,300
+was a little destabilizing but it was a
+
+919
+00:38:46,500 --> 00:38:50,699
+whole lot
+
+920
+00:38:47,300 --> 00:38:52,440
+different from the crash of 1987 so
+
+921
+00:38:50,699 --> 00:38:55,319
+that's a long answer to a short question
+
+922
+00:38:52,440 --> 00:38:57,358
+yes I think high-speed trading is
+
+923
+00:38:55,320 --> 00:39:00,838
+socially useful and I think that the
+
+924
+00:38:57,358 --> 00:39:03,199
+people who argue against it are
+
+925
+00:39:00,838 --> 00:39:03,199
+wrong
+
+926
+00:39:04,380 --> 00:39:08,579
+not only the United States but in the
+
+927
+00:39:06,300 --> 00:39:10,500
+world looks kind of unbalanced unsettled
+
+928
+00:39:08,579 --> 00:39:13,619
+those big debts being built up by by
+
+929
+00:39:10,500 --> 00:39:15,900
+countries and we we have obviously a
+
+930
+00:39:13,619 --> 00:39:18,539
+recession in the United States and we're
+
+931
+00:39:15,900 --> 00:39:20,338
+we're busy bailing out Banks and you
+
+932
+00:39:18,539 --> 00:39:21,779
+know where's it all going where's you
+
+933
+00:39:20,338 --> 00:39:24,358
+know where's it all going
+
+934
+00:39:21,780 --> 00:39:25,440
+to hell in a handbasket or what and what
+
+935
+00:39:24,358 --> 00:39:27,119
+should we be
+
+936
+00:39:25,440 --> 00:39:28,380
+what should we be looking at well I
+
+937
+00:39:27,119 --> 00:39:31,019
+think all the things you mentioned are
+
+938
+00:39:28,380 --> 00:39:33,480
+worth looking at the national debt
+
+939
+00:39:31,019 --> 00:39:35,820
+has a fraction of GNP was considerably
+
+940
+00:39:33,480 --> 00:39:37,800
+higher even
+
+941
+00:39:35,820 --> 00:39:40,800
+than it is today right after the second
+
+942
+00:39:37,800 --> 00:39:44,280
+World War uh and we never paid off that
+
+943
+00:39:40,800 --> 00:39:45,900
+debt what we did was grow the GDP so the
+
+944
+00:39:44,280 --> 00:39:48,540
+denominator got bigger and bigger and
+
+945
+00:39:45,900 --> 00:39:51,420
+after a while we were back in the box so
+
+946
+00:39:48,539 --> 00:39:53,880
+uh there's nothing better
+
+947
+00:39:51,420 --> 00:39:56,220
+under most circumstances in my opinion
+
+948
+00:39:53,880 --> 00:39:57,720
+and some good growth and I don't think
+
+949
+00:39:56,219 --> 00:40:00,059
+we're taking steps to the United States
+
+950
+00:39:57,719 --> 00:40:03,419
+to promote that good growth because I
+
+951
+00:40:00,059 --> 00:40:05,159
+think we should be maybe even printing
+
+952
+00:40:03,420 --> 00:40:07,320
+more money and building infrastructure
+
+953
+00:40:05,159 --> 00:40:08,219
+and doing some things that the country
+
+954
+00:40:07,320 --> 00:40:10,740
+has
+
+955
+00:40:08,219 --> 00:40:12,838
+is lagging in getting which would get
+
+956
+00:40:10,739 --> 00:40:14,639
+some more people back to work and would
+
+957
+00:40:12,838 --> 00:40:17,099
+put us in a better position to compete
+
+958
+00:40:14,639 --> 00:40:19,799
+even if we do have some inflation it's
+
+959
+00:40:17,099 --> 00:40:20,820
+not the worst thing in the world uh as
+
+960
+00:40:19,800 --> 00:40:23,420
+inflation
+
+961
+00:40:20,820 --> 00:40:27,440
+but uh
+
+962
+00:40:23,420 --> 00:40:27,440
+so I don't think there's any
+
+963
+00:40:27,539 --> 00:40:31,500
+you know what happened in this collapse
+
+964
+00:40:29,460 --> 00:40:34,380
+is
+
+965
+00:40:31,500 --> 00:40:36,239
+the United States got a lot poorer and
+
+966
+00:40:34,380 --> 00:40:38,099
+it got a lot poorer because the value of
+
+967
+00:40:36,239 --> 00:40:41,039
+everybody's house went down
+
+968
+00:40:38,099 --> 00:40:43,800
+and people's most of people's net net
+
+969
+00:40:41,039 --> 00:40:45,179
+worth was Associated to their home and
+
+970
+00:40:43,800 --> 00:40:47,820
+they had been borrowing against the
+
+971
+00:40:45,179 --> 00:40:50,940
+rising prices in their home you know uh
+
+972
+00:40:47,820 --> 00:40:52,019
+home equity loans that had fueled a lot
+
+973
+00:40:50,940 --> 00:40:55,139
+of growth
+
+974
+00:40:52,019 --> 00:40:58,619
+and that that came to a to an end so we
+
+975
+00:40:55,139 --> 00:41:00,559
+had two bad things happen people's
+
+976
+00:40:58,619 --> 00:41:04,680
+balance sheets were decimated
+
+977
+00:41:00,559 --> 00:41:07,380
+uh and uh they had a uh not only
+
+978
+00:41:04,679 --> 00:41:10,199
+couldn't they borrow anymore but they
+
+979
+00:41:07,380 --> 00:41:11,519
+had to be paying back paying back debt
+
+980
+00:41:10,199 --> 00:41:15,000
+and
+
+981
+00:41:11,519 --> 00:41:17,400
+a balance sheet disaster
+
+982
+00:41:15,000 --> 00:41:20,460
+is not something it's just it's going to
+
+983
+00:41:17,400 --> 00:41:22,440
+get fixed very fast we we're it's going
+
+984
+00:41:20,460 --> 00:41:25,320
+to take a number of years
+
+985
+00:41:22,440 --> 00:41:28,440
+I think to rebuild
+
+986
+00:41:25,320 --> 00:41:31,019
+um to rebuild from from this base
+
+987
+00:41:28,440 --> 00:41:32,760
+and is the government doing the right
+
+988
+00:41:31,019 --> 00:41:34,858
+thing or the wrong thing I mean I'm not
+
+989
+00:41:32,760 --> 00:41:37,440
+a I'm not a big fan of this government
+
+990
+00:41:34,858 --> 00:41:40,500
+I'm not a big fan of the
+
+991
+00:41:37,440 --> 00:41:41,700
+of a tax bill that just passed except
+
+992
+00:41:40,500 --> 00:41:46,858
+that
+
+993
+00:41:41,699 --> 00:41:48,618
+uh it was well I have a there's a
+
+994
+00:41:46,858 --> 00:41:53,420
+Clapper up there no I
+
+995
+00:41:48,619 --> 00:41:53,420
+there's one Clapper uh
+
+996
+00:41:53,539 --> 00:41:59,338
+I mean it does it it made obviously it
+
+997
+00:41:56,338 --> 00:42:01,619
+made no sense to continue the tax cut
+
+998
+00:41:59,338 --> 00:42:02,960
+for Rich guys like me that made no sense
+
+999
+00:42:01,619 --> 00:42:06,180
+whatsoever
+
+1000
+00:42:02,960 --> 00:42:07,679
+uh and and uh and for some of you out
+
+1001
+00:42:06,179 --> 00:42:10,019
+here probably it didn't make much sense
+
+1002
+00:42:07,679 --> 00:42:12,239
+but if that was the price to pay as it
+
+1003
+00:42:10,019 --> 00:42:15,179
+apparently was because we have a rather
+
+1004
+00:42:12,239 --> 00:42:17,039
+timid uh president that was the price to
+
+1005
+00:42:15,179 --> 00:42:19,019
+pay for extending the unemployment and
+
+1006
+00:42:17,039 --> 00:42:21,239
+making some other you know and and
+
+1007
+00:42:19,019 --> 00:42:23,940
+keeping the tax cuts for for Less
+
+1008
+00:42:21,239 --> 00:42:27,059
+affluent people uh and one thing or
+
+1009
+00:42:23,940 --> 00:42:28,920
+another it was it wasn't the worst thing
+
+1010
+00:42:27,059 --> 00:42:30,480
+in the world so it looks like maybe
+
+1011
+00:42:28,920 --> 00:42:32,760
+it'll it'll produce a little extra
+
+1012
+00:42:30,480 --> 00:42:35,280
+growth but that's what we need we do
+
+1013
+00:42:32,760 --> 00:42:37,200
+need growth and my own view is I'd
+
+1014
+00:42:35,280 --> 00:42:40,140
+rather have it at the risk of inflation
+
+1015
+00:42:37,199 --> 00:42:42,659
+than have no growth and and say we you
+
+1016
+00:42:40,139 --> 00:42:44,699
+know we we've held the dog value of a
+
+1017
+00:42:42,659 --> 00:42:46,618
+dollar who gives it who cares if
+
+1018
+00:42:44,699 --> 00:42:49,199
+everyone's out of work you know you've
+
+1019
+00:42:46,619 --> 00:42:51,300
+got twenty percent unemployment at a
+
+1020
+00:42:49,199 --> 00:42:52,980
+wonderful dollar is not gonna he said
+
+1021
+00:42:51,300 --> 00:42:59,359
+helpful okay
+
+1022
+00:42:52,980 --> 00:42:59,358
+the natural meltdown was based on
+
+1023
+00:42:59,539 --> 00:43:04,139
+mortgages being created that were no
+
+1024
+00:43:02,099 --> 00:43:07,318
+damn good
+
+1025
+00:43:04,139 --> 00:43:09,000
+and they were created because there was
+
+1026
+00:43:07,318 --> 00:43:11,219
+a market for them
+
+1027
+00:43:09,000 --> 00:43:13,079
+so these subprime mortgages you lend
+
+1028
+00:43:11,219 --> 00:43:14,338
+money to people that you would never if
+
+1029
+00:43:13,079 --> 00:43:16,980
+you were the lender you would never
+
+1030
+00:43:14,338 --> 00:43:19,858
+dream of lending money under these
+
+1031
+00:43:16,980 --> 00:43:22,500
+circumstances on the other hand if your
+
+1032
+00:43:19,858 --> 00:43:24,659
+uncle said don't worry uh you lend it
+
+1033
+00:43:22,500 --> 00:43:26,699
+and I'll buy the paper you might say
+
+1034
+00:43:24,659 --> 00:43:28,559
+well okay Uncle if you say you you'll
+
+1035
+00:43:26,699 --> 00:43:30,480
+buy the paper I'll lend the money you
+
+1036
+00:43:28,559 --> 00:43:31,799
+lend the money buy the paper sell the
+
+1037
+00:43:30,480 --> 00:43:35,159
+paper to the uncle
+
+1038
+00:43:31,800 --> 00:43:36,680
+uh this paper got securitized and at the
+
+1039
+00:43:35,159 --> 00:43:40,500
+end of the day
+
+1040
+00:43:36,679 --> 00:43:42,838
+stamped AAA now who the hell did that
+
+1041
+00:43:40,500 --> 00:43:45,480
+the rating agencies stamped this paper
+
+1042
+00:43:42,838 --> 00:43:48,900
+AAA and they stamped the AAA
+
+1043
+00:43:45,480 --> 00:43:52,079
+either because they were idiots which I
+
+1044
+00:43:48,900 --> 00:43:54,139
+think is largely the case uh
+
+1045
+00:43:52,079 --> 00:43:56,420
+but also because
+
+1046
+00:43:54,139 --> 00:43:59,759
+they were
+
+1047
+00:43:56,420 --> 00:44:01,619
+their fees were paid by the issuers of
+
+1048
+00:43:59,760 --> 00:44:03,000
+this rotten paper who wouldn't have
+
+1049
+00:44:01,619 --> 00:44:05,160
+issued it in the first place if they
+
+1050
+00:44:03,000 --> 00:44:08,159
+didn't expect to get AAA and then this
+
+1051
+00:44:05,159 --> 00:44:09,719
+whole chain this whole chain I mean you
+
+1052
+00:44:08,159 --> 00:44:12,598
+know in the old days you would go to the
+
+1053
+00:44:09,719 --> 00:44:15,000
+really old days you go to the bank you
+
+1054
+00:44:12,599 --> 00:44:17,220
+want to buy a house the bank actually
+
+1055
+00:44:15,000 --> 00:44:19,260
+was the one who lent you this money
+
+1056
+00:44:17,219 --> 00:44:20,699
+the bank was going to hold the mortgage
+
+1057
+00:44:19,260 --> 00:44:24,599
+the bank was going to service the
+
+1058
+00:44:20,699 --> 00:44:27,659
+mortgage and the bank wanted you to pay
+
+1059
+00:44:24,599 --> 00:44:30,180
+so the banks were you know but
+
+1060
+00:44:27,659 --> 00:44:32,519
+now a bank loans you the money for a
+
+1061
+00:44:30,179 --> 00:44:36,659
+micro second and they they sell it to
+
+1062
+00:44:32,519 --> 00:44:39,119
+the next guy so if the
+
+1063
+00:44:36,659 --> 00:44:42,259
+so it it had very little to do with
+
+1064
+00:44:39,119 --> 00:44:47,338
+Quant models it's true that quants were
+
+1065
+00:44:42,260 --> 00:44:50,099
+designing these uh these uh packages of
+
+1066
+00:44:47,338 --> 00:44:52,440
+mortgages but the the underlying
+
+1067
+00:44:50,099 --> 00:44:54,240
+statistics what's the probability
+
+1068
+00:44:52,440 --> 00:44:55,679
+that this mortgage is going to get paid
+
+1069
+00:44:54,239 --> 00:44:58,379
+what's the probability that a guy who's
+
+1070
+00:44:55,679 --> 00:44:59,719
+had seven jobs in eight years in four
+
+1071
+00:44:58,380 --> 00:45:03,358
+different cities
+
+1072
+00:44:59,719 --> 00:45:06,000
+uh and who was simply stated that he
+
+1073
+00:45:03,358 --> 00:45:07,920
+earns uh you know whatever what's the
+
+1074
+00:45:06,000 --> 00:45:09,619
+probability that he's really gonna pay
+
+1075
+00:45:07,920 --> 00:45:12,119
+off his mortgage
+
+1076
+00:45:09,619 --> 00:45:13,800
+anyone with common sense he common sense
+
+1077
+00:45:12,119 --> 00:45:17,519
+it up that would think it's pretty darn
+
+1078
+00:45:13,800 --> 00:45:20,160
+close to zero but uh but that fact was
+
+1079
+00:45:17,519 --> 00:45:22,920
+not taken into account in the underlying
+
+1080
+00:45:20,159 --> 00:45:25,199
+statistics so that's enough that's a
+
+1081
+00:45:22,920 --> 00:45:29,519
+long answer
+
+1082
+00:45:25,199 --> 00:45:31,679
+I will do one more I think lucky me when
+
+1083
+00:45:29,519 --> 00:45:34,559
+when creating models to trade the
+
+1084
+00:45:31,679 --> 00:45:36,358
+markets would you recommend focusing on
+
+1085
+00:45:34,559 --> 00:45:40,380
+creating models around fundamental
+
+1086
+00:45:36,358 --> 00:45:43,259
+economic data or on price Behavior such
+
+1087
+00:45:40,380 --> 00:45:46,700
+as the S P 500 or oil gold or
+
+1088
+00:45:43,260 --> 00:45:50,400
+combination of both thank you
+
+1089
+00:45:46,699 --> 00:45:52,739
+I mentioned Warren Ambrose in my
+
+1090
+00:45:50,400 --> 00:45:55,440
+beginning of my talk this mathematician
+
+1091
+00:45:52,739 --> 00:45:57,979
+who inspired me I'm actually going to
+
+1092
+00:45:55,440 --> 00:45:57,980
+answer your question
+
+1093
+00:45:58,519 --> 00:46:03,539
+and I went to him one day early in my
+
+1094
+00:46:01,199 --> 00:46:06,539
+career and I said Professor Ambrose I
+
+1095
+00:46:03,539 --> 00:46:09,779
+mean really early is it best to learn a
+
+1096
+00:46:06,539 --> 00:46:11,460
+lot about one area of mathematics or
+
+1097
+00:46:09,780 --> 00:46:13,019
+learn a little bit about a lot of areas
+
+1098
+00:46:11,460 --> 00:46:15,358
+in mathematics and he looked at me and
+
+1099
+00:46:13,019 --> 00:46:18,119
+he said one can make the cliche either
+
+1100
+00:46:15,358 --> 00:46:21,119
+way and that was the end of a discussion
+
+1101
+00:46:18,119 --> 00:46:21,119
+so
+
+1102
+00:46:21,179 --> 00:46:25,199
+there isn't any right answer to the
+
+1103
+00:46:23,338 --> 00:46:27,960
+question you asked all those things are
+
+1104
+00:46:25,199 --> 00:46:31,439
+good it's good to use economic models
+
+1105
+00:46:27,960 --> 00:46:33,420
+it's good to use uh you know uh price
+
+1106
+00:46:31,440 --> 00:46:36,059
+price histories it's good to it's good
+
+1107
+00:46:33,420 --> 00:46:38,099
+to use make models using all these
+
+1108
+00:46:36,059 --> 00:46:40,019
+things and there isn't any there isn't
+
+1109
+00:46:38,099 --> 00:46:41,960
+any right or wrong to that answer
+
+1110
+00:46:40,019 --> 00:46:45,780
+so
+
+1111
+00:46:41,960 --> 00:46:48,500
+I think I uh I'm imaginative
+
+1112
+00:46:45,780 --> 00:46:51,740
+I think I have a lot of imagination
+
+1113
+00:46:48,500 --> 00:46:51,739
+and uh
+
+1114
+00:46:51,900 --> 00:46:55,980
+my share of good ideas
+
+1115
+00:46:54,960 --> 00:46:59,659
+to
+
+1116
+00:46:55,980 --> 00:47:02,818
+bad one sometimes of course
+
+1117
+00:46:59,659 --> 00:47:05,098
+in fact when you're doing science uh
+
+1118
+00:47:02,818 --> 00:47:07,559
+you'll probably have five bad ideas for
+
+1119
+00:47:05,099 --> 00:47:10,920
+every good one but uh
+
+1120
+00:47:07,559 --> 00:47:14,039
+my friend Lenny Baum said uh
+
+1121
+00:47:10,920 --> 00:47:17,519
+he said bad ideas is good
+
+1122
+00:47:14,039 --> 00:47:19,940
+hmm good ideas is better
+
+1123
+00:47:17,519 --> 00:47:22,858
+no ideas is terrible
+
+1124
+00:47:19,940 --> 00:47:24,240
+and uh when you're doing signs you have
+
+1125
+00:47:22,858 --> 00:47:28,679
+a lot of bad ideas
+
+1126
+00:47:24,239 --> 00:47:31,259
+but uh you know uh but you got some good
+
+1127
+00:47:28,679 --> 00:47:33,598
+ones if you're a good scientist and now
+
+1128
+00:47:31,260 --> 00:47:37,500
+those carried today
+
+1129
+00:47:33,599 --> 00:47:41,280
+my idea of leadership of an organization
+
+1130
+00:47:37,500 --> 00:47:42,719
+is to hire the very best people you
+
+1131
+00:47:41,280 --> 00:47:45,440
+possibly can
+
+1132
+00:47:42,719 --> 00:47:49,639
+and I have a good taste in people
+
+1133
+00:47:45,440 --> 00:47:53,700
+and then let them carry the ball
+
+1134
+00:47:49,639 --> 00:47:55,679
+and when I became chair of the Stony
+
+1135
+00:47:53,699 --> 00:47:58,439
+Brook math department
+
+1136
+00:47:55,679 --> 00:48:00,539
+I reached out for the best person I
+
+1137
+00:47:58,440 --> 00:48:01,639
+could possibly find and he was your
+
+1138
+00:48:00,539 --> 00:48:05,519
+father
+
+1139
+00:48:01,639 --> 00:48:09,420
+and uh I knew if your dad would come on
+
+1140
+00:48:05,519 --> 00:48:12,440
+board it would open up the floodgates
+
+1141
+00:48:09,420 --> 00:48:15,240
+uh people saying oh well this department
+
+1142
+00:48:12,440 --> 00:48:19,139
+can really go somewhere
+
+1143
+00:48:15,239 --> 00:48:20,219
+so I spent a lot of time courting your
+
+1144
+00:48:19,139 --> 00:48:22,219
+father
+
+1145
+00:48:20,219 --> 00:48:25,500
+and uh
+
+1146
+00:48:22,219 --> 00:48:27,838
+finally he said yes
+
+1147
+00:48:25,500 --> 00:48:31,500
+and then I was able to quickly hire
+
+1148
+00:48:27,838 --> 00:48:34,199
+three or four other outstanding people
+
+1149
+00:48:31,500 --> 00:48:37,139
+and uh and we did that over the next
+
+1150
+00:48:34,199 --> 00:48:38,578
+couple of years I uh I only really have
+
+1151
+00:48:37,139 --> 00:48:41,719
+one hero
+
+1152
+00:48:38,579 --> 00:48:45,359
+in my life and at Annex Abraham Lincoln
+
+1153
+00:48:41,719 --> 00:48:49,500
+many people I admire and so on but as a
+
+1154
+00:48:45,358 --> 00:48:52,500
+hero it's Abraham Lincoln and he had
+
+1155
+00:48:49,500 --> 00:48:55,858
+the following qualities
+
+1156
+00:48:52,500 --> 00:48:58,619
+uh he had very very good social skills
+
+1157
+00:48:55,858 --> 00:49:01,858
+people like to be around and he told a
+
+1158
+00:48:58,619 --> 00:49:03,660
+lot of jokes and so on
+
+1159
+00:49:01,858 --> 00:49:06,358
+he was very smart
+
+1160
+00:49:03,659 --> 00:49:09,719
+he was very smart and his uh middle
+
+1161
+00:49:06,358 --> 00:49:12,500
+before he became president he decided to
+
+1162
+00:49:09,719 --> 00:49:15,659
+study euclidean geometry and understand
+
+1163
+00:49:12,500 --> 00:49:19,079
+that much mathematics just on his own
+
+1164
+00:49:15,659 --> 00:49:22,019
+because he was just curious and he was a
+
+1165
+00:49:19,079 --> 00:49:22,880
+very very smart guy
+
+1166
+00:49:22,019 --> 00:49:25,679
+thank you
+
+1167
+00:49:22,880 --> 00:49:28,200
+good social skills wonderful social
+
+1168
+00:49:25,679 --> 00:49:30,419
+skills and
+
+1169
+00:49:28,199 --> 00:49:33,719
+determination
+
+1170
+00:49:30,420 --> 00:49:35,338
+we had determination
+
+1171
+00:49:33,719 --> 00:49:37,679
+we
+
+1172
+00:49:35,338 --> 00:49:39,599
+there were so many times during the
+
+1173
+00:49:37,679 --> 00:49:42,358
+Civil War where he could have just said
+
+1174
+00:49:39,599 --> 00:49:44,760
+to hell with it
+
+1175
+00:49:42,358 --> 00:49:48,900
+just have two countries so many people
+
+1176
+00:49:44,760 --> 00:49:51,839
+are being killed in this terrible War
+
+1177
+00:49:48,900 --> 00:49:53,400
+but he had a vision
+
+1178
+00:49:51,838 --> 00:49:56,159
+of America
+
+1179
+00:49:53,400 --> 00:49:59,039
+and he stuck to that vision
+
+1180
+00:49:56,159 --> 00:50:02,219
+and and uh
+
+1181
+00:49:59,039 --> 00:50:05,779
+just wouldn't give up
+
+1182
+00:50:02,219 --> 00:50:07,559
+and over time uh he was right
+
+1183
+00:50:05,780 --> 00:50:09,300
+and that
+
+1184
+00:50:07,559 --> 00:50:11,159
+that entry together
+
+1185
+00:50:09,300 --> 00:50:15,420
+when the Civil War I say we won the
+
+1186
+00:50:11,159 --> 00:50:18,480
+Civil War the north the North
+
+1187
+00:50:15,420 --> 00:50:20,220
+and uh
+
+1188
+00:50:18,480 --> 00:50:24,539
+and then
+
+1189
+00:50:20,219 --> 00:50:28,139
+he gossed with great effort the
+
+1190
+00:50:24,539 --> 00:50:31,440
+amendment passed which abolished slavery
+
+1191
+00:50:28,139 --> 00:50:33,719
+in the United States yes and that was
+
+1192
+00:50:31,440 --> 00:50:36,599
+very difficult to get past
+
+1193
+00:50:33,719 --> 00:50:40,078
+but he knew he had a how to get it
+
+1194
+00:50:36,599 --> 00:50:42,300
+passed before the war was over and there
+
+1195
+00:50:40,079 --> 00:50:44,760
+were a lot of seven Southerners now back
+
+1196
+00:50:42,300 --> 00:50:45,900
+in the Congress and it would it wouldn't
+
+1197
+00:50:44,760 --> 00:50:49,319
+get passed
+
+1198
+00:50:45,900 --> 00:50:51,180
+and he said to his his guys
+
+1199
+00:50:49,318 --> 00:50:54,358
+he said
+
+1200
+00:50:51,179 --> 00:50:57,299
+this is very important I want you to go
+
+1201
+00:50:54,358 --> 00:50:58,619
+out and do everything you can twist
+
+1202
+00:50:57,300 --> 00:51:01,380
+every arm
+
+1203
+00:50:58,619 --> 00:51:03,780
+give people this or that if they if they
+
+1204
+00:51:01,380 --> 00:51:05,160
+feel they need it uh
+
+1205
+00:51:03,780 --> 00:51:09,000
+uh I'm the president of the United
+
+1206
+00:51:05,159 --> 00:51:12,118
+States um he was with great power use
+
+1207
+00:51:09,000 --> 00:51:16,619
+that power and get this uh Amendment
+
+1208
+00:51:12,119 --> 00:51:17,519
+passed and it worked yeah so uh I think
+
+1209
+00:51:16,619 --> 00:51:20,099
+it was
+
+1210
+00:51:17,519 --> 00:51:22,440
+just just a great man in every respect
+
+1211
+00:51:20,099 --> 00:51:26,579
+Euclid what he said was self-evident
+
+1212
+00:51:22,440 --> 00:51:28,740
+were the axioms the parallelism Axiom uh
+
+1213
+00:51:26,579 --> 00:51:32,339
+that was the toughest one two points
+
+1214
+00:51:28,739 --> 00:51:35,759
+describe a unique line and uh
+
+1215
+00:51:32,338 --> 00:51:39,480
+and the intersection uh principle so
+
+1216
+00:51:35,760 --> 00:51:42,720
+those he said were self-evident but from
+
+1217
+00:51:39,480 --> 00:51:44,460
+then on the theorems that developed from
+
+1218
+00:51:42,719 --> 00:51:45,659
+these were not self-evident they were
+
+1219
+00:51:44,460 --> 00:51:48,240
+all
+
+1220
+00:51:45,659 --> 00:51:51,239
+some of them looked obvious but
+
+1221
+00:51:48,239 --> 00:51:53,039
+nonetheless they were all proved using
+
+1222
+00:51:51,239 --> 00:51:56,419
+these initial
+
+1223
+00:51:53,039 --> 00:51:59,420
+quote unquote self-evident things
+
+1224
+00:51:56,420 --> 00:52:03,000
+now my
+
+1225
+00:51:59,420 --> 00:52:04,858
+discovery of Zeno's Paradox
+
+1226
+00:52:03,000 --> 00:52:06,960
+um
+
+1227
+00:52:04,858 --> 00:52:08,639
+when I was a little boy maybe three or
+
+1228
+00:52:06,960 --> 00:52:10,559
+four
+
+1229
+00:52:08,639 --> 00:52:15,719
+I was riding in the car with my father
+
+1230
+00:52:10,559 --> 00:52:18,180
+and he he said he had a stop to get gas
+
+1231
+00:52:15,719 --> 00:52:20,699
+I said why why do you do that he said I
+
+1232
+00:52:18,179 --> 00:52:23,159
+don't want to run out of gas
+
+1233
+00:52:20,699 --> 00:52:25,318
+because you know the car won't run
+
+1234
+00:52:23,159 --> 00:52:28,379
+and I said well
+
+1235
+00:52:25,318 --> 00:52:30,719
+why don't you just use half the amount
+
+1236
+00:52:28,380 --> 00:52:33,599
+that's in the tank
+
+1237
+00:52:30,719 --> 00:52:35,399
+and then use half of that and then use
+
+1238
+00:52:33,599 --> 00:52:38,300
+half of that
+
+1239
+00:52:35,400 --> 00:52:41,099
+Etc and you'll never run out
+
+1240
+00:52:38,300 --> 00:52:43,800
+you'll never run out of gas
+
+1241
+00:52:41,099 --> 00:52:45,960
+now it I didn't think it further through
+
+1242
+00:52:43,800 --> 00:52:48,260
+and realized yes but you'll never get
+
+1243
+00:52:45,960 --> 00:52:48,260
+anywhere
+
+1244
+00:52:48,920 --> 00:52:55,380
+do you think of math as beautiful in the
+
+1245
+00:52:53,099 --> 00:52:57,599
+sense that art is beautiful I mean we
+
+1246
+00:52:55,380 --> 00:53:00,240
+often hear this debate you know is
+
+1247
+00:52:57,599 --> 00:53:01,500
+mathematics discovered or invented I
+
+1248
+00:53:00,239 --> 00:53:03,719
+don't think people would say uh
+
+1249
+00:53:01,500 --> 00:53:05,760
+Michelangelo discovered you know the
+
+1250
+00:53:03,719 --> 00:53:07,439
+David inside of a block of marble even
+
+1251
+00:53:05,760 --> 00:53:10,260
+though he would say stuff like that but
+
+1252
+00:53:07,440 --> 00:53:12,358
+he actually created it but mathematics
+
+1253
+00:53:10,260 --> 00:53:13,859
+and what's chiseled into your wall in
+
+1254
+00:53:12,358 --> 00:53:16,019
+the Simon Center
+
+1255
+00:53:13,858 --> 00:53:18,598
+do you feel that that's you know
+
+1256
+00:53:16,019 --> 00:53:20,759
+discovered or really is it invented by
+
+1257
+00:53:18,599 --> 00:53:22,920
+the human mind and then the follow-up
+
+1258
+00:53:20,760 --> 00:53:25,559
+question after you answer that will be
+
+1259
+00:53:22,920 --> 00:53:28,139
+is it beautiful is it does it rank among
+
+1260
+00:53:25,559 --> 00:53:30,440
+alongside great music great artwork and
+
+1261
+00:53:28,139 --> 00:53:33,358
+if so why so first is mathematics
+
+1262
+00:53:30,440 --> 00:53:36,059
+discovered or invented the way art or
+
+1263
+00:53:33,358 --> 00:53:39,119
+the you know inventions are found yeah
+
+1264
+00:53:36,059 --> 00:53:41,579
+that's a uh standard question yeah and
+
+1265
+00:53:39,119 --> 00:53:43,380
+uh
+
+1266
+00:53:41,579 --> 00:53:47,400
+it's
+
+1267
+00:53:43,380 --> 00:53:47,400
+it's both hmm
+
+1268
+00:53:48,659 --> 00:53:53,879
+every true theorem
+
+1269
+00:53:51,059 --> 00:53:56,640
+is out there
+
+1270
+00:53:53,880 --> 00:54:01,200
+the number of true theorems
+
+1271
+00:53:56,639 --> 00:54:01,199
+is I believe infinite
+
+1272
+00:54:01,440 --> 00:54:06,780
+and the number of definitions that one
+
+1273
+00:54:03,900 --> 00:54:10,680
+can make is infinite
+
+1274
+00:54:06,780 --> 00:54:12,000
+so all these things are out there
+
+1275
+00:54:10,679 --> 00:54:14,960
+but
+
+1276
+00:54:12,000 --> 00:54:14,960
+on the other hand
+
+1277
+00:54:15,059 --> 00:54:19,380
+you don't
+
+1278
+00:54:16,380 --> 00:54:20,760
+know this there's no book of all these
+
+1279
+00:54:19,380 --> 00:54:22,800
+things because
+
+1280
+00:54:20,760 --> 00:54:26,460
+it's an infinite number of possible
+
+1281
+00:54:22,800 --> 00:54:28,380
+theorems and definitions the key is in
+
+1282
+00:54:26,460 --> 00:54:31,858
+doing mathematics
+
+1283
+00:54:28,380 --> 00:54:33,780
+to let's say find a good definition a
+
+1284
+00:54:31,858 --> 00:54:38,039
+definition that will get you somewhere a
+
+1285
+00:54:33,780 --> 00:54:40,440
+definition that will unify perhaps other
+
+1286
+00:54:38,039 --> 00:54:41,699
+things and so on
+
+1287
+00:54:40,440 --> 00:54:44,639
+so
+
+1288
+00:54:41,699 --> 00:54:48,358
+that's a creative act so it's a creative
+
+1289
+00:54:44,639 --> 00:54:51,118
+act to find something interesting in an
+
+1290
+00:54:48,358 --> 00:54:52,558
+infinite field in an infinite collection
+
+1291
+00:54:51,119 --> 00:54:55,260
+of
+
+1292
+00:54:52,559 --> 00:54:56,760
+of things so it's out there
+
+1293
+00:54:55,260 --> 00:54:59,040
+but
+
+1294
+00:54:56,760 --> 00:55:01,380
+you have to find it
+
+1295
+00:54:59,039 --> 00:55:04,199
+and have a good taste
+
+1296
+00:55:01,380 --> 00:55:07,220
+uh in in finding something that will
+
+1297
+00:55:04,199 --> 00:55:10,078
+really go somewhere so our segue between
+
+1298
+00:55:07,219 --> 00:55:12,899
+geometry and finance will be none other
+
+1299
+00:55:10,079 --> 00:55:14,880
+than Albert Einstein who once said that
+
+1300
+00:55:12,900 --> 00:55:17,220
+compound interest is the most powerful
+
+1301
+00:55:14,880 --> 00:55:20,280
+force in the universe compound interest
+
+1302
+00:55:17,219 --> 00:55:23,058
+is the eighth wonder of the world he who
+
+1303
+00:55:20,280 --> 00:55:27,780
+understands it earns it he who doesn't
+
+1304
+00:55:23,059 --> 00:55:29,579
+pays it uh do you agree with that uh I
+
+1305
+00:55:27,780 --> 00:55:30,960
+never heard that you never heard that
+
+1306
+00:55:29,579 --> 00:55:32,940
+okay I'll send you I'll send you an
+
+1307
+00:55:30,960 --> 00:55:34,260
+email with the quotient uh yeah so once
+
+1308
+00:55:32,940 --> 00:55:36,420
+again compound interest is the eighth
+
+1309
+00:55:34,260 --> 00:55:39,000
+wonder of the world he who understands
+
+1310
+00:55:36,420 --> 00:55:41,159
+it earns it and he who doesn't pays it
+
+1311
+00:55:39,000 --> 00:55:42,659
+what what is your notion of the what's
+
+1312
+00:55:41,159 --> 00:55:45,500
+the most powerful force in The World
+
+1313
+00:55:42,659 --> 00:55:48,598
+According to Jim Simons
+
+1314
+00:55:45,500 --> 00:55:50,818
+well the most powerful force in the
+
+1315
+00:55:48,599 --> 00:55:54,539
+world according to me is some physical
+
+1316
+00:55:50,818 --> 00:55:55,858
+Force I don't know which one to pick but
+
+1317
+00:55:54,539 --> 00:55:59,818
+uh
+
+1318
+00:55:55,858 --> 00:56:04,078
+but uh this of course is finance finance
+
+1319
+00:55:59,818 --> 00:56:05,579
+and not uh and not physics so uh
+
+1320
+00:56:04,079 --> 00:56:08,099
+d
+
+1321
+00:56:05,579 --> 00:56:09,420
+uh I've been pretty successful in
+
+1322
+00:56:08,099 --> 00:56:11,640
+finance
+
+1323
+00:56:09,420 --> 00:56:14,280
+uh you've had some success I would say
+
+1324
+00:56:11,639 --> 00:56:16,618
+yeah I've had some success today
+
+1325
+00:56:14,280 --> 00:56:19,559
+actually I I
+
+1326
+00:56:16,619 --> 00:56:21,300
+lots of money no no not a huge thing but
+
+1327
+00:56:19,559 --> 00:56:23,400
+I'm here for you Jim if you if you need
+
+1328
+00:56:21,300 --> 00:56:26,220
+anything
+
+1329
+00:56:23,400 --> 00:56:28,139
+wants to know uh the proprietary
+
+1330
+00:56:26,219 --> 00:56:30,358
+algorithms of the of The Medallion no
+
+1331
+00:56:28,139 --> 00:56:32,219
+he's uh he wants to know has it become
+
+1332
+00:56:30,358 --> 00:56:34,259
+harder for you
+
+1333
+00:56:32,219 --> 00:56:36,419
+um given the rise in quantitative hedge
+
+1334
+00:56:34,260 --> 00:56:38,940
+funds Quant funds and the thousands of
+
+1335
+00:56:36,420 --> 00:56:41,639
+phds trying to create new algorithms has
+
+1336
+00:56:38,940 --> 00:56:43,500
+that made it harder to create Alpha so
+
+1337
+00:56:41,639 --> 00:56:45,358
+um can you say what Alpha means in the
+
+1338
+00:56:43,500 --> 00:56:47,338
+context of hedge funds uh for people
+
+1339
+00:56:45,358 --> 00:56:49,578
+that aren't familiar and then answer
+
+1340
+00:56:47,338 --> 00:56:53,159
+that particular question
+
+1341
+00:56:49,579 --> 00:56:58,920
+well when you say Alpha first you have
+
+1342
+00:56:53,159 --> 00:57:03,179
+to understand beta and beta is the uh
+
+1343
+00:56:58,920 --> 00:57:06,300
+uh the stock market as a whole
+
+1344
+00:57:03,179 --> 00:57:10,618
+um let's say the s p average
+
+1345
+00:57:06,300 --> 00:57:13,140
+so you could just uh invest in that and
+
+1346
+00:57:10,619 --> 00:57:16,200
+you would be a hundred percent beta all
+
+1347
+00:57:13,139 --> 00:57:18,118
+your return would be would come from the
+
+1348
+00:57:16,199 --> 00:57:20,779
+let's say the s p the standard and
+
+1349
+00:57:18,119 --> 00:57:20,780
+Poor's average
+
+1350
+00:57:20,880 --> 00:57:29,338
+Alpha is
+
+1351
+00:57:23,280 --> 00:57:31,380
+a source of earnings that is orthogonal
+
+1352
+00:57:29,338 --> 00:57:34,980
+to that hmm
+
+1353
+00:57:31,380 --> 00:57:36,059
+it's orthogonal to that and uh so that's
+
+1354
+00:57:34,980 --> 00:57:38,760
+Alpha
+
+1355
+00:57:36,059 --> 00:57:40,740
+now some
+
+1356
+00:57:38,760 --> 00:57:43,380
+our Medallion fund
+
+1357
+00:57:40,739 --> 00:57:48,058
+is uh I think
+
+1358
+00:57:43,380 --> 00:57:51,180
+90 alpha or 95 percent Alpha it really
+
+1359
+00:57:48,059 --> 00:57:54,480
+doesn't matter where the stock market is
+
+1360
+00:57:51,179 --> 00:57:57,919
+going for The Medallion fund we have
+
+1361
+00:57:54,480 --> 00:58:00,599
+another Medallion fund is only open to
+
+1362
+00:57:57,920 --> 00:58:04,680
+employees of the of the company of
+
+1363
+00:58:00,599 --> 00:58:09,318
+Renaissance and me of course uh as a
+
+1364
+00:58:04,679 --> 00:58:11,179
+founder and shareholder so
+
+1365
+00:58:09,318 --> 00:58:14,579
+uh
+
+1366
+00:58:11,179 --> 00:58:17,159
+and and we have some publicly available
+
+1367
+00:58:14,579 --> 00:58:20,280
+funds which do have some beta they're
+
+1368
+00:58:17,159 --> 00:58:21,779
+not a hundred percent helpful and but of
+
+1369
+00:58:20,280 --> 00:58:23,880
+course they don't do as well
+
+1370
+00:58:21,780 --> 00:58:27,420
+as medallion
+
+1371
+00:58:23,880 --> 00:58:31,099
+but uh but they do uh quite well until
+
+1372
+00:58:27,420 --> 00:58:33,720
+today it had a bad day
+
+1373
+00:58:31,099 --> 00:58:35,579
+I'm sorry again I'm always here if you
+
+1374
+00:58:33,719 --> 00:58:37,939
+need uh if you need a cup of sugar I'm
+
+1375
+00:58:35,579 --> 00:58:37,940
+here
+
+1376
+00:58:38,099 --> 00:58:42,960
+um so in that space the question is um
+
+1377
+00:58:41,280 --> 00:58:44,880
+I've heard it described that these
+
+1378
+00:58:42,960 --> 00:58:46,880
+supercomputers and computers in general
+
+1379
+00:58:44,880 --> 00:58:50,160
+are of course increasing exponentially
+
+1380
+00:58:46,880 --> 00:58:52,798
+example of power computing power over
+
+1381
+00:58:50,159 --> 00:58:55,139
+time and cost is coming down and yet the
+
+1382
+00:58:52,798 --> 00:58:56,338
+super computers themselves are suffering
+
+1383
+00:58:55,139 --> 00:58:57,719
+from the fact that there's more
+
+1384
+00:58:56,338 --> 00:59:00,119
+subscriptions there's more people that
+
+1385
+00:58:57,719 --> 00:59:01,919
+want to use the computer now than in the
+
+1386
+00:59:00,119 --> 00:59:04,019
+earlier days so it's sort of offsetting
+
+1387
+00:59:01,920 --> 00:59:05,818
+the exponential gains and processing
+
+1388
+00:59:04,019 --> 00:59:07,980
+power and I guess James altitude's
+
+1389
+00:59:05,818 --> 00:59:10,980
+question here is has the just the net
+
+1390
+00:59:07,980 --> 00:59:12,920
+quantity of hedge funds and Quant PhD
+
+1391
+00:59:10,980 --> 00:59:15,960
+yes I understand that
+
+1392
+00:59:12,920 --> 00:59:17,099
+yeah I didn't answer that question yeah
+
+1393
+00:59:15,960 --> 00:59:19,139
+so
+
+1394
+00:59:17,099 --> 00:59:22,700
+I think the question is do we have
+
+1395
+00:59:19,139 --> 00:59:26,400
+competition and how much competition
+
+1396
+00:59:22,699 --> 00:59:27,960
+has competition hurt us
+
+1397
+00:59:26,400 --> 00:59:30,780
+because there are more and more
+
+1398
+00:59:27,960 --> 00:59:32,760
+quantitative funds up to a point I think
+
+1399
+00:59:30,780 --> 00:59:34,980
+most funds are not quantitative funds
+
+1400
+00:59:32,760 --> 00:59:38,460
+but they're certainly an increasing
+
+1401
+00:59:34,980 --> 00:59:42,900
+number of funds that are quantitative
+
+1402
+00:59:38,460 --> 00:59:45,720
+and uh our secret is just to stay ahead
+
+1403
+00:59:42,900 --> 00:59:49,260
+of everybody to hire the best possible
+
+1404
+00:59:45,719 --> 00:59:52,019
+people and the research goes on all the
+
+1405
+00:59:49,260 --> 00:59:55,559
+time all the time we're doing research
+
+1406
+00:59:52,019 --> 00:59:59,280
+trying to find new predictive signals
+
+1407
+00:59:55,559 --> 01:00:01,859
+new predictive signals uh for example
+
+1408
+00:59:59,280 --> 01:00:03,839
+that's a big example so a signal is well
+
+1409
+01:00:01,858 --> 01:00:04,980
+you know what a signal is it so it tells
+
+1410
+01:00:03,838 --> 01:00:06,900
+you what's
+
+1411
+01:00:04,980 --> 01:00:08,579
+a predictive signal was a signal that
+
+1412
+01:00:06,900 --> 01:00:11,039
+tells you what's gonna what's gonna
+
+1413
+01:00:08,579 --> 01:00:13,200
+happen there's some probability of right
+
+1414
+01:00:11,039 --> 01:00:15,798
+what's up with a greater than
+
+1415
+01:00:13,199 --> 01:00:18,480
+probability greater than a half
+
+1416
+01:00:15,798 --> 01:00:20,639
+and the more of these signals that you
+
+1417
+01:00:18,480 --> 01:00:22,920
+have
+
+1418
+01:00:20,639 --> 01:00:24,900
+an independent and not correlated with
+
+1419
+01:00:22,920 --> 01:00:28,260
+each other if they're highly correlated
+
+1420
+01:00:24,900 --> 01:00:29,039
+it's really just one signal but
+
+1421
+01:00:28,260 --> 01:00:32,160
+um
+
+1422
+01:00:29,039 --> 01:00:36,480
+the more you have the better
+
+1423
+01:00:32,159 --> 01:00:39,058
+and uh we have uh I won't even say the
+
+1424
+01:00:36,480 --> 01:00:41,338
+number and I'm not sure what it is but
+
+1425
+01:00:39,059 --> 01:00:45,240
+it's a very large number of predictive
+
+1426
+01:00:41,338 --> 01:00:47,818
+and they keep uh being developed and
+
+1427
+01:00:45,239 --> 01:00:51,358
+sometimes these signals lose their power
+
+1428
+01:00:47,818 --> 01:00:54,358
+yes and uh you have to discard them
+
+1429
+01:00:51,358 --> 01:00:55,500
+uh other people have caught on
+
+1430
+01:00:54,358 --> 01:00:58,619
+whatever
+
+1431
+01:00:55,500 --> 01:01:00,059
+in the earliest days of my
+
+1432
+01:00:58,619 --> 01:01:02,780
+Trading
+
+1433
+01:01:00,059 --> 01:01:06,359
+uh I traded Commodities
+
+1434
+01:01:02,780 --> 01:01:09,420
+and commodities had a tendency to trend
+
+1435
+01:01:06,358 --> 01:01:11,039
+a pretty strong tendency to Trend so
+
+1436
+01:01:09,420 --> 01:01:13,139
+that was a good way to make money you
+
+1437
+01:01:11,039 --> 01:01:15,358
+would just say well if it was up last
+
+1438
+01:01:13,139 --> 01:01:19,318
+week it's likely to be up next week or
+
+1439
+01:01:15,358 --> 01:01:22,558
+so on uh but people gradually caught on
+
+1440
+01:01:19,318 --> 01:01:24,960
+to trending so after uh
+
+1441
+01:01:22,559 --> 01:01:27,298
+several years or maybe
+
+1442
+01:01:24,960 --> 01:01:31,019
+10 years after I started in the business
+
+1443
+01:01:27,298 --> 01:01:34,259
+it the trending in Commodities had uh
+
+1444
+01:01:31,019 --> 01:01:36,179
+completely disappeared the stocks never
+
+1445
+01:01:34,260 --> 01:01:38,160
+trended particularly so there was no
+
+1446
+01:01:36,179 --> 01:01:42,000
+real trending in charge but commodity
+
+1447
+01:01:38,159 --> 01:01:45,199
+killed us and so so that's an example of
+
+1448
+01:01:42,000 --> 01:01:45,199
+a signal
+
+1449
+01:01:51,559 --> 01:01:58,260
+discovering new signals other people uh
+
+1450
+01:01:55,019 --> 01:02:00,500
+might find some of those as well and
+
+1451
+01:01:58,260 --> 01:02:03,240
+that might uh
+
+1452
+01:02:00,500 --> 01:02:05,519
+the effect of that might be but the
+
+1453
+01:02:03,239 --> 01:02:08,578
+signal kind of goes away because too
+
+1454
+01:02:05,519 --> 01:02:12,298
+many people are using it but um
+
+1455
+01:02:08,579 --> 01:02:14,339
+so we have awfully smart people and they
+
+1456
+01:02:12,298 --> 01:02:17,039
+keep coming up with new signals so
+
+1457
+01:02:14,338 --> 01:02:20,519
+that's and we've stayed
+
+1458
+01:02:17,039 --> 01:02:22,500
+you know we've stayed with ahead yeah
+
+1459
+01:02:20,519 --> 01:02:25,199
+so one thing I've always done is do
+
+1460
+01:02:22,500 --> 01:02:28,318
+something new I love to do something new
+
+1461
+01:02:25,199 --> 01:02:30,419
+and I don't like to run with the pack
+
+1462
+01:02:28,318 --> 01:02:34,259
+uh for one thing I'm not such a fast
+
+1463
+01:02:30,420 --> 01:02:35,760
+runner so uh you know if you're one of
+
+1464
+01:02:34,260 --> 01:02:37,859
+end people all working in the same
+
+1465
+01:02:35,760 --> 01:02:40,559
+problem in different places if well me I
+
+1466
+01:02:37,858 --> 01:02:42,119
+know I would I'd be last I you know I'm
+
+1467
+01:02:40,559 --> 01:02:43,798
+not going to win that race but if you
+
+1468
+01:02:42,119 --> 01:02:45,059
+can think of a new problem or a new way
+
+1469
+01:02:43,798 --> 01:02:47,880
+of doing something that other people
+
+1470
+01:02:45,059 --> 01:02:50,640
+aren't all working on at the same time
+
+1471
+01:02:47,880 --> 01:02:52,619
+maybe that'll give you a chance so
+
+1472
+01:02:50,639 --> 01:02:54,019
+do something new
+
+1473
+01:02:52,619 --> 01:02:56,818
+second
+
+1474
+01:02:54,019 --> 01:02:58,380
+collaborate with the best people you
+
+1475
+01:02:56,818 --> 01:03:00,900
+possibly can
+
+1476
+01:02:58,380 --> 01:03:03,180
+when you see a person get to know a
+
+1477
+01:03:00,900 --> 01:03:05,338
+person who seems like a like a great guy
+
+1478
+01:03:03,179 --> 01:03:07,618
+or a great gal to work with in something
+
+1479
+01:03:05,338 --> 01:03:10,440
+try to find a way to do it
+
+1480
+01:03:07,619 --> 01:03:13,680
+because uh that that gives you some
+
+1481
+01:03:10,440 --> 01:03:17,179
+reach and some scope and it's also fun
+
+1482
+01:03:13,679 --> 01:03:17,179
+to work with terrific people
+
+1483
+01:03:17,639 --> 01:03:23,039
+I wrote down here be guided by Beauty
+
+1484
+01:03:20,880 --> 01:03:24,720
+I really mean that I think pretty much
+
+1485
+01:03:23,039 --> 01:03:26,940
+everything I've done has had an
+
+1486
+01:03:24,719 --> 01:03:28,980
+aesthetic component at least to me now
+
+1487
+01:03:26,940 --> 01:03:31,380
+you might think well building a company
+
+1488
+01:03:28,980 --> 01:03:34,980
+that's trading bonds what's so aesthetic
+
+1489
+01:03:31,380 --> 01:03:36,960
+about that but it is what's ecstatic
+
+1490
+01:03:34,980 --> 01:03:39,179
+about it is doing it right
+
+1491
+01:03:36,960 --> 01:03:42,119
+doing it right getting the right kind of
+
+1492
+01:03:39,179 --> 01:03:43,558
+people and approaching the problem and
+
+1493
+01:03:42,119 --> 01:03:45,180
+doing it right
+
+1494
+01:03:43,559 --> 01:03:47,519
+and if you feel that you're the first
+
+1495
+01:03:45,179 --> 01:03:49,679
+one to do it right and I think we were
+
+1496
+01:03:47,519 --> 01:03:52,380
+that's a terrific feeling and it's a
+
+1497
+01:03:49,679 --> 01:03:55,980
+beautiful thing to do something right
+
+1498
+01:03:52,380 --> 01:03:57,838
+it's also a beautiful thing to solve a
+
+1499
+01:03:55,980 --> 01:03:59,818
+math problem or create some mathematics
+
+1500
+01:03:57,838 --> 01:04:02,818
+that people hadn't thought of before so
+
+1501
+01:03:59,818 --> 01:04:04,920
+be be guided by beauty is not such a bad
+
+1502
+01:04:02,818 --> 01:04:06,900
+principle
+
+1503
+01:04:04,920 --> 01:04:08,720
+and then I wrote down
+
+1504
+01:04:06,900 --> 01:04:12,660
+don't give up
+
+1505
+01:04:08,719 --> 01:04:14,939
+uh at least try not to give up
+
+1506
+01:04:12,659 --> 01:04:17,818
+and
+
+1507
+01:04:14,940 --> 01:04:19,619
+sometimes you can it's appropriate to be
+
+1508
+01:04:17,818 --> 01:04:22,318
+at something to be trying to do
+
+1509
+01:04:19,619 --> 01:04:24,539
+something for a hell of a long time
+
+1510
+01:04:22,318 --> 01:04:26,338
+and finally
+
+1511
+01:04:24,539 --> 01:04:30,259
+hope for some good luck
+
+1512
+01:04:26,338 --> 01:04:30,259
+so that's it
+
+1513
+01:04:33,420 --> 01:04:35,539
+okay
+
