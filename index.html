@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Repository</title>
+    <title>AI-Readable File Repository</title>
+    <meta name="description" content="Machine-readable file repository for AI analysis and ingestion">
+    <meta name="keywords" content="files, repository, AI, machine-readable, analysis">
     <style>
         * {
             margin: 0;
@@ -49,6 +51,26 @@
 
         .content {
             padding: 40px;
+        }
+
+        .api-info {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        .api-info h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+
+        .api-info code {
+            background: #e9ecef;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', monospace;
         }
 
         .search-box {
@@ -178,6 +200,11 @@
             color: #2c3e50;
         }
 
+        /* Hidden machine-readable data */
+        .machine-readable {
+            display: none;
+        }
+
         @media (max-width: 768px) {
             .header h1 {
                 font-size: 2rem;
@@ -196,11 +223,20 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>📚 File Repository</h1>
-            <p>Browse and access all your files</p>
+            <h1>📚 AI-Readable File Repository</h1>
+            <p>Machine-readable file index for AI analysis and ingestion</p>
         </div>
         
         <div class="content">
+            <div class="api-info">
+                <h3>🤖 For AI Systems</h3>
+                <p><strong>Repository:</strong> <code>yssnnssy/e</code></p>
+                <p><strong>Base URL:</strong> <code>https://raw.githubusercontent.com/yssnnssy/e/main/</code></p>
+                <p><strong>API Endpoint:</strong> <code>https://api.github.com/repos/yssnnssy/e/git/trees/main?recursive=1</code></p>
+                <p><strong>Total Files:</strong> <span id="fileCount">Loading...</span></p>
+                <p><strong>File Types:</strong> <span id="fileTypes">Loading...</span></p>
+            </div>
+
             <div class="search-box">
                 <input type="text" class="search-input" placeholder="🔍 Search files..." id="searchInput">
             </div>
@@ -211,47 +247,108 @@
         </div>
     </div>
 
+    <!-- Machine-readable data for AI consumption -->
+    <div class="machine-readable" id="machineReadableData">
+        <script type="application/json" id="fileIndex">
+        {
+            "repository": {
+                "name": "e",
+                "owner": "yssnnssy",
+                "url": "https://github.com/yssnnssy/e",
+                "pages_url": "https://yssnnssy.github.io/e/",
+                "branch": "main"
+            },
+            "files": [],
+            "metadata": {
+                "total_files": 0,
+                "file_types": [],
+                "last_updated": ""
+            },
+            "api_endpoints": {
+                "file_list": "https://api.github.com/repos/yssnnssy/e/git/trees/main?recursive=1",
+                "raw_file_base": "https://raw.githubusercontent.com/yssnnssy/e/main/",
+                "github_api_base": "https://api.github.com/repos/yssnnssy/e"
+            },
+            "instructions_for_ai": {
+                "description": "This repository contains files that can be fetched and analyzed by AI systems",
+                "access_method": "Use the raw GitHub URLs to fetch file contents directly",
+                "rate_limits": "GitHub API has rate limits - 60 requests/hour for unauthenticated, 5000/hour for authenticated",
+                "file_access": "All files are publicly accessible via their raw URLs",
+                "supported_operations": ["fetch", "download", "analyze", "index", "search"]
+            }
+        }
+        </script>
+    </div>
+
     <script>
-        let allFiles = []; // This will store all fetched files
+        let allFiles = [];
 
         function getFileIcon(filename) {
-            const ext = filename.split('.').pop().toLowerCase();
+            const ext = filename.split(".").pop().toLowerCase();
             switch (ext) {
-                case 'pdf': return 'PDF';
-                case 'jpg':
-                case 'jpeg':
-                case 'png':
-                case 'gif': return 'IMG';
-                case 'srt': return 'SRT';
-                case 'txt': return 'TXT';
-                case 'zip':
-                case 'rar': return 'ZIP';
-                case 'doc':
-                case 'docx': return 'DOC';
-                case 'xls':
-                case 'xlsx': return 'XLS';
-                case 'ppt':
-                case 'pptx': return 'PPT';
-                case 'mp3':
-                case 'wav': return 'AUD';
-                case 'mp4':
-                case 'mov': return 'VID';
-                default: return 'FILE';
+                case "pdf": return "PDF";
+                case "jpg":
+                case "jpeg":
+                case "png":
+                case "gif": return "IMG";
+                case "srt": return "SRT";
+                case "txt": return "TXT";
+                case "zip":
+                case "rar": return "ZIP";
+                case "doc":
+                case "docx": return "DOC";
+                case "xls":
+                case "xlsx": return "XLS";
+                case "ppt":
+                case "pptx": return "PPT";
+                case "mp3":
+                case "wav": return "AUD";
+                case "mp4":
+                case "mov": return "VID";
+                default: return "FILE";
+            }
+        }
+
+        function getFileCategory(filename) {
+            const ext = filename.split(".").pop().toLowerCase();
+            switch (ext) {
+                case "pdf":
+                case "doc":
+                case "docx":
+                case "txt": return "document";
+                case "jpg":
+                case "jpeg":
+                case "png":
+                case "gif": return "image";
+                case "srt": return "subtitle";
+                case "mp3":
+                case "wav": return "audio";
+                case "mp4":
+                case "mov": return "video";
+                case "zip":
+                case "rar": return "archive";
+                default: return "other";
             }
         }
 
         function formatFileSize(bytes) {
-            if (bytes === 0) return '0 Bytes';
+            if (bytes === 0) return "0 Bytes";
             const k = 1024;
-            const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+            const sizes = ["Bytes", "KB", "MB", "GB"];
             const i = Math.floor(Math.log(bytes) / Math.log(k));
-            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + " " + sizes[i];
         }
 
         function createFileCard(file) {
             const fileIcon = getFileIcon(file.name);
             return `
-                <div class="file-card" data-filename="${file.name.toLowerCase()}">
+                <div class="file-card" 
+                     data-filename="${file.name.toLowerCase()}" 
+                     data-filetype="${fileIcon.toLowerCase()}" 
+                     data-filepath="${file.path}" 
+                     data-filesize="${file.size}"
+                     data-category="${getFileCategory(file.name)}"
+                     data-extension="${file.name.split('.').pop().toLowerCase()}">
                     <div class="file-icon">${fileIcon}</div>
                     <div class="file-name">${file.name}</div>
                     <div class="file-size">${file.size || 'Unknown size'}</div>
@@ -268,7 +365,7 @@
         }
 
         function renderFiles(files) {
-            const fileListContainer = document.getElementById('fileList');
+            const fileListContainer = document.getElementById("fileList");
             
             if (files.length === 0) {
                 fileListContainer.innerHTML = `
@@ -280,7 +377,7 @@
                 return;
             }
 
-            const fileGrid = files.map(createFileCard).join('');
+            const fileGrid = files.map(createFileCard).join("");
             fileListContainer.innerHTML = `<div class="file-grid">${fileGrid}</div>`;
         }
 
@@ -291,10 +388,35 @@
             renderFiles(filteredFiles);
         }
 
+        function updateMachineReadableData(files) {
+            const fileIndexScript = document.getElementById("fileIndex");
+            const data = JSON.parse(fileIndexScript.textContent);
+            
+            data.files = files.map(file => ({
+                name: file.name,
+                type: file.name.split('.').pop().toLowerCase(),
+                url: file.path,
+                download_url: file.path,
+                size: file.size,
+                extension: file.name.split('.').pop().toLowerCase(),
+                category: getFileCategory(file.name)
+            }));
+            
+            data.metadata.total_files = files.length;
+            data.metadata.file_types = [...new Set(files.map(f => f.name.split('.').pop().toLowerCase()))];
+            data.metadata.last_updated = new Date().toISOString();
+            
+            fileIndexScript.textContent = JSON.stringify(data, null, 2);
+            
+            // Update UI counters
+            document.getElementById("fileCount").textContent = files.length;
+            document.getElementById("fileTypes").textContent = data.metadata.file_types.join(", ");
+        }
+
         async function fetchRepositoryContents() {
-            const username = 'yssnnssy'; // Replace with your GitHub username
-            const repo = 'e'; // Replace with your repository name
-            const branch = 'main'; // Or 'gh-pages' if you deploy from that branch
+            const username = "yssnnssy";
+            const repo = "e";
+            const branch = "main";
             const apiUrl = `https://api.github.com/repos/${username}/${repo}/git/trees/${branch}?recursive=1`;
 
             try {
@@ -304,22 +426,22 @@
                 }
                 const data = await response.json();
                 
-                // Filter for files (not directories) and exclude .git* files
                 allFiles = data.tree
-                    .filter(item => item.type === 'blob' && !item.path.startsWith('.git'))
+                    .filter(item => item.type === "blob" && !item.path.startsWith(".git"))
                     .map(item => ({
-                        name: item.path.split('/').pop(), // Get just the filename
+                        name: item.path.split("/").pop(),
                         path: `https://raw.githubusercontent.com/${username}/${repo}/${branch}/${item.path}`,
-                        size: item.size ? formatFileSize(item.size) : 'Unknown size' // GitHub API provides size in bytes
+                        size: item.size ? formatFileSize(item.size) : "Unknown size"
                     }));
 
                 renderFiles(allFiles);
+                updateMachineReadableData(allFiles);
             } catch (error) {
-                console.error('Error fetching repository contents:', error);
-                document.getElementById('fileList').innerHTML = `
+                console.error("Error fetching repository contents:", error);
+                document.getElementById("fileList").innerHTML = `
                     <div class="no-files">
                         <h3>Error loading files</h3>
-                        <p>Could not fetch repository contents. Please check your username, repository name, and branch, or try again later.</p>
+                        <p>Could not fetch repository contents. Please try again later.</p>
                         <p>Details: ${error.message}</p>
                     </div>
                 `;
@@ -327,15 +449,25 @@
         }
 
         // Initialize the page
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener("DOMContentLoaded", function() {
             fetchRepositoryContents();
             
-            // Search functionality
-            const searchInput = document.getElementById('searchInput');
-            searchInput.addEventListener('input', function() {
+            const searchInput = document.getElementById("searchInput");
+            searchInput.addEventListener("input", function() {
                 filterFiles(this.value);
             });
         });
+
+        // Global function for AI systems to access file data
+        window.getFileIndex = function() {
+            const fileIndexScript = document.getElementById("fileIndex");
+            return JSON.parse(fileIndexScript.textContent);
+        };
+
+        // Global function to get all files data
+        window.getAllFiles = function() {
+            return allFiles;
+        };
     </script>
 </body>
 </html>
